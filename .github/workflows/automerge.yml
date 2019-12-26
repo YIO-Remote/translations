@@ -3,7 +3,7 @@ on:
   pull_request:
     types: [labeled]
     branches:
-      - master/*       # The branch you want to automatically merge pull request
+      - l10n_master      # The branch you want to automatically merge pull request
 jobs:
   Run Actions:
     runs-on: [ubuntu-latest]
@@ -11,7 +11,4 @@ jobs:
     - name: Automatically Merge PR
       uses: plm9606/automerge_actions@1.0.0
       with:
-        # The PR label name you want to use when merge PR automatically.
-        label-name: automerge
-        # GitHub WebHook Secret Token
         github-token: ${{ secrets.GH_TOK }}
