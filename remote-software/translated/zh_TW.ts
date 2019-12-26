@@ -6,38 +6,38 @@
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="76"/>
       <source>Battery</source>
-      <translation type="unfinished">Battery</translation>
+      <translation>電量</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="97"/>
       <source>Battery health</source>
-      <translation type="unfinished">Battery health</translation>
+      <translation>電池壽命</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="133"/>
       <source>Screen on</source>
-      <translation type="unfinished">Screen on</translation>
+      <translation>開啟螢幕</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="161"/>
       <source>Screen off</source>
-      <translation type="unfinished">Screen off</translation>
+      <translation>關閉螢幕</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="198"/>
       <source>Battery level</source>
-      <translation type="unfinished">Battery level</translation>
+      <translation>電池存量</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="258"/>
       <source>Average power</source>
-      <translation type="unfinished">Average power</translation>
+      <translation>平均電量</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="334"/>
       <source>No data available yet</source>
       <extracomment>Battery level history data. When no data avaialable yet it shows this text under the empty graph.</extracomment>
-      <translation type="unfinished">No data available yet</translation>
+      <translation>暫時沒有可用資料</translation>
     </message>
   </context>
   <context>
@@ -45,17 +45,17 @@
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="40"/>
       <source>Bluetooth</source>
-      <translation type="unfinished">Bluetooth</translation>
+      <translation>藍牙</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="61"/>
       <source>Area detection</source>
-      <translation type="unfinished">Area detection</translation>
+      <translation>區域偵測</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="100"/>
       <source>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</source>
-      <translation type="unfinished">Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</translation>
+      <translation>自動掃描與區域相關的藍牙信標，尋找最近的區域並顯示該區域中的設備。</translation>
     </message>
   </context>
   <context>
@@ -65,14 +65,14 @@
       <location filename="../components/light/ui/Button.qml" line="380"/>
       <location filename="../components/weather/ui/Button.qml" line="340"/>
       <source>Remove from favorites</source>
-      <translation type="unfinished">Remove from favorites</translation>
+      <translation>從收藏中移除</translation>
     </message>
     <message>
       <location filename="../components/blind/ui/Button.qml" line="386"/>
       <location filename="../components/light/ui/Button.qml" line="380"/>
       <location filename="../components/weather/ui/Button.qml" line="340"/>
       <source>Add to favorites</source>
-      <translation type="unfinished">Add to favorites</translation>
+      <translation>添加到收藏</translation>
     </message>
   </context>
   <context>
@@ -144,7 +144,7 @@
     <message>
       <location filename="../basic_ui/ChargingScreen.qml" line="155"/>
       <source>% Charged</source>
-      <translation type="unfinished">% Charged</translation>
+      <translation>%充電</translation>
     </message>
   </context>
   <context>
@@ -160,12 +160,12 @@
     <message>
       <location filename="../basic_ui/settings/Devices.qml" line="39"/>
       <source>Devices</source>
-      <translation type="unfinished">Devices</translation>
+      <translation>設備</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Devices.qml" line="60"/>
       <source>Add new</source>
-      <translation type="unfinished">Add new</translation>
+      <translation>新增</translation>
     </message>
   </context>
   <context>
@@ -173,27 +173,27 @@
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="40"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>顯示</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="61"/>
       <source>Auto brightness</source>
-      <translation type="unfinished">Auto brightness</translation>
+      <translation>自動調整亮度</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="166"/>
       <source>Dark mode</source>
-      <translation type="unfinished">Dark mode</translation>
+      <translation>深色主題</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="204"/>
       <source>Cleaning mode</source>
-      <translation type="unfinished">Cleaning mode</translation>
+      <translation>清潔模式</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="219"/>
       <source>Touch the display for 10 seconds to turn cleaning mode off.</source>
-      <translation type="unfinished">Touch the display for 10 seconds to turn cleaning mode off.</translation>
+      <translation>長按螢幕10秒後關閉清潔模式</translation>
     </message>
   </context>
   <context>
@@ -201,17 +201,17 @@
     <message>
       <location filename="../sources/entities/entities.h" line="112"/>
       <source>Lights</source>
-      <translation type="unfinished">Lights</translation>
+      <translation>燈</translation>
     </message>
     <message>
       <location filename="../sources/entities/entities.h" line="112"/>
       <source>Blinds</source>
-      <translation type="unfinished">Blinds</translation>
+      <translation>百葉窗</translation>
     </message>
     <message>
       <location filename="../sources/entities/entities.h" line="112"/>
       <source>Media</source>
-      <translation type="unfinished">Media</translation>
+      <translation>多媒體</translation>
     </message>
     <message>
       <location filename="../sources/entities/entities.h" line="112"/>
@@ -261,7 +261,7 @@
     <message>
       <location filename="../basic_ui/settings/Languages.qml" line="47"/>
       <source>Languages</source>
-      <translation type="unfinished">Languages</translation>
+      <translation>語言</translation>
     </message>
   </context>
   <context>
@@ -270,22 +270,22 @@
       <location filename="../basic_ui/MainNavigation.qml" line="62"/>
       <source>Favorites</source>
       <extracomment>menu items that are in the bottom menu</extracomment>
-      <translation type="unfinished">Favorites</translation>
+      <translation>收藏</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="62"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>設定</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="63"/>
       <source>Lights</source>
-      <translation type="unfinished">Lights</translation>
+      <translation>燈</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="63"/>
       <source>Blinds</source>
-      <translation type="unfinished">Blinds</translation>
+      <translation>百葉窗</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="63"/>
@@ -298,22 +298,22 @@
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="62"/>
       <source>Network</source>
-      <translation type="unfinished">Network</translation>
+      <translation>網絡</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="244"/>
       <source>Wi-Fi signal strength</source>
-      <translation type="unfinished">Wi-Fi signal strength</translation>
+      <translation>Wi-Fi 訊號強度</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="281"/>
       <source>IP address</source>
-      <translation type="unfinished">IP address</translation>
+      <translation>IP 位址</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="317"/>
       <source>MAC address</source>
-      <translation type="unfinished">MAC address</translation>
+      <translation>MAC 位址</translation>
     </message>
   </context>
   <context>
@@ -321,7 +321,7 @@
     <message>
       <location filename="../basic_ui/Notification.qml" line="266"/>
       <source>Dismiss</source>
-      <translation type="unfinished">Dismiss</translation>
+      <translation>略過</translation>
     </message>
   </context>
   <context>
@@ -329,7 +329,7 @@
     <message>
       <location filename="../basic_ui/NotificationDrawer.qml" line="38"/>
       <source>Notifications</source>
-      <translation type="unfinished">Notifications</translation>
+      <translation>提示信息</translation>
     </message>
   </context>
   <context>
@@ -337,12 +337,12 @@
     <message>
       <location filename="../basic_ui/PopupLowBattery.qml" line="120"/>
       <source>Low battery</source>
-      <translation type="unfinished">Low battery</translation>
+      <translation>電量不足</translation>
     </message>
     <message>
       <location filename="../basic_ui/PopupLowBattery.qml" line="135"/>
       <source>Please charge the remote soon</source>
-      <translation type="unfinished">Please charge the remote soon</translation>
+      <translation>請盡快充電</translation>
     </message>
   </context>
   <context>
@@ -350,43 +350,43 @@
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="39"/>
       <source>Power saving</source>
-      <translation type="unfinished">Power saving</translation>
+      <translation>省電模式</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="61"/>
       <source>Never turn off Wi-Fi</source>
-      <translation type="unfinished">Never turn off Wi-Fi</translation>
+      <translation>永不關閉 Wi-Fi</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="61"/>
       <source>Turn off Wi-Fi after %1 minutes of inactivity</source>
-      <translation type="unfinished">Turn off Wi-Fi after %1 minutes of inactivity</translation>
+      <translation>閑置 %1 分鐘後關閉 Wi-Fi</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="150"/>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="274"/>
       <source>Never</source>
-      <translation type="unfinished">Never</translation>
+      <translation>永不</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="163"/>
       <source>60 minutes</source>
-      <translation type="unfinished">60 minutes</translation>
+      <translation>60 分鐘</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="185"/>
       <source>Never turn off the remote</source>
-      <translation type="unfinished">Never turn off the remote</translation>
+      <translation>永不關閉遙控器</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="185"/>
       <source>Turn off the remote after %1 hours of inactivity</source>
-      <translation type="unfinished">Turn off the remote after %1 hours of inactivity</translation>
+      <translation>閑置 %1 小時後關閉遙控器</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="287"/>
       <source>8 hours</source>
-      <translation type="unfinished">8 hours</translation>
+      <translation>8 小時</translation>
     </message>
   </context>
   <context>
@@ -407,7 +407,7 @@
     <message>
       <location filename="../sources/hardware/proximity_gesture_control.h" line="145"/>
       <source>Cannot initialize the proximity sensor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the proximity sensor. Please restart the remote.</translation>
+      <translation>距離傳感器未能初始化。請重新啟動遙控器。</translation>
     </message>
   </context>
   <context>
@@ -416,14 +416,14 @@
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="42"/>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="63"/>
       <source>Remote configuration</source>
-      <translation type="unfinished">Remote configuration</translation>
+      <translation>遙控器設定</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="98"/>
       <source>Use your browser to configure your YIO remote or download and upload backups. Navigate your internet browser to:
 
 </source>
-      <translation type="unfinished">Use your browser to configure your YIO remote or download and upload backups. Navigate your internet browser to:
+      <translation>使用瀏覽器設定你的YIO遙控器或用作下載和上傳備份。 請在瀏覽器中輸入：
 
 </translation>
     </message>
@@ -435,7 +435,7 @@
       <location filename="../basic_ui/pages/Settings.qml" line="32"/>
       <source>Settings</source>
       <extracomment>Name of the settings page</extracomment>
-      <translation type="unfinished">Settings</translation>
+      <translation>設定</translation>
     </message>
   </context>
   <context>
@@ -443,51 +443,51 @@
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="41"/>
       <source>Software update</source>
-      <translation type="unfinished">Software update</translation>
+      <translation>軟體更新</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="62"/>
       <source>Auto update</source>
-      <translation type="unfinished">Auto update</translation>
+      <translation>自動更新</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="94"/>
       <source>Automatically look for updates and update when a new software version is available.
 Updates are installed between 03.00 am and 05.00 am.</source>
-      <translation type="unfinished">Automatically look for updates and update when a new software version is available.
-Updates are installed between 03.00 am and 05.00 am.</translation>
+      <translation>自動檢查更新，並在有新軟件版本時更新。
+更新會於03.00 am - 05.00 am之間安裝。</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="119"/>
       <source>New software is available.
 YIO remote </source>
-      <translation type="unfinished">New software is available.
-YIO remote </translation>
+      <translation>有新的軟件版本可用。
+YIO遙控器 </translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="119"/>
       <source>Your software is up to date.</source>
-      <translation type="unfinished">Your software is up to date.</translation>
+      <translation>您的系統已是最新狀態</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="136"/>
       <source>Installed version: YIO Remote </source>
-      <translation type="unfinished">Installed version: YIO Remote </translation>
+      <translation>已安裝的版本: YIO 遙控器 </translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="136"/>
       <source>YIO Remote </source>
-      <translation type="unfinished">YIO Remote </translation>
+      <translation>YIO 遙控器 </translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="151"/>
       <source>Update</source>
-      <translation type="unfinished">Update</translation>
+      <translation>更新</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="180"/>
       <source>Check for update</source>
-      <translation type="unfinished">Check for update</translation>
+      <translation>檢查更新</translation>
     </message>
   </context>
   <context>
@@ -495,27 +495,27 @@ YIO remote </translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="60"/>
       <source>System</source>
-      <translation type="unfinished">System</translation>
+      <translation>系統</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="81"/>
       <source>Uptime</source>
-      <translation type="unfinished">Uptime</translation>
+      <translation>執行時間</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="118"/>
       <source>CPU temperature</source>
-      <translation type="unfinished">CPU temperature</translation>
+      <translation>處理器溫度</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="154"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>重新啟動</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="171"/>
       <source>Shutdown</source>
-      <translation type="unfinished">Shutdown</translation>
+      <translation>關機</translation>
     </message>
   </context>
   <context>
@@ -524,7 +524,7 @@ YIO remote </translation>
       <location filename="../main.qml" line="241"/>
       <source>New software version is available!</source>
       <extracomment>Notification text when new software update is available</extracomment>
-      <translation type="unfinished">New software version is available!</translation>
+      <translation>有新版本可用！</translation>
     </message>
   </context>
   <context>
@@ -532,13 +532,13 @@ YIO remote </translation>
     <message>
       <location filename="../wifiSetup.qml" line="53"/>
       <source>Wi-Fi setup</source>
-      <translation type="unfinished">Wi-Fi setup</translation>
+      <translation>Wi-Fi 設定</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="71"/>
       <source>Connect to the Wi-Fi network
 </source>
-      <translation type="unfinished">Connect to the Wi-Fi network
+      <translation>連接Wi-Fi網絡
 </translation>
     </message>
     <message>
@@ -546,70 +546,67 @@ YIO remote </translation>
       <source>Open a web browser
 and navigate to
 yio.remote</source>
-      <translation type="unfinished">Open a web browser
-and navigate to
+      <translation>打開瀏覽器並瀏覽
 yio.remote</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="104"/>
       <source>Shutdown</source>
-      <translation type="unfinished">Shutdown</translation>
+      <translation>關機</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="131"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>已連接</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="148"/>
       <source>YIO Remote has successfully
 connected to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Remote has successfully
-connected to your Wi-Fi network.</translation>
+      <translation>YIO 遙控器已成功連接到您的Wi-Fi網絡。</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="162"/>
       <location filename="../wifiSetup.qml" line="302"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>繼續</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="181"/>
       <source>Not connected</source>
-      <translation type="unfinished">Not connected</translation>
+      <translation>未連接</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="198"/>
       <source>YIO Remote could not
 connect to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Remote could not
-connect to your Wi-Fi network.</translation>
+      <translation>YIO 遙控器未能連接到您的Wi-Fi網絡。</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="215"/>
       <source>Please try again</source>
-      <translation type="unfinished">Please try again</translation>
+      <translation>請再試一次</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="229"/>
       <source>Try again</source>
-      <translation type="unfinished">Try again</translation>
+      <translation>再試一次</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="284"/>
       <source>Connect the YIO Dock to a power source and wait until it starts blinking. To share the Wi-Fi network credentials with the dock, tap next.</source>
-      <translation type="unfinished">Connect the YIO Dock to a power source and wait until it starts blinking. To share the Wi-Fi network credentials with the dock, tap next.</translation>
+      <translation>請將YIO DOCK接上電源，並等待狀態顯示燈開始閃動。 要與YIO DOCK共享Wi-Fi網絡憑據，請點擊下一步</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="314"/>
       <location filename="../wifiSetup.qml" line="369"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>重新啟動</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="334"/>
       <source>Wi-Fi setup completed</source>
-      <translation type="unfinished">Wi-Fi setup completed</translation>
+      <translation>Wi-Fi 設定完成</translation>
     </message>
   </context>
 </TS>
