@@ -1,1 +1,3 @@
-fixed-branch: l10n_master
+feature: ['l10n_*']
+fix: fix/*
+chore: chore/*
