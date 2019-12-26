@@ -6,38 +6,38 @@
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="76"/>
       <source>Battery</source>
-      <translation type="unfinished">Battery</translation>
+      <translation>Batteri</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="97"/>
       <source>Battery health</source>
-      <translation type="unfinished">Battery health</translation>
+      <translation>Batteristatus</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="133"/>
       <source>Screen on</source>
-      <translation type="unfinished">Screen on</translation>
+      <translation>Skjerm på</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="161"/>
       <source>Screen off</source>
-      <translation type="unfinished">Screen off</translation>
+      <translation>Skjerm av</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="198"/>
       <source>Battery level</source>
-      <translation type="unfinished">Battery level</translation>
+      <translation>Batterinivå</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="258"/>
       <source>Average power</source>
-      <translation type="unfinished">Average power</translation>
+      <translation>Gjennomsnittlig forbruk</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="334"/>
       <source>No data available yet</source>
       <extracomment>Battery level history data. When no data avaialable yet it shows this text under the empty graph.</extracomment>
-      <translation type="unfinished">No data available yet</translation>
+      <translation>Ingen data tilgjengelig</translation>
     </message>
   </context>
   <context>
@@ -45,12 +45,12 @@
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="40"/>
       <source>Bluetooth</source>
-      <translation type="unfinished">Bluetooth</translation>
+      <translation>Blåtann</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="61"/>
       <source>Area detection</source>
-      <translation type="unfinished">Area detection</translation>
+      <translation>Områdedeteksjon</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="100"/>
@@ -65,14 +65,14 @@
       <location filename="../components/light/ui/Button.qml" line="380"/>
       <location filename="../components/weather/ui/Button.qml" line="340"/>
       <source>Remove from favorites</source>
-      <translation type="unfinished">Remove from favorites</translation>
+      <translation>Fjerne fra favoritter</translation>
     </message>
     <message>
       <location filename="../components/blind/ui/Button.qml" line="386"/>
       <location filename="../components/light/ui/Button.qml" line="380"/>
       <location filename="../components/weather/ui/Button.qml" line="340"/>
       <source>Add to favorites</source>
-      <translation type="unfinished">Add to favorites</translation>
+      <translation>Legg til i favoritter</translation>
     </message>
   </context>
   <context>
@@ -144,7 +144,7 @@
     <message>
       <location filename="../basic_ui/ChargingScreen.qml" line="155"/>
       <source>% Charged</source>
-      <translation type="unfinished">% Charged</translation>
+      <translation>% Ladet</translation>
     </message>
   </context>
   <context>
@@ -160,12 +160,12 @@
     <message>
       <location filename="../basic_ui/settings/Devices.qml" line="39"/>
       <source>Devices</source>
-      <translation type="unfinished">Devices</translation>
+      <translation>Enheter</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Devices.qml" line="60"/>
       <source>Add new</source>
-      <translation type="unfinished">Add new</translation>
+      <translation>Legg til ny</translation>
     </message>
   </context>
   <context>
@@ -173,27 +173,27 @@
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="40"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>Skjerm</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="61"/>
       <source>Auto brightness</source>
-      <translation type="unfinished">Auto brightness</translation>
+      <translation>Automatisk lysstyrke</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="166"/>
       <source>Dark mode</source>
-      <translation type="unfinished">Dark mode</translation>
+      <translation>Mørk tema</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="204"/>
       <source>Cleaning mode</source>
-      <translation type="unfinished">Cleaning mode</translation>
+      <translation>Rensemodus</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="219"/>
       <source>Touch the display for 10 seconds to turn cleaning mode off.</source>
-      <translation type="unfinished">Touch the display for 10 seconds to turn cleaning mode off.</translation>
+      <translation>Berør skjermen i 10 sekunder for å slå av rensemodus.</translation>
     </message>
   </context>
   <context>
@@ -261,7 +261,7 @@
     <message>
       <location filename="../basic_ui/settings/Languages.qml" line="47"/>
       <source>Languages</source>
-      <translation type="unfinished">Languages</translation>
+      <translation>Språk</translation>
     </message>
   </context>
   <context>
@@ -270,22 +270,22 @@
       <location filename="../basic_ui/MainNavigation.qml" line="62"/>
       <source>Favorites</source>
       <extracomment>menu items that are in the bottom menu</extracomment>
-      <translation type="unfinished">Favorites</translation>
+      <translation>Favoritter</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="62"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>Innstillinger</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="63"/>
       <source>Lights</source>
-      <translation type="unfinished">Lights</translation>
+      <translation>Lys</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="63"/>
       <source>Blinds</source>
-      <translation type="unfinished">Blinds</translation>
+      <translation>Persienner</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="63"/>
@@ -298,22 +298,22 @@
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="62"/>
       <source>Network</source>
-      <translation type="unfinished">Network</translation>
+      <translation>Nettverk</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="244"/>
       <source>Wi-Fi signal strength</source>
-      <translation type="unfinished">Wi-Fi signal strength</translation>
+      <translation>Signalstyrke</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="281"/>
       <source>IP address</source>
-      <translation type="unfinished">IP address</translation>
+      <translation>IP adresse</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="317"/>
       <source>MAC address</source>
-      <translation type="unfinished">MAC address</translation>
+      <translation>MAC adresse</translation>
     </message>
   </context>
   <context>
@@ -321,7 +321,7 @@
     <message>
       <location filename="../basic_ui/Notification.qml" line="266"/>
       <source>Dismiss</source>
-      <translation type="unfinished">Dismiss</translation>
+      <translation>Avskjedige</translation>
     </message>
   </context>
   <context>
@@ -329,7 +329,7 @@
     <message>
       <location filename="../basic_ui/NotificationDrawer.qml" line="38"/>
       <source>Notifications</source>
-      <translation type="unfinished">Notifications</translation>
+      <translation>Varslinger</translation>
     </message>
   </context>
   <context>
@@ -337,12 +337,12 @@
     <message>
       <location filename="../basic_ui/PopupLowBattery.qml" line="120"/>
       <source>Low battery</source>
-      <translation type="unfinished">Low battery</translation>
+      <translation>Lavt batteri</translation>
     </message>
     <message>
       <location filename="../basic_ui/PopupLowBattery.qml" line="135"/>
       <source>Please charge the remote soon</source>
-      <translation type="unfinished">Please charge the remote soon</translation>
+      <translation>Vennligst lad fjernkontrollen snarest</translation>
     </message>
   </context>
   <context>
@@ -350,43 +350,43 @@
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="39"/>
       <source>Power saving</source>
-      <translation type="unfinished">Power saving</translation>
+      <translation>Strømsparing</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="61"/>
       <source>Never turn off Wi-Fi</source>
-      <translation type="unfinished">Never turn off Wi-Fi</translation>
+      <translation>Aldri slå av Wi-Fi</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="61"/>
       <source>Turn off Wi-Fi after %1 minutes of inactivity</source>
-      <translation type="unfinished">Turn off Wi-Fi after %1 minutes of inactivity</translation>
+      <translation>Slå av Wi-Fi etter %1 minutters inaktivitet</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="150"/>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="274"/>
       <source>Never</source>
-      <translation type="unfinished">Never</translation>
+      <translation>Aldri</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="163"/>
       <source>60 minutes</source>
-      <translation type="unfinished">60 minutes</translation>
+      <translation>60 minutter</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="185"/>
       <source>Never turn off the remote</source>
-      <translation type="unfinished">Never turn off the remote</translation>
+      <translation>Aldri slå av fjernkontrollen</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="185"/>
       <source>Turn off the remote after %1 hours of inactivity</source>
-      <translation type="unfinished">Turn off the remote after %1 hours of inactivity</translation>
+      <translation>Slå av fjernkontrollen etter %1 times inaktivitet</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/PowerSaving.qml" line="287"/>
       <source>8 hours</source>
-      <translation type="unfinished">8 hours</translation>
+      <translation>8 timer</translation>
     </message>
   </context>
   <context>
@@ -407,7 +407,7 @@
     <message>
       <location filename="../sources/hardware/proximity_gesture_control.h" line="145"/>
       <source>Cannot initialize the proximity sensor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the proximity sensor. Please restart the remote.</translation>
+      <translation>Klarer ikke initialisere nærhetssensoren. Vennligst start fjernkontrollen på ny.</translation>
     </message>
   </context>
   <context>
@@ -416,14 +416,14 @@
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="42"/>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="63"/>
       <source>Remote configuration</source>
-      <translation type="unfinished">Remote configuration</translation>
+      <translation>Innstillinger for fjernkontroll</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="98"/>
       <source>Use your browser to configure your YIO remote or download and upload backups. Navigate your internet browser to:
 
 </source>
-      <translation type="unfinished">Use your browser to configure your YIO remote or download and upload backups. Navigate your internet browser to:
+      <translation>Bruk nettleseren din for å konfigurere fjernkontrollen, laste opp og ned sikkerherskopier. Gå til følgende webadresse:
 
 </translation>
     </message>
@@ -435,7 +435,7 @@
       <location filename="../basic_ui/pages/Settings.qml" line="32"/>
       <source>Settings</source>
       <extracomment>Name of the settings page</extracomment>
-      <translation type="unfinished">Settings</translation>
+      <translation>Innstillinger</translation>
     </message>
   </context>
   <context>
@@ -443,51 +443,49 @@
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="41"/>
       <source>Software update</source>
-      <translation type="unfinished">Software update</translation>
+      <translation>Oppdatering</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="62"/>
       <source>Auto update</source>
-      <translation type="unfinished">Auto update</translation>
+      <translation>Automatisk oppdatering</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="94"/>
       <source>Automatically look for updates and update when a new software version is available.
 Updates are installed between 03.00 am and 05.00 am.</source>
-      <translation type="unfinished">Automatically look for updates and update when a new software version is available.
-Updates are installed between 03.00 am and 05.00 am.</translation>
+      <translation>Last ned og installer oppdateringer automatisk når nye versjoner er tilgjengelige. Oppdateringerene blir installert mellom klokken 03:00 og 05:00.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="119"/>
       <source>New software is available.
 YIO remote </source>
-      <translation type="unfinished">New software is available.
-YIO remote </translation>
+      <translation>Ny programvare tilgjengelig </translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="119"/>
       <source>Your software is up to date.</source>
-      <translation type="unfinished">Your software is up to date.</translation>
+      <translation>Programvaren er oppdatert.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="136"/>
       <source>Installed version: YIO Remote </source>
-      <translation type="unfinished">Installed version: YIO Remote </translation>
+      <translation>Installert versjon: </translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="136"/>
       <source>YIO Remote </source>
-      <translation type="unfinished">YIO Remote </translation>
+      <translation>YIO Fjernkontroll </translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="151"/>
       <source>Update</source>
-      <translation type="unfinished">Update</translation>
+      <translation>Oppdatering</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="180"/>
       <source>Check for update</source>
-      <translation type="unfinished">Check for update</translation>
+      <translation>Se etter oppdateringer</translation>
     </message>
   </context>
   <context>
@@ -500,22 +498,22 @@ YIO remote </translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="81"/>
       <source>Uptime</source>
-      <translation type="unfinished">Uptime</translation>
+      <translation>Oppetid</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="118"/>
       <source>CPU temperature</source>
-      <translation type="unfinished">CPU temperature</translation>
+      <translation>Prosessor temperatur</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="154"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Start på nytt</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="171"/>
       <source>Shutdown</source>
-      <translation type="unfinished">Shutdown</translation>
+      <translation>Slå av</translation>
     </message>
   </context>
   <context>
@@ -524,7 +522,7 @@ YIO remote </translation>
       <location filename="../main.qml" line="241"/>
       <source>New software version is available!</source>
       <extracomment>Notification text when new software update is available</extracomment>
-      <translation type="unfinished">New software version is available!</translation>
+      <translation>Ny programvareversjon er tilgjengelig!</translation>
     </message>
   </context>
   <context>
@@ -532,84 +530,81 @@ YIO remote </translation>
     <message>
       <location filename="../wifiSetup.qml" line="53"/>
       <source>Wi-Fi setup</source>
-      <translation type="unfinished">Wi-Fi setup</translation>
+      <translation>Wi-fi Innstillinger</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="71"/>
       <source>Connect to the Wi-Fi network
 </source>
-      <translation type="unfinished">Connect to the Wi-Fi network
-</translation>
+      <translation>Koblet til Wi-fi </translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="89"/>
       <source>Open a web browser
 and navigate to
 yio.remote</source>
-      <translation type="unfinished">Open a web browser
-and navigate to
+      <translation>Åpne en nettleser
+og naviger til
 yio.remote</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="104"/>
       <source>Shutdown</source>
-      <translation type="unfinished">Shutdown</translation>
+      <translation>Slå av</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="131"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>Tilkoblet</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="148"/>
       <source>YIO Remote has successfully
 connected to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Remote has successfully
-connected to your Wi-Fi network.</translation>
+      <translation>Oppkoblingen til nettverket var vellykket.</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="162"/>
       <location filename="../wifiSetup.qml" line="302"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Neste</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="181"/>
       <source>Not connected</source>
-      <translation type="unfinished">Not connected</translation>
+      <translation>Frakoblet</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="198"/>
       <source>YIO Remote could not
 connect to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Remote could not
-connect to your Wi-Fi network.</translation>
+      <translation>Oppkobling til nettverket feilet.</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="215"/>
       <source>Please try again</source>
-      <translation type="unfinished">Please try again</translation>
+      <translation>Vennligst prøv igjen</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="229"/>
       <source>Try again</source>
-      <translation type="unfinished">Try again</translation>
+      <translation>Prøv Igjen</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="284"/>
       <source>Connect the YIO Dock to a power source and wait until it starts blinking. To share the Wi-Fi network credentials with the dock, tap next.</source>
-      <translation type="unfinished">Connect the YIO Dock to a power source and wait until it starts blinking. To share the Wi-Fi network credentials with the dock, tap next.</translation>
+      <translation>Koble dockingen til en strømkilde og vent til den begynner å blinke. For å dele nettverksinnstillinger med docken, trykk neste.</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="314"/>
       <location filename="../wifiSetup.qml" line="369"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Start enheten på ny</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="334"/>
       <source>Wi-Fi setup completed</source>
-      <translation type="unfinished">Wi-Fi setup completed</translation>
+      <translation>Konfigureringen av Wifi er fullført</translation>
     </message>
   </context>
 </TS>
