@@ -1,4 +1,4 @@
-name: Automatically merge translations
+name: Auto merge
 
 on:
   pull_request:
