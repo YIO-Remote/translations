@@ -1,5 +1,5 @@
 files:
-  - source: en_US.ts
+  - source: /remote-software/en_US.ts
     translation: /remote-software/translated/%locale_with_underscore%.ts
-  - source: en_US.ts
+  - source: /integration.home-assistant/en_US.ts
     translation: /integration.home-assistant/translated/%locale_with_underscore%.ts
