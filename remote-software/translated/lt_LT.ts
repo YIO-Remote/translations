@@ -93,7 +93,7 @@
     <message>
       <location filename="../components/media_player/ui/CardPlaylists.qml" line="94"/>
       <source>My playlists</source>
-      <translation type="unfinished">My playlists</translation>
+      <translation>Mano grojaraščiai</translation>
     </message>
   </context>
   <context>
@@ -102,41 +102,41 @@
       <location filename="../components/media_player/ui/CardSearch.qml" line="99"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="151"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Paieška</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="216"/>
       <source>Recent searches</source>
-      <translation type="unfinished">Recent searches</translation>
+      <translation>Naujausios paieškos</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="227"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Išvalyti</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="356"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="418"/>
       <source>Albums</source>
-      <translation type="unfinished">Albums</translation>
+      <translation>Albumai</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="358"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="420"/>
       <source>Tracks</source>
-      <translation type="unfinished">Tracks</translation>
+      <translation>Įrašai</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="360"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="422"/>
       <source>Artists</source>
-      <translation type="unfinished">Artists</translation>
+      <translation>Atlikėjai</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="362"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="424"/>
       <source>Playlists</source>
-      <translation type="unfinished">Playlists</translation>
+      <translation>Grojaraščiai</translation>
     </message>
   </context>
   <context>
@@ -144,7 +144,7 @@
     <message>
       <location filename="../basic_ui/ChargingScreen.qml" line="155"/>
       <source>% Charged</source>
-      <translation type="unfinished">% Charged</translation>
+      <translation>% įkrauta</translation>
     </message>
   </context>
   <context>
@@ -152,7 +152,7 @@
     <message>
       <location filename="../basic_ui/ContextMenu.qml" line="129"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Atšaukti</translation>
     </message>
   </context>
   <context>
@@ -160,12 +160,12 @@
     <message>
       <location filename="../basic_ui/settings/Devices.qml" line="39"/>
       <source>Devices</source>
-      <translation type="unfinished">Devices</translation>
+      <translation>Įrenginiai</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Devices.qml" line="60"/>
       <source>Add new</source>
-      <translation type="unfinished">Add new</translation>
+      <translation>Pridėti naują</translation>
     </message>
   </context>
   <context>
@@ -173,27 +173,27 @@
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="40"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>Ekranas</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="61"/>
       <source>Auto brightness</source>
-      <translation type="unfinished">Auto brightness</translation>
+      <translation>Automatinis šviesumas</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="166"/>
       <source>Dark mode</source>
-      <translation type="unfinished">Dark mode</translation>
+      <translation>Tamsus ręžimas</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="204"/>
       <source>Cleaning mode</source>
-      <translation type="unfinished">Cleaning mode</translation>
+      <translation>Valymo ręžimas</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="219"/>
       <source>Touch the display for 10 seconds to turn cleaning mode off.</source>
-      <translation type="unfinished">Touch the display for 10 seconds to turn cleaning mode off.</translation>
+      <translation>Prilieskite ekraną 10-čiai sekundžių kad išjungtumėte valymo ręžimą.</translation>
     </message>
   </context>
   <context>
@@ -201,22 +201,22 @@
     <message>
       <location filename="../sources/entities/entities.h" line="112"/>
       <source>Lights</source>
-      <translation type="unfinished">Lights</translation>
+      <translation>Šviesos</translation>
     </message>
     <message>
       <location filename="../sources/entities/entities.h" line="112"/>
       <source>Blinds</source>
-      <translation type="unfinished">Blinds</translation>
+      <translation>Užuolaidos</translation>
     </message>
     <message>
       <location filename="../sources/entities/entities.h" line="112"/>
       <source>Media</source>
-      <translation type="unfinished">Media</translation>
+      <translation>Medija</translation>
     </message>
     <message>
       <location filename="../sources/entities/entities.h" line="112"/>
       <source>Remote</source>
-      <translation type="unfinished">Remote</translation>
+      <translation>Nuotolinis</translation>
     </message>
   </context>
   <context>
@@ -225,7 +225,7 @@
       <location filename="../basic_ui/pages/Favorites.qml" line="30"/>
       <source>Favorites</source>
       <extracomment>Name of the settings page</extracomment>
-      <translation type="unfinished">Favorites</translation>
+      <translation>Mėgstamiausi</translation>
     </message>
   </context>
   <context>
@@ -233,27 +233,27 @@
     <message>
       <location filename="../basic_ui/settings/Integrations.qml" line="45"/>
       <source> - Disconnected</source>
-      <translation type="unfinished"> - Disconnected</translation>
+      <translation> - Atsijungęs</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Integrations.qml" line="146"/>
       <source>Connect</source>
-      <translation type="unfinished">Connect</translation>
+      <translation>Prisijungti</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Integrations.qml" line="182"/>
       <source>Disconnect</source>
-      <translation type="unfinished">Disconnect</translation>
+      <translation>Atsijungti</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Integrations.qml" line="212"/>
       <source>Integrations</source>
-      <translation type="unfinished">Integrations</translation>
+      <translation>Integracijos</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Integrations.qml" line="253"/>
       <source>Add new</source>
-      <translation type="unfinished">Add new</translation>
+      <translation>Pridėti naują</translation>
     </message>
   </context>
   <context>
@@ -261,7 +261,7 @@
     <message>
       <location filename="../basic_ui/settings/Languages.qml" line="47"/>
       <source>Languages</source>
-      <translation type="unfinished">Languages</translation>
+      <translation>Kalbos</translation>
     </message>
   </context>
   <context>
@@ -270,27 +270,27 @@
       <location filename="../basic_ui/MainNavigation.qml" line="62"/>
       <source>Favorites</source>
       <extracomment>menu items that are in the bottom menu</extracomment>
-      <translation type="unfinished">Favorites</translation>
+      <translation>Mėgstamiausi</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="62"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>Nustatymai</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="63"/>
       <source>Lights</source>
-      <translation type="unfinished">Lights</translation>
+      <translation>Šviesos</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="63"/>
       <source>Blinds</source>
-      <translation type="unfinished">Blinds</translation>
+      <translation>Užuolaidos</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="63"/>
       <source>Media</source>
-      <translation type="unfinished">Media</translation>
+      <translation>Medija</translation>
     </message>
   </context>
   <context>
@@ -298,22 +298,22 @@
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="62"/>
       <source>Network</source>
-      <translation type="unfinished">Network</translation>
+      <translation>Tinklas</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="244"/>
       <source>Wi-Fi signal strength</source>
-      <translation type="unfinished">Wi-Fi signal strength</translation>
+      <translation>Bevielio signalo stiprumas</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="281"/>
       <source>IP address</source>
-      <translation type="unfinished">IP address</translation>
+      <translation>IP adresas</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="317"/>
       <source>MAC address</source>
-      <translation type="unfinished">MAC address</translation>
+      <translation>MAC adresas</translation>
     </message>
   </context>
   <context>
@@ -321,7 +321,7 @@
     <message>
       <location filename="../basic_ui/Notification.qml" line="266"/>
       <source>Dismiss</source>
-      <translation type="unfinished">Dismiss</translation>
+      <translation>Atšaukti</translation>
     </message>
   </context>
   <context>
@@ -329,7 +329,7 @@
     <message>
       <location filename="../basic_ui/NotificationDrawer.qml" line="38"/>
       <source>Notifications</source>
-      <translation type="unfinished">Notifications</translation>
+      <translation>Pranešimai</translation>
     </message>
   </context>
   <context>
@@ -337,7 +337,7 @@
     <message>
       <location filename="../basic_ui/PopupLowBattery.qml" line="120"/>
       <source>Low battery</source>
-      <translation type="unfinished">Low battery</translation>
+      <translation>Žemas baterijos lygis</translation>
     </message>
     <message>
       <location filename="../basic_ui/PopupLowBattery.qml" line="135"/>
