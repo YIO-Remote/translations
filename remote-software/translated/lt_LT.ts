@@ -407,7 +407,7 @@
     <message>
       <location filename="../sources/hardware/proximity_gesture_control.h" line="145"/>
       <source>Cannot initialize the proximity sensor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the proximity sensor. Please restart the remote.</translation>
+      <translation>Negali paleisti atstumo jutiklio. Prašau perkraukite distancinio valdymo pultą.</translation>
     </message>
   </context>
   <context>
@@ -416,16 +416,14 @@
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="42"/>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="63"/>
       <source>Remote configuration</source>
-      <translation type="unfinished">Remote configuration</translation>
+      <translation>Valdymo nustatymai</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="98"/>
       <source>Use your browser to configure your YIO remote or download and upload backups. Navigate your internet browser to:
 
 </source>
-      <translation type="unfinished">Use your browser to configure your YIO remote or download and upload backups. Navigate your internet browser to:
-
-</translation>
+      <translation>YIO nustatymams naudokite interneto naršyklę arba parsisiųskite ir nusiųskite atsargines duomenų kopijas. Interneto naršyklėje atidarykite: </translation>
     </message>
   </context>
   <context>
@@ -435,7 +433,7 @@
       <location filename="../basic_ui/pages/Settings.qml" line="32"/>
       <source>Settings</source>
       <extracomment>Name of the settings page</extracomment>
-      <translation type="unfinished">Settings</translation>
+      <translation>Nustatymai</translation>
     </message>
   </context>
   <context>
@@ -443,51 +441,50 @@
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="41"/>
       <source>Software update</source>
-      <translation type="unfinished">Software update</translation>
+      <translation>Programinės įrangos atnaujinimas</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="62"/>
       <source>Auto update</source>
-      <translation type="unfinished">Auto update</translation>
+      <translation>Automatinis atnaujinimas</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="94"/>
       <source>Automatically look for updates and update when a new software version is available.
 Updates are installed between 03.00 am and 05.00 am.</source>
-      <translation type="unfinished">Automatically look for updates and update when a new software version is available.
-Updates are installed between 03.00 am and 05.00 am.</translation>
+      <translation>Automatiškai ieškoti atnajinimų bei atnaujinti kai tik atsiranda nauja versija. Atnaujinimai yra įdiegiami nakties laiku tarp 03.00 ir 05.00.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="119"/>
       <source>New software is available.
 YIO remote </source>
-      <translation type="unfinished">New software is available.
-YIO remote </translation>
+      <translation>Rastas programinės įrangos atnaujinimas.
+YIO valdymas </translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="119"/>
       <source>Your software is up to date.</source>
-      <translation type="unfinished">Your software is up to date.</translation>
+      <translation>Jūsų sistema yra naujausios versijos.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="136"/>
       <source>Installed version: YIO Remote </source>
-      <translation type="unfinished">Installed version: YIO Remote </translation>
+      <translation>Įdiegta versija: YIO distancinio valdymo pultas </translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="136"/>
       <source>YIO Remote </source>
-      <translation type="unfinished">YIO Remote </translation>
+      <translation>YIO distancinio valdymo pultas </translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="151"/>
       <source>Update</source>
-      <translation type="unfinished">Update</translation>
+      <translation>Atnaujinimas</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="180"/>
       <source>Check for update</source>
-      <translation type="unfinished">Check for update</translation>
+      <translation>Tikrinti, ar yra atnaujinimų</translation>
     </message>
   </context>
   <context>
@@ -495,27 +492,27 @@ YIO remote </translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="60"/>
       <source>System</source>
-      <translation type="unfinished">System</translation>
+      <translation>Sistema</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="81"/>
       <source>Uptime</source>
-      <translation type="unfinished">Uptime</translation>
+      <translation>Veikimo laikas</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="118"/>
       <source>CPU temperature</source>
-      <translation type="unfinished">CPU temperature</translation>
+      <translation>Procesoriaus temperatūra</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="154"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Perkrauti</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="171"/>
       <source>Shutdown</source>
-      <translation type="unfinished">Shutdown</translation>
+      <translation>Išjungti</translation>
     </message>
   </context>
   <context>
@@ -524,7 +521,7 @@ YIO remote </translation>
       <location filename="../main.qml" line="241"/>
       <source>New software version is available!</source>
       <extracomment>Notification text when new software update is available</extracomment>
-      <translation type="unfinished">New software version is available!</translation>
+      <translation>Rasta nauja versija!</translation>
     </message>
   </context>
   <context>
@@ -532,13 +529,13 @@ YIO remote </translation>
     <message>
       <location filename="../wifiSetup.qml" line="53"/>
       <source>Wi-Fi setup</source>
-      <translation type="unfinished">Wi-Fi setup</translation>
+      <translation>Bevielio ryšio nustatymai</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="71"/>
       <source>Connect to the Wi-Fi network
 </source>
-      <translation type="unfinished">Connect to the Wi-Fi network
+      <translation>Prisijungti prie bevielio tinklo
 </translation>
     </message>
     <message>
