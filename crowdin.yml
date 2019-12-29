@@ -2,4 +2,4 @@ files:
   - source: en_US.ts
     translation: /remote-software/translated/%locale_with_underscore%.ts
   - source: en_US.ts
-    translation: /integration.home-assistant/%locale_with_underscore%.ts
+    translation: /integration.home-assistant/translated/%locale_with_underscore%.ts
