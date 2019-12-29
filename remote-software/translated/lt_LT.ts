@@ -89,6 +89,47 @@
     </message>
   </context>
   <context>
+    <name>Card</name>
+    <message>
+      <location filename="../components/remote/ui/ir/Card.qml" line="231"/>
+      <source>Mute</source>
+      <translation type="unfinished">Mute</translation>
+    </message>
+    <message>
+      <location filename="../components/remote/ui/ir/Card.qml" line="265"/>
+      <source>Back</source>
+      <translation type="unfinished">Back</translation>
+    </message>
+    <message>
+      <location filename="../components/remote/ui/ir/Card.qml" line="300"/>
+      <source>Menu</source>
+      <translation type="unfinished">Menu</translation>
+    </message>
+  </context>
+  <context>
+    <name>CardButtons</name>
+    <message>
+      <location filename="../components/remote/ui/ir/CardButtons.qml" line="43"/>
+      <source>Source</source>
+      <translation type="unfinished">Source</translation>
+    </message>
+    <message>
+      <location filename="../components/remote/ui/ir/CardButtons.qml" line="52"/>
+      <source>Info</source>
+      <translation type="unfinished">Info</translation>
+    </message>
+    <message>
+      <location filename="../components/remote/ui/ir/CardButtons.qml" line="61"/>
+      <source>Menu</source>
+      <translation type="unfinished">Menu</translation>
+    </message>
+    <message>
+      <location filename="../components/remote/ui/ir/CardButtons.qml" line="70"/>
+      <source>Guide</source>
+      <translation type="unfinished">Guide</translation>
+    </message>
+  </context>
+  <context>
     <name>CardPlaylists</name>
     <message>
       <location filename="../components/media_player/ui/CardPlaylists.qml" line="94"/>
