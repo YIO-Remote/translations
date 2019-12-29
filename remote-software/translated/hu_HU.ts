@@ -6,12 +6,12 @@
     <message>
       <location filename="../homeassistant.cpp" line="257"/>
       <source>Cannot connect to Home Assistant.</source>
-      <translation type="unfinished">Cannot connect to Home Assistant.</translation>
+      <translation>Sikertelen kapcsolódás a Home Assistanthoz.</translation>
     </message>
     <message>
       <location filename="../homeassistant.cpp" line="257"/>
       <source>Reconnect</source>
-      <translation type="unfinished">Reconnect</translation>
+      <translation>Újrakapcsolódás</translation>
     </message>
   </context>
 </TS>
