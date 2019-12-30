@@ -93,12 +93,12 @@
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="231"/>
       <source>Mute</source>
-      <translation type="unfinished">Mute</translation>
+      <translation>Dempen</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="265"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>Terug</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="300"/>
