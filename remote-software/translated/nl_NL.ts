@@ -103,7 +103,7 @@
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="300"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Menu</translation>
     </message>
   </context>
   <context>
@@ -111,22 +111,22 @@
     <message>
       <location filename="../components/remote/ui/ir/CardButtons.qml" line="43"/>
       <source>Source</source>
-      <translation type="unfinished">Source</translation>
+      <translation>Bron</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtons.qml" line="52"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>Info</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtons.qml" line="61"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Menu</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtons.qml" line="70"/>
       <source>Guide</source>
-      <translation type="unfinished">Guide</translation>
+      <translation>Gids</translation>
     </message>
   </context>
   <context>
