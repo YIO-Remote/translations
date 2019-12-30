@@ -1,11 +1,10 @@
-name: Copy tranlsation files back to remote-software repo
+name: Copy remote-software translated files
 on: push
 jobs:
   copycat:
     name: Copycat
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
     - name: Copycat
       uses: andstor/copycat-action@v1.1.0
       env:
