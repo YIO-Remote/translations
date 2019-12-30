@@ -1,5 +1,5 @@
 name: Copy tranlsation files back to remote-software repo
-on: pull_request
+on: push
 jobs:
   copycat:
     name: Copycat
