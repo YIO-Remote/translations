@@ -12,7 +12,7 @@ jobs:
         DST_OWNER: YIO-Remote
         DST_REPO_NAME: remote-software
         DST_PATH: /translations/
-        GH_PAT: ${{ secrets.GH_PAT }}
+        GH_PAT: ${{ secrets.GH_TOK }}
         SRC_BRANCH: master
         SRC_PATH: /remote-software/translated/
         USERNAME: Workflow
