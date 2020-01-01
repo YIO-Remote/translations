@@ -11,7 +11,7 @@ jobs:
     - name: Copycat
       uses: andstor/copycat-action@v1.1.0
       env:
-        DST_BRANCH: dev
+        DST_BRANCH: develop
         DST_OWNER: YIO-Remote
         DST_REPO_NAME: remote-software
         DST_PATH: /translations/
