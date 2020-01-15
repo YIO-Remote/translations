@@ -4,12 +4,12 @@
   <context>
     <name>HomeAssistantThread</name>
     <message>
-      <location filename="../homeassistant.cpp" line="257"/>
+      <location filename="../src/homeassistant.cpp" line="248"/>
       <source>Cannot connect to Home Assistant.</source>
       <translation>Nepodařilo se připojit se k Home Assistantovi.</translation>
     </message>
     <message>
-      <location filename="../homeassistant.cpp" line="257"/>
+      <location filename="../src/homeassistant.cpp" line="248"/>
       <source>Reconnect</source>
       <translation>Znovu připojit</translation>
     </message>
