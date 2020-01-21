@@ -11,7 +11,7 @@
     <message>
       <location filename="../src/homeassistant.cpp" line="248"/>
       <source>Reconnect</source>
-      <translation>Reconectar</translation>
+      <translation>Reconnectar</translation>
     </message>
   </context>
 </TS>
