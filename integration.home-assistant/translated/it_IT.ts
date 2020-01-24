@@ -6,12 +6,12 @@
     <message>
       <location filename="../src/homeassistant.cpp" line="248"/>
       <source>Cannot connect to Home Assistant.</source>
-      <translation type="unfinished">Cannot connect to Home Assistant.</translation>
+      <translation>Impossibile connettersi a Home Assistant.</translation>
     </message>
     <message>
       <location filename="../src/homeassistant.cpp" line="248"/>
       <source>Reconnect</source>
-      <translation type="unfinished">Reconnect</translation>
+      <translation>Riconnetti</translation>
     </message>
   </context>
 </TS>
