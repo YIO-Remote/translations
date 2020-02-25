@@ -21,15 +21,15 @@ Niels de Klerk
 To learn more about the project, visit
 www.yio-remote.com
 </source>
-      <translation type="unfinished">
-YIO being an open source project, benefits from all the contributors. Big thanks to everyone who added something to the project so far:
+      <translation>
+YIO is een open source project, profiteert van alle bijdragen. Hartelijk dank aan ieder die tot nu toe iets aan het project heeft toegevoegd:
 
 Christian Riedl
 Markus Mahr
 Markus Zehnder
 Niels de Klerk
 
-To learn more about the project, visit
+voor meer informatie over het project, bezoek
 www.yio-remote.com
 </translation>
     </message>
