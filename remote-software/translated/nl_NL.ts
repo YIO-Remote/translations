@@ -341,32 +341,32 @@ www.yio-remote.com
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="40"/>
       <source>Use configuration profile.</source>
-      <translation type="unfinished">Use configuration profile.</translation>
+      <translation>Gebruik configuratieprofiel.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="43"/>
       <source>Use configuration file.</source>
-      <translation type="unfinished">Use configuration file.</translation>
+      <translation>Gebruik configuratiebestand.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="44"/>
       <source>Use configuration schema file.</source>
-      <translation type="unfinished">Use configuration schema file.</translation>
+      <translation>Gebruik configuratieschema bestand.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="45"/>
       <source>Use hardware configuration file.</source>
-      <translation type="unfinished">Use hardware configuration file.</translation>
+      <translation>Gebruik hardware configuratiebestand.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="46"/>
       <source>Use hardware configuration schema file.</source>
-      <translation type="unfinished">Use hardware configuration schema file.</translation>
+      <translation>Gebruik hardware configuratieschema bestand.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="50"/>
       <source>Validate json configuration files and exit.</source>
-      <translation type="unfinished">Validate json configuration files and exit.</translation>
+      <translation>Controleer json configuratiebestanden en sluit af.</translation>
     </message>
   </context>
   <context>
