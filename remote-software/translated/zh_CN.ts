@@ -898,18 +898,18 @@ connect to your Wi-Fi network.</source>
     <message>
       <location filename="../wifiSetup.qml" line="286"/>
       <source>Connect the YIO Dock to a power source and wait until it starts blinking. To share the Wi-Fi network credentials with the dock, tap next.</source>
-      <translation type="unfinished">Connect the YIO Dock to a power source and wait until it starts blinking. To share the Wi-Fi network credentials with the dock, tap next.</translation>
+      <translation>请将YIO DOCK接上电源，并等待指示灯开始闪烁。 要与YIO DOCK分享Wi-Fi网络凭据，请点击下一步。</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="336"/>
       <source>Wi-Fi setup completed</source>
-      <translation type="unfinished">Wi-Fi setup completed</translation>
+      <translation>Wi-Fi 设置完成</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="316"/>
       <location filename="../wifiSetup.qml" line="371"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>重启</translation>
     </message>
   </context>
 </TS>
