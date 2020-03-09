@@ -22,7 +22,7 @@ To learn more about the project, visit
 www.yio-remote.com
 </source>
       <translation>
-YIO is een open source project, profiteert van alle bijdragen. Hartelijk dank aan ieder die tot nu toe iets aan het project heeft toegevoegd:
+YIO is een open source project en heeft baat bij alle bijdragen. Hartelijk dank aan een ieder die tot nu toe heeft bijgedragen aan het project:
 
 Christian Riedl
 Markus Mahr
@@ -124,12 +124,12 @@ www.yio-remote.com
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="62"/>
       <source>Area detection</source>
-      <translation>Gebied detectie</translation>
+      <translation>Locatie detectie</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="101"/>
       <source>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</source>
-      <translation>Scant automatisch voor bluetooth beacons geassocieerd met gebieden en weergeeft dan de dichtstbijzijnde apparaten.</translation>
+      <translation>Scant automatisch voor bluetooth beacons welke zijn geassocieerd met gebieden en geeft dan de dichtstbijzijnde apparaten weer.</translation>
     </message>
   </context>
   <context>
@@ -202,12 +202,12 @@ www.yio-remote.com
     <message>
       <location filename="../components/climate/ui/Card.qml" line="432"/>
       <source>Heat</source>
-      <translation>Warm</translation>
+      <translation>Verwarmen</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="438"/>
       <source>Cool</source>
-      <translation>Koud</translation>
+      <translation>Koelen</translation>
     </message>
   </context>
   <context>
@@ -403,7 +403,7 @@ www.yio-remote.com
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="272"/>
       <source>How far the proximity sensor should look when detecting your hand.</source>
-      <translation type="unfinished">How far the proximity sensor should look when detecting your hand.</translation>
+      <translation>De gevoeligheid van de bewegings sensor om uw hand te detecteren.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="293"/>
@@ -614,33 +614,33 @@ www.yio-remote.com
     <message>
       <location filename="../sources/hardware/wifi_control.h" line="37"/>
       <source>WiFi device was not found.</source>
-      <translation>WiFi-apparaat is niet gevonden.</translation>
+      <translation>Geen WiFi-apparaat gevonden.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="29"/>
       <source>Cannot initialize the battery sensor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the battery sensor. Please restart the remote.</translation>
+      <translation>Kan de batterij sensor niet initialiseren. Herstart de afstandsbediening.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="30"/>
       <location filename="../sources/hardware/proximitysensor.h" line="29"/>
       <source>Battery sensor communication error. Please restart the remote.</source>
-      <translation type="unfinished">Battery sensor communication error. Please restart the remote.</translation>
+      <translation>Er is een fout opgetreden met de communicatie van de batterij, Herstart de afstandsbediening.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/hapticmotor.h" line="29"/>
       <source>Cannot initialize the haptic motor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the haptic motor. Please restart the remote.</translation>
+      <translation>De haptische motor kan niet worden geïnitialiseerd. Herstart de afstandsbediening.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/interrupthandler.h" line="28"/>
       <source>Cannot initialize the interrupt handler. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the interrupt handler. Please restart the remote.</translation>
+      <translation>Kan de "interrupt handler" niet initialiseren, Herstart de afstandsbediening.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/proximitysensor.h" line="28"/>
       <source>Cannot initialize the proximity sensor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the proximity sensor. Please restart the remote.</translation>
+      <translation>Kan de nabijheidssensor niet initialiseren. Herstart de afstandsbediening.</translation>
     </message>
   </context>
   <context>
@@ -648,7 +648,7 @@ www.yio-remote.com
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="42"/>
       <source>Remote configuration</source>
-      <translation>Afstandsbediening configuratie</translation>
+      <translation>Web configuratie</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="77"/>
@@ -795,7 +795,7 @@ YIO Remote </translation>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="80"/>
       <source>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</source>
-      <translation type="unfinished">Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</translation>
+      <translation>Scant automatisch voor bluetooth beacons welke zijn geassocieerd met locatie(s) en geeft dan de dichtstbijzijnde apparaten weer.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="109"/>
@@ -825,7 +825,7 @@ YIO Remote </translation>
     <message>
       <location filename="../basic_ui/settings/WifiConnect.qml" line="136"/>
       <source>Join</source>
-      <translation>Deelnemen</translation>
+      <translation>Verbinden</translation>
     </message>
   </context>
   <context>
@@ -883,8 +883,8 @@ verbonden met uw Wi-Fi netwerk.</translation>
       <location filename="../wifiSetup.qml" line="200"/>
       <source>YIO Remote could not
 connect to your Wi-Fi network.</source>
-      <translation>YIO Afstandsbediening kon niet
-verbinden met uw Wi-Fi netwerk.</translation>
+      <translation>YIO Afstandsbediening kon geen
+verbinden maken met uw Wi-Fi netwerk.</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="217"/>
@@ -894,7 +894,7 @@ verbinden met uw Wi-Fi netwerk.</translation>
     <message>
       <location filename="../wifiSetup.qml" line="231"/>
       <source>Try again</source>
-      <translation>Probeer opnieuw</translation>
+      <translation>Opnieuw proberen</translation>
     </message>
     <message>
       <location filename="../wifiSetup.qml" line="286"/>
