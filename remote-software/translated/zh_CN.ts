@@ -101,17 +101,17 @@ www. io-remote.com
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="461"/>
       <source>Never turn off the remote</source>
-      <translation type="unfinished">Never turn off the remote</translation>
+      <translation>永不关闭遥控器</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="461"/>
       <source>Turn off the remote after %1 hours of inactivity</source>
-      <translation type="unfinished">Turn off the remote after %1 hours of inactivity</translation>
+      <translation>在 %1 小时后关闭遥控器</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="558"/>
       <source>8 hours</source>
-      <translation type="unfinished">8 hours</translation>
+      <translation>8 小时</translation>
     </message>
   </context>
   <context>
@@ -119,17 +119,17 @@ www. io-remote.com
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="41"/>
       <source>Bluetooth</source>
-      <translation type="unfinished">Bluetooth</translation>
+      <translation>蓝牙</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="62"/>
       <source>Area detection</source>
-      <translation type="unfinished">Area detection</translation>
+      <translation>区域检测</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="101"/>
       <source>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</source>
-      <translation type="unfinished">Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</translation>
+      <translation>自动扫描区域内的蓝牙信标，在该区域找到最近的设备和显示设备。</translation>
     </message>
   </context>
   <context>
@@ -137,7 +137,7 @@ www. io-remote.com
     <message>
       <location filename="../sources/bluetootharea.cpp" line="121"/>
       <source>Bluetooth device was not found.</source>
-      <translation type="unfinished">Bluetooth device was not found.</translation>
+      <translation>找不到蓝牙设备。</translation>
     </message>
   </context>
   <context>
@@ -146,7 +146,7 @@ www. io-remote.com
       <location filename="../components/climate/ui/Button.qml" line="45"/>
       <location filename="../components/climate/ui/Button.qml" line="47"/>
       <source>Temperature: </source>
-      <translation type="unfinished">Temperature: </translation>
+      <translation>温度：</translation>
     </message>
   </context>
   <context>
@@ -154,12 +154,12 @@ www. io-remote.com
     <message>
       <location filename="../components/ButtonBase.qml" line="374"/>
       <source>Remove from favorites</source>
-      <translation type="unfinished">Remove from favorites</translation>
+      <translation>取消收藏</translation>
     </message>
     <message>
       <location filename="../components/ButtonBase.qml" line="374"/>
       <source>Add to favorites</source>
-      <translation type="unfinished">Add to favorites</translation>
+      <translation>添加到收藏</translation>
     </message>
   </context>
   <context>
@@ -167,47 +167,47 @@ www. io-remote.com
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="211"/>
       <source>Mute</source>
-      <translation type="unfinished">Mute</translation>
+      <translation>静音</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="236"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>返回</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="261"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>菜单</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="403"/>
       <source>Turn off</source>
-      <translation type="unfinished">Turn off</translation>
+      <translation>关闭</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="403"/>
       <source>Turn on</source>
-      <translation type="unfinished">Turn on</translation>
+      <translation>开启</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="416"/>
       <source>Mode</source>
-      <translation type="unfinished">Mode</translation>
+      <translation>模式</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="426"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>关闭</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="432"/>
       <source>Heat</source>
-      <translation type="unfinished">Heat</translation>
+      <translation>制热</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="438"/>
       <source>Cool</source>
-      <translation type="unfinished">Cool</translation>
+      <translation>制冷</translation>
     </message>
   </context>
   <context>
@@ -215,22 +215,22 @@ www. io-remote.com
     <message>
       <location filename="../components/remote/ui/ir/CardButtons.qml" line="74"/>
       <source>Source</source>
-      <translation type="unfinished">Source</translation>
+      <translation>输入源</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtons.qml" line="84"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>信息</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtons.qml" line="94"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>菜单</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtons.qml" line="104"/>
       <source>Guide</source>
-      <translation type="unfinished">Guide</translation>
+      <translation>指南</translation>
     </message>
   </context>
   <context>
@@ -238,17 +238,17 @@ www. io-remote.com
     <message>
       <location filename="../components/light/ui/CardColor.qml" line="267"/>
       <source>Turn off</source>
-      <translation type="unfinished">Turn off</translation>
+      <translation>关闭</translation>
     </message>
     <message>
       <location filename="../components/light/ui/CardColor.qml" line="267"/>
       <source>Turn on</source>
-      <translation type="unfinished">Turn on</translation>
+      <translation>开启</translation>
     </message>
     <message>
       <location filename="../components/light/ui/CardColor.qml" line="280"/>
       <source>Color</source>
-      <translation type="unfinished">Color</translation>
+      <translation>色彩</translation>
     </message>
   </context>
   <context>
@@ -256,12 +256,12 @@ www. io-remote.com
     <message>
       <location filename="../components/light/ui/CardDimmable.qml" line="235"/>
       <source>Turn off</source>
-      <translation type="unfinished">Turn off</translation>
+      <translation>关闭</translation>
     </message>
     <message>
       <location filename="../components/light/ui/CardDimmable.qml" line="235"/>
       <source>Turn on</source>
-      <translation type="unfinished">Turn on</translation>
+      <translation>开启</translation>
     </message>
   </context>
   <context>
@@ -269,7 +269,7 @@ www. io-remote.com
     <message>
       <location filename="../components/media_player/ui/CardPlaylists.qml" line="125"/>
       <source>My playlists</source>
-      <translation type="unfinished">My playlists</translation>
+      <translation>我的歌单</translation>
     </message>
   </context>
   <context>
@@ -278,7 +278,7 @@ www. io-remote.com
       <location filename="../components/media_player/ui/CardSearch.qml" line="129"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="166"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>搜索​​​​</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="226"/>
