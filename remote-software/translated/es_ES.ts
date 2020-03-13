@@ -21,16 +21,16 @@ Niels de Klerk
 To learn more about the project, visit
 www.yio-remote.com
 </source>
-      <translation type="unfinished">
-YIO being an open source project, benefits from all the contributors. Big thanks to everyone who added something to the project so far:
+      <translation>
+YIO es un proyecto de código abierto, se beneficia de todos los colaboradores. Muchas gracias a todos los que han añadido algo al proyecto hasta ahora:
 
 Christian Riedl
 Markus Mahr
 Markus Zehnder
 Niels de Klerk
 
-To learn more about the project, visit
-www.yio-remote.com
+Para aprender más sobre el proyecto, visit
+www. io-remote.com
 </translation>
     </message>
   </context>
@@ -341,32 +341,32 @@ www.yio-remote.com
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="40"/>
       <source>Use configuration profile.</source>
-      <translation type="unfinished">Use configuration profile.</translation>
+      <translation>Usar perfil de configuración.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="43"/>
       <source>Use configuration file.</source>
-      <translation type="unfinished">Use configuration file.</translation>
+      <translation>Usar archivo de configuración.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="44"/>
       <source>Use configuration schema file.</source>
-      <translation type="unfinished">Use configuration schema file.</translation>
+      <translation>Usar archivo de esquema de configuración.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="45"/>
       <source>Use hardware configuration file.</source>
-      <translation type="unfinished">Use hardware configuration file.</translation>
+      <translation>Usar archivo de configuración de hardware.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="46"/>
       <source>Use hardware configuration schema file.</source>
-      <translation type="unfinished">Use hardware configuration schema file.</translation>
+      <translation>Utilice el archivo de esquema de configuración de hardware.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="50"/>
       <source>Validate json configuration files and exit.</source>
-      <translation type="unfinished">Validate json configuration files and exit.</translation>
+      <translation>Validar los archivos de configuración json y salir.</translation>
     </message>
   </context>
   <context>
@@ -398,12 +398,12 @@ www.yio-remote.com
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="262"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>Cerrar</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="272"/>
       <source>How far the proximity sensor should look when detecting your hand.</source>
-      <translation type="unfinished">How far the proximity sensor should look when detecting your hand.</translation>
+      <translation>Qué tan lejos debe buscar el sensor de proximidad para detectar la mano.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="293"/>
@@ -692,12 +692,12 @@ www.yio-remote.com
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="191"/>
       <source>Battery &amp; power</source>
-      <translation type="unfinished">Battery &amp; power</translation>
+      <translation>Batería y potencia</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="198"/>
       <source>m remaining</source>
-      <translation type="unfinished">m remaining</translation>
+      <translation>m restante</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="204"/>
