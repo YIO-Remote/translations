@@ -741,7 +741,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep1.qml" line="45"/>
       <source>Tap the screen to begin</source>
-      <translation type="unfinished">Tap the screen to begin</translation>
+      <translation>Tik op het scherm om te beginnen</translation>
     </message>
   </context>
   <context>
@@ -749,12 +749,12 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep3.qml" line="61"/>
       <source>Wi-Fi setup</source>
-      <translation type="unfinished">Wi-Fi setup</translation>
+      <translation>Wi-Fi setup</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep3.qml" line="72"/>
       <source>Select a Wi-Fi network.</source>
-      <translation type="unfinished">Select a Wi-Fi network.</translation>
+      <translation>Selecteer een Wi-Fi netwerk.</translation>
     </message>
   </context>
   <context>
@@ -769,12 +769,12 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep4.qml" line="114"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Wachtwoord</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4.qml" line="140"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Deelnemen</translation>
     </message>
   </context>
   <context>
