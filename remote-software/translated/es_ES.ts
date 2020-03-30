@@ -468,12 +468,12 @@ www. io-remote.com
     <message>
       <location filename="../sources/filedownload.cpp" line="114"/>
       <source>Not enough free space (%1 MB).</source>
-      <translation type="unfinished">Not enough free space (%1 MB).</translation>
+      <translation>No hay suficiente espacio libre (%1 MB).</translation>
     </message>
     <message>
       <location filename="../sources/filedownload.cpp" line="121"/>
       <source>Destination file already exists</source>
-      <translation type="unfinished">Destination file already exists</translation>
+      <translation>El archivo de destino ya existe</translation>
     </message>
   </context>
   <context>
@@ -736,7 +736,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep1.qml" line="34"/>
       <source>Hello</source>
-      <translation type="unfinished">Hello</translation>
+      <translation>Hola</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep1.qml" line="45"/>
@@ -749,7 +749,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep3.qml" line="61"/>
       <source>Wi-Fi setup</source>
-      <translation type="unfinished">Wi-Fi setup</translation>
+      <translation>Configurar Wi-Fi</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep3.qml" line="72"/>
@@ -763,7 +763,7 @@ Navigate your internet browser to: http://</translation>
       <location filename="../setup/SetupStep4.qml" line="96"/>
       <source>Enter password for
 &quot;%1&quot;</source>
-      <translation type="unfinished">Enter password for
+      <translation>Introduzca contraseña para
 &quot;%1&quot;</translation>
     </message>
     <message>
@@ -782,7 +782,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep5.qml" line="70"/>
       <source>Connecting</source>
-      <translation type="unfinished">Connecting</translation>
+      <translation>Conectando</translation>
     </message>
   </context>
   <context>
@@ -800,7 +800,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="60"/>
       <source>Try again</source>
-      <translation type="unfinished">Try again</translation>
+      <translation>Vuelva a intentarlo</translation>
     </message>
   </context>
   <context>
@@ -808,7 +808,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="36"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>Conectado</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="47"/>
@@ -818,7 +818,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="58"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Siguiente</translation>
     </message>
   </context>
   <context>
@@ -837,7 +837,7 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep7.qml" line="72"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Siguiente</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep7.qml" line="83"/>
