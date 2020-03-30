@@ -667,8 +667,8 @@ www. io-remote.com
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="76"/>
       <source>Use your browser to configure your YIO remote or download and upload backups.
 Navigate your internet browser to: http://</source>
-      <translation type="unfinished">Use your browser to configure your YIO remote or download and upload backups.
-Navigate your internet browser to: http://</translation>
+      <translation>Utilice su navegador para configurar su mando YIO o descargar y subir copias de seguridad.
+Lleve su navegador de internet a: http://</translation>
     </message>
   </context>
   <context>
@@ -688,7 +688,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="151"/>
       <source>New software is available.</source>
-      <translation type="unfinished">New software is available.</translation>
+      <translation>Nuevo software disponible.</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="168"/>
@@ -741,7 +741,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep1.qml" line="45"/>
       <source>Tap the screen to begin</source>
-      <translation type="unfinished">Tap the screen to begin</translation>
+      <translation>Toca la pantalla para empezar</translation>
     </message>
   </context>
   <context>
@@ -754,7 +754,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep3.qml" line="72"/>
       <source>Select a Wi-Fi network.</source>
-      <translation type="unfinished">Select a Wi-Fi network.</translation>
+      <translation>Seleccione una red Wi-Fi.</translation>
     </message>
   </context>
   <context>
@@ -769,12 +769,12 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep4.qml" line="114"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Contraseña</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4.qml" line="140"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Unirse</translation>
     </message>
   </context>
   <context>
@@ -790,12 +790,12 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="36"/>
       <source>Failed to connect</source>
-      <translation type="unfinished">Failed to connect</translation>
+      <translation>Error al conectar</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="49"/>
       <source>YIO Remote could not connect to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Remote could not connect to your Wi-Fi network.</translation>
+      <translation>YIO Remote no pudo conectarse a tu red Wi-Fi.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="60"/>
@@ -813,7 +813,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="47"/>
       <source>YIO Remote has successfully connected to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Remote has successfully connected to your Wi-Fi network.</translation>
+      <translation>YIO Remote se ha conectado con éxito a tu red Wi-Fi.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="58"/>
@@ -829,10 +829,10 @@ Navigate your internet browser to: http://</translation>
 a power source and wait until it starts blinking.
 
  To share the Wi-Fi network credentials with the dock, tap next.</source>
-      <translation type="unfinished">Connect the YIO Dock to
-a power source and wait until it starts blinking.
+      <translation>Conecta la base YIO a
+una fuente de alimentación y espera hasta que empiece a parpadear.
 
- To share the Wi-Fi network credentials with the dock, tap next.</translation>
+ Para compartir las credenciales de la red Wi-Fi con el Dock, toca siguiente.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep7.qml" line="72"/>
@@ -842,7 +842,7 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep7.qml" line="83"/>
       <source>Skip</source>
-      <translation type="unfinished">Skip</translation>
+      <translation>Omitir</translation>
     </message>
   </context>
   <context>
@@ -850,7 +850,7 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep8.qml" line="115"/>
       <source>Setting up your YIO Dock</source>
-      <translation type="unfinished">Setting up your YIO Dock</translation>
+      <translation>Configurando tu Dock YIO</translation>
     </message>
   </context>
   <context>
@@ -858,17 +858,17 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep9Failure.qml" line="36"/>
       <source>Failed to connect</source>
-      <translation type="unfinished">Failed to connect</translation>
+      <translation>Error al conectar</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Failure.qml" line="49"/>
       <source>YIO Dock could not connect to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Dock could not connect to your Wi-Fi network.</translation>
+      <translation>Dock YIO no se pudo conectar a tu red Wi-Fi.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Failure.qml" line="60"/>
       <source>Try again</source>
-      <translation type="unfinished">Try again</translation>
+      <translation>Inténtalo de nuevo</translation>
     </message>
   </context>
   <context>
@@ -876,7 +876,7 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="39"/>
       <source>Done</source>
-      <translation type="unfinished">Done</translation>
+      <translation>Hecho</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="50"/>
@@ -885,16 +885,16 @@ a power source and wait until it starts blinking.
 To use the web configurator,
 go to Settings and turn on
 Remote configuration after restarting the remote.</source>
-      <translation type="unfinished">You can setup your YIO Dock later from the web configurator.
+      <translation>Puedes configurar tu Dock YIO más adelante desde el configurador web.
 
-To use the web configurator,
-go to Settings and turn on
-Remote configuration after restarting the remote.</translation>
+Para usar el configurador web,
+vaya a Ajustes y active
+configuración remota después de reiniciar el remoto.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="61"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Reiniciar</translation>
     </message>
   </context>
   <context>
@@ -902,7 +902,7 @@ Remote configuration after restarting the remote.</translation>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="39"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>Conectado</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="50"/>
@@ -911,16 +911,16 @@ Remote configuration after restarting the remote.</translation>
 To use the web configurator,
 go to Settings and turn on
 Remote configuration after restarting the remote.</source>
-      <translation type="unfinished">YIO Dock has successfully connected to your Wi-Fi network.
+      <translation>Dock YIO se ha conectado con éxito a tu red Wi-Fi.
 
-To use the web configurator,
-go to Settings and turn on
-Remote configuration after restarting the remote.</translation>
+Para usar el configurador web,
+vaya a Ajustes y active
+configuración remota después de reiniciar el remoto.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="61"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Reiniciar</translation>
     </message>
   </context>
   <context>
@@ -928,7 +928,7 @@ Remote configuration after restarting the remote.</translation>
     <message>
       <location filename="../setup/SetupStepCountry.qml" line="65"/>
       <source>Select your country or region</source>
-      <translation type="unfinished">Select your country or region</translation>
+      <translation>Selecciona tu país o región</translation>
     </message>
   </context>
   <context>
@@ -936,57 +936,57 @@ Remote configuration after restarting the remote.</translation>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="196"/>
       <source>Invalid request.</source>
-      <translation type="unfinished">Invalid request.</translation>
+      <translation>Petición inválida.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="199"/>
       <source>Unsupported device.</source>
-      <translation type="unfinished">Unsupported device.</translation>
+      <translation>Dispositivo no soportado.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="202"/>
       <source>Service currently not available.</source>
-      <translation type="unfinished">Service currently not available.</translation>
+      <translation>El servicio no está disponible actualmente.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="205"/>
       <source>Request error %1</source>
-      <translation type="unfinished">Request error %1</translation>
+      <translation>Error de solicitud %1</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="209"/>
       <source>Software update:</source>
-      <translation type="unfinished">Software update:</translation>
+      <translation>Actualización de software:</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="226"/>
       <source>New software is available</source>
-      <translation type="unfinished">New software is available</translation>
+      <translation>Nueva actualizaciones disponibles</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="226"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>Descargar</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="297"/>
       <source>Download failed: %1</source>
-      <translation type="unfinished">Download failed: %1</translation>
+      <translation>Descarga fallida: %1</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="320"/>
       <source>Failed to start app update script!</source>
-      <translation type="unfinished">Failed to start app update script!</translation>
+      <translation>¡Error al iniciar el script de actualización de aplicación!</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="165"/>
       <source>Cannot connect to the update server.</source>
-      <translation type="unfinished">Cannot connect to the update server.</translation>
+      <translation>No se puede conectar al servidor de actualizaciones.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="243"/>
       <source>The remote needs to be at least 50% battery to perform updates.</source>
-      <translation type="unfinished">The remote needs to be at least 50% battery to perform updates.</translation>
+      <translation>El mando debe tener al menos un 50% de batería para realizar actualizaciones.</translation>
     </message>
   </context>
   <context>
@@ -1012,8 +1012,8 @@ Las actualizaciones se instalan entre las 03:00 am y las 05:00 am.</translation>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="91"/>
       <source>New software is available.
 YIO remote %1</source>
-      <translation type="unfinished">New software is available.
-YIO remote %1</translation>
+      <translation>Nuevo software disponible.
+YIO remoto %1</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="102"/>
@@ -1028,7 +1028,7 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="112"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>Descargar</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="112"/>
@@ -1046,22 +1046,22 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/SoftwareupdateDownloading.qml" line="17"/>
       <source>Download completed</source>
-      <translation type="unfinished">Download completed</translation>
+      <translation>Descarga completada</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/SoftwareupdateDownloading.qml" line="44"/>
       <source>Downloading</source>
-      <translation type="unfinished">Downloading</translation>
+      <translation>Descargando</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/SoftwareupdateDownloading.qml" line="68"/>
       <source>Update</source>
-      <translation type="unfinished">Update</translation>
+      <translation>Actualizar</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/SoftwareupdateDownloading.qml" line="82"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Cancelar</translation>
     </message>
   </context>
   <context>
