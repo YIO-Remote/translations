@@ -688,7 +688,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="151"/>
       <source>New software is available.</source>
-      <translation type="unfinished">New software is available.</translation>
+      <translation>Una nova versió està disponible.</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="168"/>
@@ -818,7 +818,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="58"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Següent</translation>
     </message>
   </context>
   <context>
@@ -837,12 +837,12 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep7.qml" line="72"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Següent</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep7.qml" line="83"/>
       <source>Skip</source>
-      <translation type="unfinished">Skip</translation>
+      <translation>Omet</translation>
     </message>
   </context>
   <context>
