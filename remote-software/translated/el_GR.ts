@@ -619,7 +619,7 @@ www.yio-remote.com
     <message>
       <location filename="../basic_ui/Profiles.qml" line="187"/>
       <source>To edit your profiles, use the web configurator tool in settings.</source>
-      <translation type="unfinished">To edit your profiles, use the web configurator tool in settings.</translation>
+      <translation>Για να επεξεργαστείτε τα προφίλ σας, χρησιμοποιήστε το εργαλείο διαμόρφωσης ιστού στις ρυθμίσεις.</translation>
     </message>
   </context>
   <context>
@@ -627,28 +627,28 @@ www.yio-remote.com
     <message>
       <location filename="../sources/hardware/wifi_control.h" line="37"/>
       <source>WiFi device was not found.</source>
-      <translation type="unfinished">WiFi device was not found.</translation>
+      <translation>Δεν βρέθηκε συσκευή Wi-Fi.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="29"/>
       <source>Cannot initialize the battery sensor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the battery sensor. Please restart the remote.</translation>
+      <translation>Ο αισθητήρας της μπαταρίας δεν ανιχνεύθηκε. Παρακαλώ επανεκκινήστε το τηλεχειριστήριο.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="30"/>
       <location filename="../sources/hardware/proximitysensor.h" line="29"/>
       <source>Battery sensor communication error. Please restart the remote.</source>
-      <translation type="unfinished">Battery sensor communication error. Please restart the remote.</translation>
+      <translation>Πρόβλημα επικοινωνίας με τον αισθητήρα της μπαταρίας. Παρακαλώ επανεκκινήστε το τηλεχειριστήριο.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/hapticmotor.h" line="29"/>
       <source>Cannot initialize the haptic motor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the haptic motor. Please restart the remote.</translation>
+      <translation>Ο αισθητήρας κίνησης δεν ξεκίνησε. Παρακαλώ επανεκκινήστε το τηλεχειριστήριο.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/interrupthandler.h" line="28"/>
       <source>Cannot initialize the interrupt handler. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the interrupt handler. Please restart the remote.</translation>
+      <translation>Η εκκίνηση του λειτουργικού συστήματος απέτυχε. Παρακαλώ επανεκκινήστε το τηλεχειριστήριο.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/proximitysensor.h" line="28"/>
