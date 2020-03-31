@@ -653,7 +653,7 @@ www.yio-remote.com
     <message>
       <location filename="../sources/hardware/proximitysensor.h" line="28"/>
       <source>Cannot initialize the proximity sensor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the proximity sensor. Please restart the remote.</translation>
+      <translation>Η εκκίνηση του αισθητήρα προσέγγισης απέτυχε. Παρακαλώ επανεκκινήστε το τηλεχειριστήριο.</translation>
     </message>
   </context>
   <context>
@@ -661,14 +661,13 @@ www.yio-remote.com
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="41"/>
       <source>Remote configuration</source>
-      <translation type="unfinished">Remote configuration</translation>
+      <translation>Ρύθμιση παραμέτρων τηλεχειριστηρίου</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="76"/>
       <source>Use your browser to configure your YIO remote or download and upload backups.
 Navigate your internet browser to: http://</source>
-      <translation type="unfinished">Use your browser to configure your YIO remote or download and upload backups.
-Navigate your internet browser to: http://</translation>
+      <translation>Χρησιμοποιήστε τον περιηγητή ιστού για να ρυθμίσετε το τηλεχειριστήριο YIO ή να κατεβάσετε και να ανεβάσετε αντίγραφα ασφαλείας. Κατευθυνθείτε στο: http://</translation>
     </message>
   </context>
   <context>
@@ -678,57 +677,57 @@ Navigate your internet browser to: http://</translation>
       <location filename="../basic_ui/pages/Settings.qml" line="82"/>
       <location filename="../basic_ui/pages/Settings.qml" line="140"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>Ρυθμίσεις</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="151"/>
       <source>Your software is up to date.</source>
-      <translation type="unfinished">Your software is up to date.</translation>
+      <translation>Το λογισμικό σας είναι ενημερωμένο.</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="151"/>
       <source>New software is available.</source>
-      <translation type="unfinished">New software is available.</translation>
+      <translation>Νέα έκδοση λογισμικού διαθέσιμη.</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="168"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>Οθόνη</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="174"/>
       <source>Language</source>
-      <translation type="unfinished">Language</translation>
+      <translation>Γλώσσα</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="187"/>
       <source>Integrations</source>
-      <translation type="unfinished">Integrations</translation>
+      <translation>Ενσωματώσεις</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="194"/>
       <source>Battery &amp; power</source>
-      <translation type="unfinished">Battery &amp; power</translation>
+      <translation>Μπαταρία &amp; ενέργεια</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="201"/>
       <source>m remaining</source>
-      <translation type="unfinished">m remaining</translation>
+      <translation>m απομένουν</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="208"/>
       <source>WiFi &amp; bluetooth</source>
-      <translation type="unfinished">WiFi &amp; bluetooth</translation>
+      <translation>WiFi &amp; bluetooth</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="214"/>
       <source>System</source>
-      <translation type="unfinished">System</translation>
+      <translation>Σύστημα</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="220"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>Σχετικά</translation>
     </message>
   </context>
   <context>
@@ -736,12 +735,12 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep1.qml" line="34"/>
       <source>Hello</source>
-      <translation type="unfinished">Hello</translation>
+      <translation>Γειά σας</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep1.qml" line="45"/>
       <source>Tap the screen to begin</source>
-      <translation type="unfinished">Tap the screen to begin</translation>
+      <translation>Πατήστε την οθόνη για να ξεκινήσετε</translation>
     </message>
   </context>
   <context>
@@ -749,12 +748,12 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep3.qml" line="61"/>
       <source>Wi-Fi setup</source>
-      <translation type="unfinished">Wi-Fi setup</translation>
+      <translation>Ρύθμιση Wi-Fi</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep3.qml" line="72"/>
       <source>Select a Wi-Fi network.</source>
-      <translation type="unfinished">Select a Wi-Fi network.</translation>
+      <translation>Επιλέξτε ένα δίκτυο Wi-Fi.</translation>
     </message>
   </context>
   <context>
@@ -763,18 +762,18 @@ Navigate your internet browser to: http://</translation>
       <location filename="../setup/SetupStep4.qml" line="96"/>
       <source>Enter password for
 &quot;%1&quot;</source>
-      <translation type="unfinished">Enter password for
+      <translation>Πληκτρολογήστε το συνθηματικό
 &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4.qml" line="114"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Συνθηματικό</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4.qml" line="140"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Σύνδεση</translation>
     </message>
   </context>
   <context>
@@ -782,7 +781,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep5.qml" line="70"/>
       <source>Connecting</source>
-      <translation type="unfinished">Connecting</translation>
+      <translation>Πραγματοποιείται σύνδεση</translation>
     </message>
   </context>
   <context>
@@ -790,17 +789,17 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="36"/>
       <source>Failed to connect</source>
-      <translation type="unfinished">Failed to connect</translation>
+      <translation>Η σύνδεση απέτυχε</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="49"/>
       <source>YIO Remote could not connect to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Remote could not connect to your Wi-Fi network.</translation>
+      <translation>Το τηλεχειριστήριο YIO δεν μπόρεσε να συνδεθεί στο Wi-Fi δίκτυο.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="60"/>
       <source>Try again</source>
-      <translation type="unfinished">Try again</translation>
+      <translation>Προσπαθήστε ξανά</translation>
     </message>
   </context>
   <context>
@@ -808,17 +807,17 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="36"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>Συνδέθηκε</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="47"/>
       <source>YIO Remote has successfully connected to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Remote has successfully connected to your Wi-Fi network.</translation>
+      <translation>Το τηλεχειριστήριο YIO συνδέθηκε με επιτυχία στο Wi-Fi δίκτυο.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="58"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Επόμενο</translation>
     </message>
   </context>
   <context>
@@ -829,20 +828,19 @@ Navigate your internet browser to: http://</translation>
 a power source and wait until it starts blinking.
 
  To share the Wi-Fi network credentials with the dock, tap next.</source>
-      <translation type="unfinished">Connect the YIO Dock to
-a power source and wait until it starts blinking.
+      <translation>Συνδέστε τη βάση YIO στο ρεύμα και περιμένετε μέχρι να αρχίσει να αναβοσβήνει.
 
- To share the Wi-Fi network credentials with the dock, tap next.</translation>
+Για να μοιραστείτε τα στοιχεία του Wi-Fi δικτύου σας με τη βάση, πατήστε επόμενο.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep7.qml" line="72"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Επόμενο</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep7.qml" line="83"/>
       <source>Skip</source>
-      <translation type="unfinished">Skip</translation>
+      <translation>Παράλειψη</translation>
     </message>
   </context>
   <context>
@@ -850,7 +848,7 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep8.qml" line="115"/>
       <source>Setting up your YIO Dock</source>
-      <translation type="unfinished">Setting up your YIO Dock</translation>
+      <translation>Ρύθμιση της βάσης YIO</translation>
     </message>
   </context>
   <context>
@@ -858,17 +856,17 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep9Failure.qml" line="36"/>
       <source>Failed to connect</source>
-      <translation type="unfinished">Failed to connect</translation>
+      <translation>Αποτυχία σύνδεσης</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Failure.qml" line="49"/>
       <source>YIO Dock could not connect to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Dock could not connect to your Wi-Fi network.</translation>
+      <translation>Η βάση YIO δεν μπόρεσε να συνδεθεί στο Wi-Fi δίκτυο.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Failure.qml" line="60"/>
       <source>Try again</source>
-      <translation type="unfinished">Try again</translation>
+      <translation>Προσπαθήστε ξανά</translation>
     </message>
   </context>
   <context>
@@ -876,7 +874,7 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="39"/>
       <source>Done</source>
-      <translation type="unfinished">Done</translation>
+      <translation>Ολοκληρώθηκε</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="50"/>
@@ -885,16 +883,16 @@ a power source and wait until it starts blinking.
 To use the web configurator,
 go to Settings and turn on
 Remote configuration after restarting the remote.</source>
-      <translation type="unfinished">You can setup your YIO Dock later from the web configurator.
+      <translation>Μπορείτε να ρυθμίσετε τη βάση YIO αργότερα από το εργαλείο διαμόρφωσης ιστού.
 
-To use the web configurator,
-go to Settings and turn on
-Remote configuration after restarting the remote.</translation>
+Για να χρησιμοποιήσετε το εργαλείο διαμόρφωσης ιστού,
+πηγαίνετε στις Ρυθμίσεις και ενεργοποιήστε
+τη Διαμόρφωση τηλεχειριστηρίου αφού πρώτα επανεκκινήσετε το τηλεχειριστήριο.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="61"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Επανεκκίνηση</translation>
     </message>
   </context>
   <context>
@@ -902,7 +900,7 @@ Remote configuration after restarting the remote.</translation>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="39"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>Συνδέθηκε</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="50"/>
@@ -911,16 +909,16 @@ Remote configuration after restarting the remote.</translation>
 To use the web configurator,
 go to Settings and turn on
 Remote configuration after restarting the remote.</source>
-      <translation type="unfinished">YIO Dock has successfully connected to your Wi-Fi network.
+      <translation>Η βάση YIO συνδέθηκε με επιτυχία στο Wi-Fi δίκτυο.
 
-To use the web configurator,
-go to Settings and turn on
-Remote configuration after restarting the remote.</translation>
+Για να χρησιμοποιήσετε το εργαλείο διαμόρφωσης ιστού,
+πηγαίνετε στις Ρυθμίσεις και ενεργοποιήστε
+τη Διαμόρφωση τηλεχειριστηρίου αφού πρώτα επανεκκινήσετε το τηλεχειριστήριο.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="61"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Επανεκκίνηση</translation>
     </message>
   </context>
   <context>
@@ -928,7 +926,7 @@ Remote configuration after restarting the remote.</translation>
     <message>
       <location filename="../setup/SetupStepCountry.qml" line="65"/>
       <source>Select your country or region</source>
-      <translation type="unfinished">Select your country or region</translation>
+      <translation>Επιλέξτε τη χώρα ή την περιοχή σας</translation>
     </message>
   </context>
   <context>
@@ -936,12 +934,12 @@ Remote configuration after restarting the remote.</translation>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="196"/>
       <source>Invalid request.</source>
-      <translation type="unfinished">Invalid request.</translation>
+      <translation>Μη έγκυρο αίτημα.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="199"/>
       <source>Unsupported device.</source>
-      <translation type="unfinished">Unsupported device.</translation>
+      <translation>Μη υποστηριζόμενη συσκευή.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="202"/>
