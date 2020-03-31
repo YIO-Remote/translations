@@ -6,7 +6,7 @@
     <message>
       <location filename="../basic_ui/settings/About.qml" line="36"/>
       <source>Thank you!</source>
-      <translation>Dank u wel!</translation>
+      <translation>Bedankt!</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/About.qml" line="45"/>
