@@ -21,15 +21,15 @@ Niels de Klerk
 To learn more about the project, visit
 www.yio-remote.com
 </source>
-      <translation type="unfinished">
-YIO being an open source project, benefits from all the contributors. Big thanks to everyone who added something to the project so far:
+      <translation>
+YIO作為一個開源計畫，受益於所有的貢獻者。十分感謝至今為此項目提供貢獻的每個人：
 
 Christian Riedl
 Markus Mahr
 Markus Zehnder
 Niels de Klerk
 
-To learn more about the project, visit
+如需了解該計畫的更多資訊，請訪問
 www.yio-remote.com
 </translation>
     </message>
@@ -80,7 +80,7 @@ www.yio-remote.com
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="345"/>
       <source>Never turn off Wi-Fi</source>
-      <translation type="unfinished">Never turn off Wi-Fi</translation>
+      <translation>不要關閉Wi-Fi</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="345"/>
