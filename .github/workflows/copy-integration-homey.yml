@@ -1,0 +1,22 @@
+name: Copy integration.homey translated files
+on:
+  pull_request:
+    types:
+      - closed
+jobs:
+  copycat:
+    name: Copycat
+    runs-on: ubuntu-latest
+    steps:
+    - name: Copycat
+      uses: andstor/copycat-action@v1.1.0
+      env:
+        DST_BRANCH: develop
+        DST_OWNER: YIO-Remote
+        DST_REPO_NAME: integration.homey
+        DST_PATH: /translations/
+        GH_PAT: ${{ secrets.GH_TOKEN }}
+        SRC_BRANCH: master
+        SRC_PATH: /integration.homey/translated/*.ts
+        USERNAME: Workflow
+        EMAIL: hello@yio-remote.com
