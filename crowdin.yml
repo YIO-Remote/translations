@@ -5,3 +5,5 @@ files:
     translation: /integration.home-assistant/translated/%locale_with_underscore%.ts
   - source: /integration.homey/en_US.ts
     translation: /integration.homey/translated/%locale_with_underscore%.ts
+  - source: /web-configurator/en_US.ts
+    translation: /web-configurator/translated/%locale_with_underscore%.ts
