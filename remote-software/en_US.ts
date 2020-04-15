@@ -4,12 +4,12 @@
 <context>
     <name>About</name>
     <message>
-        <location filename="../basic_ui/settings/About.qml" line="36"/>
+        <location filename="../basic_ui/settings/About.qml" line="35"/>
         <source>Thank you!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/settings/About.qml" line="45"/>
+        <location filename="../basic_ui/settings/About.qml" line="44"/>
         <source>
 YIO being an open source project, benefits from all the contributors. Big thanks to everyone who added something to the project so far:
 
@@ -17,6 +17,7 @@ Christian Riedl
 Markus Mahr
 Markus Zehnder
 Niels de Klerk
+Marton Borzak
 
 To learn more about the project, visit
 www.yio-remote.com
@@ -117,7 +118,7 @@ www.yio-remote.com
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/settings/Bluetooth.qml" line="100"/>
+        <location filename="../basic_ui/settings/Bluetooth.qml" line="99"/>
         <source>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -142,12 +143,12 @@ www.yio-remote.com
 <context>
     <name>ButtonBase</name>
     <message>
-        <location filename="../components/ButtonBase.qml" line="372"/>
+        <location filename="../components/ButtonBase.qml" line="373"/>
         <source>Remove from favorites</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../components/ButtonBase.qml" line="372"/>
+        <location filename="../components/ButtonBase.qml" line="373"/>
         <source>Add to favorites</source>
         <translation type="unfinished"></translation>
     </message>
@@ -309,11 +310,13 @@ www.yio-remote.com
     <name>CardSwitch</name>
     <message>
         <location filename="../components/light/ui/CardSwitch.qml" line="160"/>
+        <location filename="../components/switch/ui/CardSwitch.qml" line="159"/>
         <source>Turn off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../components/light/ui/CardSwitch.qml" line="160"/>
+        <location filename="../components/switch/ui/CardSwitch.qml" line="159"/>
         <source>Turn on</source>
         <translation type="unfinished"></translation>
     </message>
@@ -321,7 +324,7 @@ www.yio-remote.com
 <context>
     <name>ChargingScreen</name>
     <message>
-        <location filename="../basic_ui/ChargingScreen.qml" line="160"/>
+        <location filename="../basic_ui/ChargingScreen.qml" line="136"/>
         <source>% Charged</source>
         <translation type="unfinished"></translation>
     </message>
@@ -362,7 +365,7 @@ www.yio-remote.com
 <context>
     <name>ContextMenu</name>
     <message>
-        <location filename="../basic_ui/ContextMenu.qml" line="153"/>
+        <location filename="../basic_ui/ContextMenu.qml" line="139"/>
         <location filename="../components/climate/ui/ContextMenu.qml" line="138"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
@@ -414,32 +417,32 @@ www.yio-remote.com
 <context>
     <name>Entities</name>
     <message>
-        <location filename="../sources/entities/entities.h" line="109"/>
+        <location filename="../sources/entities/entities.h" line="113"/>
         <source>Lights</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/entities/entities.h" line="109"/>
+        <location filename="../sources/entities/entities.h" line="113"/>
         <source>Blinds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/entities/entities.h" line="109"/>
+        <location filename="../sources/entities/entities.h" line="113"/>
         <source>Media</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/entities/entities.h" line="110"/>
+        <location filename="../sources/entities/entities.h" line="114"/>
         <source>Remote</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/entities/entities.h" line="110"/>
+        <location filename="../sources/entities/entities.h" line="114"/>
         <source>Climate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/entities/entities.h" line="110"/>
+        <location filename="../sources/entities/entities.h" line="114"/>
         <source>Switch</source>
         <translation type="unfinished"></translation>
     </message>
@@ -521,28 +524,28 @@ www.yio-remote.com
 <context>
     <name>MainNavigation</name>
     <message>
-        <location filename="../basic_ui/MainNavigation.qml" line="63"/>
+        <location filename="../basic_ui/MainNavigation.qml" line="61"/>
         <source>Favorites</source>
         <extracomment>menu items that are in the bottom menu</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/MainNavigation.qml" line="63"/>
+        <location filename="../basic_ui/MainNavigation.qml" line="61"/>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/MainNavigation.qml" line="64"/>
+        <location filename="../basic_ui/MainNavigation.qml" line="62"/>
         <source>Lights</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/MainNavigation.qml" line="64"/>
+        <location filename="../basic_ui/MainNavigation.qml" line="62"/>
         <source>Blinds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/MainNavigation.qml" line="64"/>
+        <location filename="../basic_ui/MainNavigation.qml" line="62"/>
         <source>Media</source>
         <translation type="unfinished"></translation>
     </message>
@@ -573,7 +576,7 @@ www.yio-remote.com
 <context>
     <name>Notification</name>
     <message>
-        <location filename="../basic_ui/Notification.qml" line="267"/>
+        <location filename="../basic_ui/Notification.qml" line="232"/>
         <source>Dismiss</source>
         <translation type="unfinished"></translation>
     </message>
@@ -581,7 +584,7 @@ www.yio-remote.com
 <context>
     <name>NotificationDrawer</name>
     <message>
-        <location filename="../basic_ui/NotificationDrawer.qml" line="39"/>
+        <location filename="../basic_ui/NotificationDrawer.qml" line="36"/>
         <source>Notifications</source>
         <translation type="unfinished"></translation>
     </message>
@@ -589,12 +592,12 @@ www.yio-remote.com
 <context>
     <name>PopupLowBattery</name>
     <message>
-        <location filename="../basic_ui/PopupLowBattery.qml" line="122"/>
+        <location filename="../basic_ui/PopupLowBattery.qml" line="102"/>
         <source>Low battery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/PopupLowBattery.qml" line="137"/>
+        <location filename="../basic_ui/PopupLowBattery.qml" line="112"/>
         <source>Please charge the remote soon</source>
         <translation type="unfinished"></translation>
     </message>
@@ -602,12 +605,12 @@ www.yio-remote.com
 <context>
     <name>Profiles</name>
     <message>
-        <location filename="../basic_ui/Profiles.qml" line="97"/>
+        <location filename="../basic_ui/Profiles.qml" line="94"/>
         <source>Profiles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/Profiles.qml" line="187"/>
+        <location filename="../basic_ui/Profiles.qml" line="175"/>
         <source>To edit your profiles, use the web configurator tool in settings.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -663,59 +666,59 @@ Navigate your internet browser to: http://</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../basic_ui/pages/Settings.qml" line="69"/>
-        <location filename="../basic_ui/pages/Settings.qml" line="82"/>
-        <location filename="../basic_ui/pages/Settings.qml" line="140"/>
+        <location filename="../basic_ui/pages/Settings.qml" line="93"/>
+        <location filename="../basic_ui/pages/Settings.qml" line="106"/>
+        <location filename="../basic_ui/pages/Settings.qml" line="162"/>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/pages/Settings.qml" line="151"/>
+        <location filename="../basic_ui/pages/Settings.qml" line="173"/>
         <source>Your software is up to date.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/pages/Settings.qml" line="151"/>
+        <location filename="../basic_ui/pages/Settings.qml" line="173"/>
         <source>New software is available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/pages/Settings.qml" line="168"/>
+        <location filename="../basic_ui/pages/Settings.qml" line="190"/>
         <source>Display</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/pages/Settings.qml" line="174"/>
+        <location filename="../basic_ui/pages/Settings.qml" line="196"/>
         <source>Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/pages/Settings.qml" line="187"/>
+        <location filename="../basic_ui/pages/Settings.qml" line="209"/>
         <source>Integrations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/pages/Settings.qml" line="194"/>
+        <location filename="../basic_ui/pages/Settings.qml" line="216"/>
         <source>Battery &amp; power</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/pages/Settings.qml" line="201"/>
+        <location filename="../basic_ui/pages/Settings.qml" line="223"/>
         <source>m remaining</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/pages/Settings.qml" line="208"/>
+        <location filename="../basic_ui/pages/Settings.qml" line="230"/>
         <source>WiFi &amp; bluetooth</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/pages/Settings.qml" line="214"/>
+        <location filename="../basic_ui/pages/Settings.qml" line="236"/>
         <source>System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/pages/Settings.qml" line="220"/>
+        <location filename="../basic_ui/pages/Settings.qml" line="242"/>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
@@ -946,12 +949,12 @@ Remote configuration after restarting the remote.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/softwareupdate.cpp" line="297"/>
+        <location filename="../sources/softwareupdate.cpp" line="303"/>
         <source>Download failed: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/softwareupdate.cpp" line="320"/>
+        <location filename="../sources/softwareupdate.cpp" line="322"/>
         <source>Failed to start app update script!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1070,17 +1073,17 @@ YIO remote %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/settings/Wifi.qml" line="80"/>
+        <location filename="../basic_ui/settings/Wifi.qml" line="79"/>
         <source>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/settings/Wifi.qml" line="109"/>
+        <location filename="../basic_ui/settings/Wifi.qml" line="108"/>
         <source>WiFi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../basic_ui/settings/Wifi.qml" line="189"/>
+        <location filename="../basic_ui/settings/Wifi.qml" line="188"/>
         <source>Other networks</source>
         <translation type="unfinished"></translation>
     </message>

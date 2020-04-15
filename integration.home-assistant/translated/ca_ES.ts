@@ -4,18 +4,17 @@
   <context>
     <name>HomeAssistant</name>
     <message>
-      <location filename="../src/homeassistant.cpp" line="194"/>
+      <location filename="../src/homeassistant.cpp" line="205"/>
       <source>Cannot connect to Home Assistant.</source>
-      <translation type="unfinished">Cannot connect to Home Assistant.</translation>
+      <translation>No es pot conectar amb el Home Assistant.</translation>
     </message>
     <message>
-      <location filename="../src/homeassistant.cpp" line="194"/>
-      <location filename="../src/homeassistant.cpp" line="532"/>
-      <source>Reconnect</source>
-      <translation type="unfinished">Reconnect</translation>
+      <location filename="../src/homeassistant.cpp" line="556"/>
+      <source>Connection lost to </source>
+      <translation>Connexió perduda amb </translation>
     </message>
     <message>
-      <location filename="../src/homeassistant.cpp" line="532"/>
+      <location filename="../src/homeassistant.cpp" line="556"/>
       <source>Connection lost to </source>
       <translation type="unfinished">Connection lost to </translation>
     </message>

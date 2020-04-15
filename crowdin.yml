@@ -3,3 +3,5 @@ files:
     translation: /remote-software/translated/%locale_with_underscore%.ts
   - source: /integration.home-assistant/en_US.ts
     translation: /integration.home-assistant/translated/%locale_with_underscore%.ts
+  - source: /integration.homey/en_US.ts
+    translation: /integration.homey/translated/%locale_with_underscore%.ts
