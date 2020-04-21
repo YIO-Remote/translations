@@ -11,7 +11,7 @@
     <message>
       <location filename="../src/homey.cpp" line="177"/>
       <source>Reconnect</source>
-      <translation type="unfinished">Reconnect</translation>
+      <translation>Повторно свързване</translation>
     </message>
   </context>
 </TS>
