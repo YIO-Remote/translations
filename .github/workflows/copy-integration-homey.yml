@@ -20,3 +20,4 @@ jobs:
         SRC_PATH: /integration.homey/translated/*.ts
         USERNAME: Workflow
         EMAIL: hello@yio-remote.com
+        COMMIT_MESSAGE: 'ci: New translations'
