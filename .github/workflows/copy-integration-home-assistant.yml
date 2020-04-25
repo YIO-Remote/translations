@@ -4,20 +4,20 @@ on:
     types:
       - closed
 jobs:
-  copycat:
+  copy:
     name: Copycat
     runs-on: ubuntu-latest
     steps:
     - name: Copycat
-      uses: andstor/copycat-action@v1.1.0
-      env:
-        DST_BRANCH: master
-        DST_OWNER: YIO-Remote
-        DST_REPO_NAME: integration.home-assistant
-        DST_PATH: /translations/
-        GH_PAT: ${{ secrets.GH_TOKEN }}
-        SRC_BRANCH: master
-        SRC_PATH: /integration.home-assistant/translated/*.ts
-        USERNAME: Workflow
-        EMAIL: hello@yio-remote.com
-        COMMIT_MESSAGE: 'ci: New translations'
+      uses: andstor/copycat-action@v3
+      with:
+        dst_branch: master
+        dst_owner: YIO-Remote
+        dst_repo_name: integration.home-assistant
+        dst_path: /translations/
+        personal_token: ${{ secrets.GH_TOKEN }}
+        src_branch: master
+        src_path: /integration.home-assistant/translated/*.ts
+        username: Workflow
+        email: hello@yio-remote.com
+        commit_message: 'ci: New translations'
