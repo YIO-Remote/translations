@@ -1,0 +1,23 @@
+name: Copy web-configurator translated files
+on:
+  pull_request:
+    types:
+      - closed
+jobs:
+  copycat:
+    name: Copycat
+    runs-on: ubuntu-latest
+    steps:
+    - name: Copycat
+      uses: andstor/copycat-action@v3
+      with:
+        dst_branch: master
+        dst_owner: YIO-Remote
+        dst_repo_name: web-configurator
+        dst_path: /src/i18n/
+        personal_token: ${{ secrets.GH_TOKEN }}
+        src_branch: master
+        src_path: /web-configurator/translated/*.json
+        username: Workflow
+        email: hello@yio-remote.com
+        commit_message: 'ci: New translations'
