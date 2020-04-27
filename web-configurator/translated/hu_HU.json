@@ -1,0 +1,109 @@
+{
+	"overlays": {
+		"disconnection": {
+			"title": "Jaj, ne!",
+			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
+			"reconnecting": "Reconnecting"
+		}
+	},
+	"common": {
+		"id": "Azonosító",
+		"save": "Mentés",
+		"cancel": "Mégse",
+		"create": "Létrehoz",
+		"name": "Név",
+		"pleaseSelect": "Please Select",
+		"settings": "Settings",
+		"type": "Type",
+		"version": "Version",
+		"release": "Release"
+	},
+	"header": {
+		"title": "Web Configurator"
+	},
+	"menu": {
+		"advanced": "Advanced",
+		"entities": "Entities",
+		"integrations": "Integrations",
+		"irLearning": "IR Learning",
+		"settings": "Settings",
+		"profiles": "Profiles",
+		"softwareUpdate": "Software Update"
+	},
+	"components": {
+		"editEntities": {
+			"dropZone": "Drag an entity here"
+		},
+		"editPage": {
+			"dropZone": "Drag a group here"
+		},
+		"profileOptions": {
+			"pagesTab": {
+				"title": "Pages",
+				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
+				"availablePages": "Available Pages"
+			},
+			"groupsTab": {
+				"title": "Groups",
+				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
+				"availableGroups": "Available Groups"
+			},
+			"entitiesTab": {
+				"title": "Entities",
+				"message": "Drag entities to the remote view to add them to favorites or a group."
+			}
+		}
+	},
+	"pages": {
+		"integrations": {
+			"configuredIntegrations": "Configured Integrations",
+			"discoveredIntegrations": "Discovered Integrations",
+			"addIntegration": "Add Integrations",
+			"newIntegration": "New Integrations"
+		},
+		"entities": {
+			"title": "Entities Controlled By YIO Remote",
+			"integration": "Integration",
+			"availableEntities": "Available Entities"
+		},
+		"profiles": {
+			"title": "Profiles",
+			"profileList": {
+				"title": "Pages",
+				"dropZone": "Drag a page here"
+			},
+			"newProfile": {
+				"title": "New Profile"
+			},
+			"remote": {
+				"defaultMessage": "Select a page in a profile to start editing",
+				"editSettingsMessage": "Settings content cannot be edited"
+			}
+		},
+		"irLearning": {},
+		"softwareUpdate": {
+			"title": "Software Update",
+			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
+			"autoUpdate": "Auto Update",
+			"update": "Update",
+			"checkForUpdate": "Check For Updates",
+			"upToDate": "Your software is up to date",
+			"newAvailable": "New software is available",
+			"installedVersion": "Installed Version"
+		},
+		"advanced": {
+			"title": "Advanced Configuration",
+			"message": "Manually set the remote config by hand:"
+		},
+		"settings": {
+			"title": "Settings",
+			"darkMode": {
+				"title": "Dark Mode"
+			},
+			"autoBrightness": {
+				"title": "Auto Brightness",
+				"description": "Automatically adjust the brightness based on ambient light."
+			}
+		}
+	}
+}
