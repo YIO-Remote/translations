@@ -1,108 +1,108 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"title": "Oh non!",
+			"message": "Il semble que nous ayons perdu la connexion avec votre télécommande. Veuillez vous assurer qu'elle est accessible sur le réseau.",
+			"reconnecting": "Reconnexion en cours"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
+		"save": "Sauvegarder",
+		"cancel": "Annuler",
+		"create": "Créer",
+		"name": "Nom",
+		"pleaseSelect": "Veuillez sélectionner",
+		"settings": "Paramètres",
 		"type": "Type",
 		"version": "Version",
-		"release": "Release"
+		"release": "Version"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Configurateur Web"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "Avancé",
+		"entities": "Entrées",
+		"integrations": "Intégrations",
+		"irLearning": "Apprentissage IR",
+		"settings": "Paramètres",
+		"profiles": "Profils",
+		"softwareUpdate": "Mise à jour logiciel"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Faites glisser une entrée ici"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Faites glisser un groupe"
 		},
 		"profileOptions": {
 			"pagesTab": {
 				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"message": "Vous pouvez ajouter des groupes à une page après l'avoir glissé sous un profil et l'avoir sélectionné.",
+				"availablePages": "Pages disponibles"
 			},
 			"groupsTab": {
-				"title": "Groups",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"title": "Groupes",
+				"message": "Vous pouvez ajouter des entités à un groupe après l'avoir glissé sous la page télécommande à gauche.",
+				"availableGroups": "Groupes disponibles"
 			},
 			"entitiesTab": {
-				"title": "Entities",
-				"message": "Drag entities to the remote view to add them to favorites or a group."
+				"title": "Entrées",
+				"message": "Faites glisser les entrées vers la vue de la télécommande pour les ajouter aux favoris ou à un groupe."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Intégrations configurées",
+			"discoveredIntegrations": "Intégrations découvertes",
+			"addIntegration": "Ajout des intégrations",
+			"newIntegration": "Nouvelles intégrations"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
-			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"title": "Entrées contrôlées par la télécommande YIO",
+			"integration": "Intégration",
+			"availableEntities": "Entrées disponibles"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Profils",
 			"profileList": {
 				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"dropZone": "Glissez une page ici"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Nouveau Profil"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Sélectionnez une page dans un profil pour commencer à l'éditer",
+				"editSettingsMessage": "Le contenu des paramètres ne peut pas être modifié"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
-			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"title": "Mise à jour logiciel",
+			"description": "Rechercher automatiquement les mises à jour et mettre à jour lorsqu'une nouvelle version du logiciel est disponible. Les mises à jour seront installées à 04h00.",
+			"autoUpdate": "Mise à jour automatique",
+			"update": "Mise à jour",
+			"checkForUpdate": "Vérifier les mises à jour",
+			"upToDate": "Votre logiciel est à jour",
+			"newAvailable": "Un nouveau logiciel est disponible",
+			"installedVersion": "Version installée"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "Configuration avancée",
+			"message": "Définissez manuellement la configuration de la télécommande :"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Réglages",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Mode Sombre"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "Luminosité automatique",
+				"description": "Ajuster automatiquement la luminosité en fonction de la lumière ambiante."
 			}
 		}
 	}
