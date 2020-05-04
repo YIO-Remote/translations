@@ -1,108 +1,108 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"title": "О, не!",
+			"message": "Изглежда, че загубихме връзка с дистанционното ви. Уверете се, че то има достъп до мрежата.",
+			"reconnecting": "Повторно свързване"
 		}
 	},
 	"common": {
-		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
-		"version": "Version",
-		"release": "Release"
+		"id": "ИД.№",
+		"save": "Запис",
+		"cancel": "Отказ",
+		"create": "Създаване",
+		"name": "Име",
+		"pleaseSelect": "Изберете",
+		"settings": "Настройки",
+		"type": "Вид",
+		"version": "Версия",
+		"release": "Издание"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Уебконфигуратор"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "За напреднали",
+		"entities": "Съществуващи неща",
+		"integrations": "Интегрирания",
+		"irLearning": "Инфрачервено обучение",
+		"settings": "Настройки",
+		"profiles": "Профили",
+		"softwareUpdate": "Обновяване на софтуера"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Провлачете нещо тук"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Провлачете групата тук"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"title": "Страници",
+				"message": "Можете да добавите групи към профил след провлачването им под профила и избирането им.",
+				"availablePages": "Налични страници"
 			},
 			"groupsTab": {
-				"title": "Groups",
+				"title": "Групи",
 				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"availableGroups": "Налични групи"
 			},
 			"entitiesTab": {
-				"title": "Entities",
+				"title": "Съществуващи неща",
 				"message": "Drag entities to the remote view to add them to favorites or a group."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Настроени интегрирания",
+			"discoveredIntegrations": "Открити интегрирания",
+			"addIntegration": "Добавяне на интегрирания",
+			"newIntegration": "Нови интегрирания"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
-			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"title": "Нещо, управлявано от Дистанционното YIO",
+			"integration": "Интегриране",
+			"availableEntities": "Налични неща"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Профили",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "Страници",
+				"dropZone": "Провлачете страницата тук"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Нов профил"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Изберете страница в профила, за да започнете редактиране",
+				"editSettingsMessage": "Съдържанието на настройките не може да се редактира"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
-			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"title": "Обновяване на софтуера",
+			"description": "Автоматично гледа за обновяване и обновява при наличие на нова версия на софтуера. Обновяванията са инсталирани към 4 сутринта.",
+			"autoUpdate": "Самообновяване",
+			"update": "Обновяване",
+			"checkForUpdate": "Проверка за осъвременяване",
+			"upToDate": "Вашият софтуер е осъвременен",
+			"newAvailable": "Има нов софтуер",
+			"installedVersion": "Инсталирана версия"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "Разширено конфигуриране",
+			"message": "Ръчно задаване на конфигурацията на дистанционното:"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Настройки",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Тъмен режим"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "Автоматична яркост",
+				"description": "Самонастройване на яркостта въз основа на околната светлина."
 			}
 		}
 	}
