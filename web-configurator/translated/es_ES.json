@@ -1,34 +1,34 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"title": "¡Oh no!",
+			"message": "Parecemos que hemos perdido la conexión con su mando. Asegúrese de que es accesible en la red.",
+			"reconnecting": "Reconectando"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
-		"version": "Version",
+		"save": "Guardar",
+		"cancel": "Cancelar",
+		"create": "Crear",
+		"name": "Nombre",
+		"pleaseSelect": "Selecciona",
+		"settings": "Ajustes",
+		"type": "Tipo",
+		"version": "Versión",
 		"release": "Release"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Configurador web"
 	},
 	"menu": {
-		"advanced": "Advanced",
+		"advanced": "Avanzado",
 		"entities": "Entities",
 		"integrations": "Integrations",
 		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"settings": "Ajustes",
+		"profiles": "Perfiles",
+		"softwareUpdate": "Actualización de software"
 	},
 	"components": {
 		"editEntities": {

@@ -1,108 +1,108 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"title": "Ωχ όχι!",
+			"message": "Φαίνεται οτι χάθηκε η σύνδεση με το τηλεχειριστήριο. Παρακαλώ βεβαιωθείτε ότι υπάρχει πρόσβαση στο δίκτυο.",
+			"reconnecting": "Επανασύνδεση"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
-		"version": "Version",
-		"release": "Release"
+		"save": "Αποθήκευση",
+		"cancel": "Ακύρωση",
+		"create": "Δημιουργία",
+		"name": "Όνομα",
+		"pleaseSelect": "Παρακαλώ Επιλέξτε",
+		"settings": "Ρυθμίσεις",
+		"type": "Τύπος",
+		"version": "Έκδοση",
+		"release": "Κυκλοφορία"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Διαμορφωτής Ιστού"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "Για προχωρημένους",
+		"entities": "Οντότητες",
+		"integrations": "Ενσωματώσεις",
+		"irLearning": "IR Μάθηση",
+		"settings": "Ρυθμίσεις",
+		"profiles": "Προφίλ",
+		"softwareUpdate": "Ενημέρωση Λογισμικού"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Σύρετε μία οντότητα εδώ"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Σύρετε μία ομάδα εδώ"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"title": "Σελίδες",
+				"message": "Μπορείτε να προσθέσετε ομάδες σε μία σελίδα αφού τις σύρετε σε ένα προφίλ και τις επιλέξετε.",
+				"availablePages": "Διαθέσιμες Σελίδες"
 			},
 			"groupsTab": {
-				"title": "Groups",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"title": "Ομάδες",
+				"message": "Μπορείτε να προσθέσετε οντότητες σε μία ομάδα αφού τις σύρετε σε μία σελίδα στην αριστερή πλευρά της προβολής του τηλεχειριστιρίου.",
+				"availableGroups": "Διαθέσιμες Ομάδες"
 			},
 			"entitiesTab": {
-				"title": "Entities",
-				"message": "Drag entities to the remote view to add them to favorites or a group."
+				"title": "Οντότητες",
+				"message": "Σύρετε οντότητες στην προβολή του τηλεχειριστηρίου για να τις προσθέσετε στα αγαπημένα ή σε μία ομάδα."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Παράμετροι Ενσωμάτωσης",
+			"discoveredIntegrations": "Ενσωματώσεις που βρέθηκαν",
+			"addIntegration": "Προσθήκη Ενσωμάτωσης",
+			"newIntegration": "Νέα Ενσωμάτωση"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
-			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"title": "Οντότητες Ελεγχόμενες από το τηλεχειριστήριο YIO",
+			"integration": "Ενσωμάτωση",
+			"availableEntities": "Διαθέσιμες Οντότητες"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Προφίλ",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "Σελίδες",
+				"dropZone": "Σύρετε μία σελίδα εδώ"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Νέο προφίλ"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Επιλέξτε μία σελίδα σε ένα προφίλ για να ξεκινήσετε την επεξεργασία",
+				"editSettingsMessage": "Το περιεχόμενο των ρυμίσεων δεν μπορεί να επεξεργαστεί"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
-			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"title": "Ενημέρωση Λογισμικού",
+			"description": "Αυτόματη αναζήτηση ενημερώσεων και εφαρμογή ενημέρωσης όταν υπάρχει νέα έκδοση. Οι ενημερώσεις θα εγκατασταθούν στις 04.00 π.μ.",
+			"autoUpdate": "Αυτόματη Ενημέρωση",
+			"update": "Ενημέρωση",
+			"checkForUpdate": "Ελέγχος Για Ενημερώσεις",
+			"upToDate": "Το λογισμικό σας είναι ενημερωμένο",
+			"newAvailable": "Νέα έκδοση λογισμικού διαθέσιμη",
+			"installedVersion": "Εγκατεστημένη Έκδοση"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "Παραμετροποίηση για προχωρημένους",
+			"message": "Ρυθμίστε χειροκίνητα τη διαμόρφωση του τηλεχειριστηρίου:"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Ρυθμίσεις",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Σκοτεινή Λειτουργία"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "Αυτόματη Φωτεινότητα",
+				"description": "Αυτόματη προσαρμογή της φωτεινότητας βασιζόμενη στο περιβάλλων φως."
 			}
 		}
 	}
