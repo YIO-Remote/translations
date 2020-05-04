@@ -9,7 +9,7 @@
 	"common": {
 		"id": "ID",
 		"save": "Save",
-		"cancel": "Cancel",
+		"cancel": "Annuleer",
 		"create": "Create",
 		"name": "Name",
 		"pleaseSelect": "Please Select",
