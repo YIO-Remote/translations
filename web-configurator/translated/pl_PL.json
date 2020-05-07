@@ -1,108 +1,108 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"title": "O nie!",
+			"message": "Wygląda na to, że straciliśmy połączenie z Twoim pilotem. Upewnij się, że jest on dostępny w sieci.",
+			"reconnecting": "Ponowne łączenie"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
-		"version": "Version",
-		"release": "Release"
+		"save": "Zapisz",
+		"cancel": "Anuluj",
+		"create": "Utwórz",
+		"name": "Nazwa",
+		"pleaseSelect": "Proszę wybrać",
+		"settings": "Ustawienia",
+		"type": "Typ",
+		"version": "Wersja",
+		"release": "Wydanie"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Konfigurator webowy"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "Zaawansowane",
+		"entities": "Elementy",
+		"integrations": "Integracje",
+		"irLearning": "Uczenie się IR",
+		"settings": "Ustawienia",
+		"profiles": "Profile",
+		"softwareUpdate": "Aktualizacja oprogramowania"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Przeciągnij element tutaj"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Przeciągnij grupę tutaj"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"title": "Strony",
+				"message": "Możesz dodać grupy do strony po przeciągnięciu ich pod profil i wybraniu go.",
+				"availablePages": "Dostępne strony"
 			},
 			"groupsTab": {
-				"title": "Groups",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"title": "Grupy",
+				"message": "Możesz dodać elementy do grupy po przeciągnięciu ich pod stronę w widoku pilota po lewej stronie.",
+				"availableGroups": "Dostępne grupy"
 			},
 			"entitiesTab": {
-				"title": "Entities",
-				"message": "Drag entities to the remote view to add them to favorites or a group."
+				"title": "Elementy",
+				"message": "Przeciągnij elementy do widoku pilota, aby dodać je do ulubionych lub do grupy."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Skonfigurowane integracje",
+			"discoveredIntegrations": "Odkryte integracje",
+			"addIntegration": "Dodaj integracje",
+			"newIntegration": "Nowe integracje"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
-			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"title": "Elementy kontrolowane przez pilot YIO",
+			"integration": "Integracja",
+			"availableEntities": "Dostępne elementy"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Profile",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "Strony",
+				"dropZone": "Przeciągnij stronę tutaj"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Nowy profil"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Wybierz stronę w profilu, aby rozpocząć edycję",
+				"editSettingsMessage": "Nie można edytować zawartości ustawień"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
-			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"title": "Aktualizacja oprogramowania",
+			"description": "Automatycznie wyszukaj aktualizacje i aktualizuj, gdy dostępna będzie nowa wersja oprogramowania. Aktualizacje są instalowane o godzinie 4:00.",
+			"autoUpdate": "Automatyczna aktualizacja",
+			"update": "Aktualizuj",
+			"checkForUpdate": "Sprawdź dostępność aktualizacji",
+			"upToDate": "Twoje oprogramowanie jest aktualne",
+			"newAvailable": "Nowe oprogramowanie jest dostępne",
+			"installedVersion": "Zainstalowana wersja"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "Zaawansowana konfiguracja",
+			"message": "Ręcznie ustaw konfigurację pilota:"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Ustawienia",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Tryb ciemny"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "Automatyczna jasność",
+				"description": "Automatycznie dopasuj jasność w oparciu o światło otoczenia."
 			}
 		}
 	}
