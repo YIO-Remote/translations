@@ -73,36 +73,36 @@
 				"dropZone": "Drag a page here"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Perfil nuevo"
 			},
 			"remote": {
 				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"editSettingsMessage": "No se pueden modificar los ajustes"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
+			"title": "Actualización de software",
+			"description": "Buscar actualizaciones automáticamente y actualizar cuando exista una nueva versión. Las actualizaciones se instalan a las 04:00.",
 			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"update": "Actualizar",
+			"checkForUpdate": "Comprobar actualizaciones",
+			"upToDate": "Su software está actualizado",
+			"newAvailable": "Nueva actualización disponible",
+			"installedVersion": "Versión instalada"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "Ajustes avanzados",
+			"message": "Establecer manualmente la configuración del mando:"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Ajustes",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Modo oscuro"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "Brillo automático",
+				"description": "Ajustar el brillo automáticamente según la luz ambiente."
 			}
 		}
 	}
