@@ -1,50 +1,50 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
+			"title": "Oh nein!",
 			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"reconnecting": "Verbinde erneut"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
+		"save": "Speichern",
+		"cancel": "Abbrechen",
+		"create": "Erstellen",
 		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
+		"pleaseSelect": "Bitte auswählen",
+		"settings": "Einstellungen",
+		"type": "Typ",
 		"version": "Version",
 		"release": "Release"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Web-Konfigurator"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
+		"advanced": "Erweitert",
+		"entities": "Entitäten",
+		"integrations": "Integrationen",
 		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"settings": "Einstellungen",
+		"profiles": "Profile",
+		"softwareUpdate": "Software aktualisieren"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Ziehe eine Entität hierher"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Ziehe eine Gruppe hierher"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
+				"title": "Seiten",
 				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"availablePages": "Verfügbare Seiten"
 			},
 			"groupsTab": {
-				"title": "Groups",
+				"title": "Gruppen",
 				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
 				"availableGroups": "Available Groups"
 			},
@@ -56,10 +56,10 @@
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Konfigurierte Integrationen",
+			"discoveredIntegrations": "Entdeckte Integrationen",
+			"addIntegration": "Integrationen hinzufügen",
+			"newIntegration": "Neue Integrationen"
 		},
 		"entities": {
 			"title": "Entities Controlled By YIO Remote",
@@ -67,13 +67,13 @@
 			"availableEntities": "Available Entities"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Profile",
 			"profileList": {
-				"title": "Pages",
+				"title": "Seiten",
 				"dropZone": "Drag a page here"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Neues Profil"
 			},
 			"remote": {
 				"defaultMessage": "Select a page in a profile to start editing",
@@ -82,26 +82,26 @@
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
+			"title": "Software aktualisieren",
 			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
 			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
+			"update": "Aktualisieren",
+			"checkForUpdate": "Nach Updates suchen",
+			"upToDate": "Ihre Software ist auf dem neuesten Stand",
 			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"installedVersion": "Installierte Version"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
+			"title": "Erweiterte Einstellungen",
 			"message": "Manually set the remote config by hand:"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Einstellungen",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Dunkler Modus"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
+				"title": "Auto-Helligkeit",
 				"description": "Automatically adjust the brightness based on ambient light."
 			}
 		}
