@@ -2,7 +2,7 @@
 	"overlays": {
 		"disconnection": {
 			"title": "Oh nein!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
+			"message": "Es sieht so aus als hätten wir die Verbindung zur Fernbedienung verloren. Stellen Sie sicher, dass sie im Netzwerk verfügbar ist.",
 			"reconnecting": "Verbinde erneut"
 		}
 	},
@@ -25,7 +25,7 @@
 		"advanced": "Erweitert",
 		"entities": "Entitäten",
 		"integrations": "Integrationen",
-		"irLearning": "IR Learning",
+		"irLearning": "IR Lernen",
 		"settings": "Einstellungen",
 		"profiles": "Profile",
 		"softwareUpdate": "Software aktualisieren"
@@ -40,17 +40,17 @@
 		"profileOptions": {
 			"pagesTab": {
 				"title": "Seiten",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
+				"message": "Sie können Gruppen zu einer Seite hinzufügen indem Sie sie unter ein Profil ziehen und auswählen.",
 				"availablePages": "Verfügbare Seiten"
 			},
 			"groupsTab": {
 				"title": "Gruppen",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"message": "Sie können Entitäten zu einer Gruppe hinzufügen indem Sie sie unter eine Seite in der Fernbedienungsansicht links ziehen.",
+				"availableGroups": "Verfügbare Gruppen"
 			},
 			"entitiesTab": {
-				"title": "Entities",
-				"message": "Drag entities to the remote view to add them to favorites or a group."
+				"title": "Entitäten",
+				"message": "Ziehen Sie Entitäten zur Fernbedienungsansicht um sie zu den Favoriten oder einer Gruppe hinzuzufügen."
 			}
 		}
 	},
@@ -62,28 +62,28 @@
 			"newIntegration": "Neue Integrationen"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
+			"title": "Von der YIO Fernbedienung gesteuerte Entitäten",
 			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"availableEntities": "Verfügbare Entitäten"
 		},
 		"profiles": {
 			"title": "Profile",
 			"profileList": {
 				"title": "Seiten",
-				"dropZone": "Drag a page here"
+				"dropZone": "Ziehen Sie eine Seite hierher"
 			},
 			"newProfile": {
 				"title": "Neues Profil"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Wählen Sie eine Seite in einem Profil aus um sie zu bearbeiten",
+				"editSettingsMessage": "Inhalt der Einstellungen kann nicht bearbeitet werden"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
 			"title": "Software aktualisieren",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
+			"description": "Suche automatisch nach Updates und aktualisiere wenn eine neue Version verfügbar ist. Updates werden um 4 Uhr installiert.",
 			"autoUpdate": "Auto Update",
 			"update": "Aktualisieren",
 			"checkForUpdate": "Nach Updates suchen",
