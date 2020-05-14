@@ -1,108 +1,108 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"title": "哦，不！",
+			"message": "看起来我们与您的遥控器失去了连接。请确保它可以在网络上访问。",
+			"reconnecting": "重连中"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
-		"version": "Version",
-		"release": "Release"
+		"save": "保存",
+		"cancel": "取消",
+		"create": "创建",
+		"name": "名称",
+		"pleaseSelect": "请选择",
+		"settings": "设置",
+		"type": "类型",
+		"version": "版本",
+		"release": "发布"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Web 配置器"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "高级选项",
+		"entities": "实体",
+		"integrations": "集成",
+		"irLearning": "IR 学习",
+		"settings": "设置",
+		"profiles": "配置文件",
+		"softwareUpdate": "软件更新"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "将实体拖动到这里"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "拖动组到这里"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"title": "页面",
+				"message": "您可以在一个profile下拖动它并选择它后将组添加到一个页面。",
+				"availablePages": "可用页面"
 			},
 			"groupsTab": {
-				"title": "Groups",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"title": "组",
+				"message": "您可以在远程视图下将实体拖放到左侧页面后添加到组。",
+				"availableGroups": "可用组"
 			},
 			"entitiesTab": {
-				"title": "Entities",
-				"message": "Drag entities to the remote view to add them to favorites or a group."
+				"title": "实体",
+				"message": "拖动实体到远程视图中添加到收藏夹或群组。"
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "已配置的集成",
+			"discoveredIntegrations": "发现的集成",
+			"addIntegration": "添加新的集成",
+			"newIntegration": "新建集成"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
-			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"title": "由YIO 遥控器控制的实体",
+			"integration": "集成",
+			"availableEntities": "可用实体"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "配置文件",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "页面",
+				"dropZone": "将页面拖到这里"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "新建配置文件"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "在配置文件中选择一个页面开始编辑",
+				"editSettingsMessage": "无法编辑设置内容"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
-			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"title": "软件更新",
+			"description": "当有新软件版本可用时，自动寻找更新和更新。",
+			"autoUpdate": "自动更新",
+			"update": "更新",
+			"checkForUpdate": "检查更新",
+			"upToDate": "您的软件是最新的",
+			"newAvailable": "有新版本可用！",
+			"installedVersion": "已安装的版本"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "高级配置",
+			"message": "手动设置遥控器配置："
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "设置",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "深色模式"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "自动调节亮度",
+				"description": "基于环境光线自动调整亮度。"
 			}
 		}
 	}
