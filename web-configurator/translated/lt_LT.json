@@ -88,21 +88,21 @@
 			"update": "Atnaujinti",
 			"checkForUpdate": "Tikrinti, ar yra atnaujinimų",
 			"upToDate": "Jūsų programinė įranga yra naujausios versijos",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"newAvailable": "Rasta nauja programinės įrangos versija",
+			"installedVersion": "Įdiegta versija"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "Papildomi nustatymai",
+			"message": "Nustatyti distancinio valdymo pultą rankiniu būdu:"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Nustatymai",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Tamsus ręžimas"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "Automatinis šviesumas",
+				"description": "Automatiškai nustatyti apšvietimą pagal aplinkos šviesos lygį."
 			}
 		}
 	}
