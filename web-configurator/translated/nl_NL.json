@@ -40,24 +40,24 @@
 		"profileOptions": {
 			"pagesTab": {
 				"title": "Pagina's",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
+				"message": "U kunt groepen aan een pagina toevoegen nadat u het onder een profiel sleept en selecteert.",
 				"availablePages": "Beschikbare pagina's"
 			},
 			"groupsTab": {
 				"title": "Groepen",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
+				"message": "U kunt entiteiten aan een groep toevoegen nadat u ze onder een pagina heeft gesleept in de weergave van de afstandsbediening aan de linker kant.",
 				"availableGroups": "Beschikbare groepen"
 			},
 			"entitiesTab": {
 				"title": "Entiteiten",
-				"message": "Drag entities to the remote view to add them to favorites or a group."
+				"message": "Sleep entiteiten naar de weergave van de afstandsbediening om ze toe te voegen aan favorieten of een groep."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
+			"configuredIntegrations": "Geconfigureerde integraties",
+			"discoveredIntegrations": "Ontdekte integraties",
 			"addIntegration": "Integraties Toevoegen",
 			"newIntegration": "Nieuwe Integraties"
 		},
@@ -76,14 +76,14 @@
 				"title": "Nieuw Profiel"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Selecteer een pagina in een profiel om te beginnen met bewerken",
+				"editSettingsMessage": "Instellingen kunnen niet worden bewerkt"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
 			"title": "Software Bijwerken",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
+			"description": "Automatisch zoeken naar nieuwe softwareversies en bijwerken indien beschikbaar. Nieuwe softwareversies worden geïnstalleerd om 04.00 uur.",
 			"autoUpdate": "Automatisch Bijwerken",
 			"update": "Bijwerken",
 			"checkForUpdate": "Controleren op nieuwe versies",
@@ -93,16 +93,16 @@
 		},
 		"advanced": {
 			"title": "Geavanceerde Configuratie",
-			"message": "Manually set the remote config by hand:"
+			"message": "Stel de configuratie van de afstandsbediening handmatig in:"
 		},
 		"settings": {
 			"title": "Instellingen",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Donkere Modus"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "Automatische Helderheid",
+				"description": "Helderheid automatisch aanpassen op basis van omgevingslicht."
 			}
 		}
 	}
