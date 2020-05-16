@@ -2,54 +2,54 @@
 	"overlays": {
 		"disconnection": {
 			"title": "O ne!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"message": "Atrodo kad praradome ryšį su distancinio valdymo pultu. Prašau patikrinkite ar jis matomas tinkle.",
+			"reconnecting": "Jungiamasi iš naujo"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
-		"version": "Version",
-		"release": "Release"
+		"save": "Išsaugoti",
+		"cancel": "Atšaukti",
+		"create": "Sukurti",
+		"name": "Pavadinimas",
+		"pleaseSelect": "Prašome pasirinkti",
+		"settings": "Nustatymai",
+		"type": "Tipas",
+		"version": "Versija",
+		"release": "Versija"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "WEB valdiklis"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "Papildomi nustatymai",
+		"entities": "Objektai",
+		"integrations": "Integracija",
+		"irLearning": "IR apmokymas",
+		"settings": "Nustatymai",
+		"profiles": "Profiliai",
+		"softwareUpdate": "Programinės įrangos atnaujinimas"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Pertempkite objektą čia"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Pertempkite grupę čia"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"title": "Puslapiai",
+				"message": "Galite pridėti grupę prie puslapio užtempę ant profilio bei pasirinkę.",
+				"availablePages": "Prieinami puslapiai"
 			},
 			"groupsTab": {
-				"title": "Groups",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"title": "Grupės",
+				"message": "Galite pridėti objektą prie grupės užtempę ant puslapio distancionio ręžime kairėje.",
+				"availableGroups": "Prieinamos grupės"
 			},
 			"entitiesTab": {
-				"title": "Entities",
+				"title": "Objektai",
 				"message": "Drag entities to the remote view to add them to favorites or a group."
 			}
 		}
