@@ -45,7 +45,7 @@
 			},
 			"groupsTab": {
 				"title": "Grupės",
-				"message": "Galite pridėti objektą prie grupės užtempę ant puslapio distancionio ręžime kairėje.",
+				"message": "Objektą prie grupės pridėti galite užtempę jį ant puslapio distancionio pulto atvaizde kairėje.",
 				"availableGroups": "Prieinamos grupės"
 			},
 			"entitiesTab": {
@@ -56,38 +56,38 @@
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Paruoštos integracijos",
+			"discoveredIntegrations": "Rastos integracijos",
+			"addIntegration": "Sukurti integraciją",
+			"newIntegration": "Naujos integracijos"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
-			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"title": "YIO distanciniu valdymo pultu valdomi objektai",
+			"integration": "Integracija",
+			"availableEntities": "Prieinami objektai"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Profiliai",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "Puslapiai",
+				"dropZone": "Pertempkite puslapį čia"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Naujas profilis"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Norėdami koreguoti pasirinkite puslapį profilyje",
+				"editSettingsMessage": "Negalima koreguoti nustatymų turinio"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
-			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
+			"title": "Programinės įrangos atnaujinimas",
+			"description": "Automatiškai ieškoti programinės įrangos atnajinimų bei atnaujinti kai tik atsiranda nauja versija. Atnaujinimai yra įdiegiami 04.00 nakties laiku.",
+			"autoUpdate": "Automatinis atnaujinimas",
+			"update": "Atnaujinti",
+			"checkForUpdate": "Tikrinti, ar yra atnaujinimų",
+			"upToDate": "Jūsų programinė įranga yra naujausios versijos",
 			"newAvailable": "New software is available",
 			"installedVersion": "Installed Version"
 		},
