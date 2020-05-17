@@ -16,67 +16,67 @@
 		"settings": "Ajustes",
 		"type": "Tipo",
 		"version": "Versión",
-		"release": "Release"
+		"release": "Publicación"
 	},
 	"header": {
 		"title": "Configurador web"
 	},
 	"menu": {
 		"advanced": "Avanzado",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
+		"entities": "Entidades",
+		"integrations": "Integraciones",
+		"irLearning": "Aprendizaje del IR",
 		"settings": "Ajustes",
 		"profiles": "Perfiles",
 		"softwareUpdate": "Actualización de software"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Arrastre una entidad aquí"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Arrastra un grupo aquí"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"title": "Páginas",
+				"message": "Puedes añadir grupos a una página después de arrastrarlo bajo un perfil y seleccionarlo.",
+				"availablePages": "Páginas disponibles"
 			},
 			"groupsTab": {
-				"title": "Groups",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"title": "Grupos",
+				"message": "Puede añadir entidades a un grupo después de arrastrarlo bajo una página en la vista remota a la izquierda.",
+				"availableGroups": "Grupos Disponibles"
 			},
 			"entitiesTab": {
-				"title": "Entities",
-				"message": "Drag entities to the remote view to add them to favorites or a group."
+				"title": "Entidades",
+				"message": "Arrastra las entidades a la vista remota para añadirlas a favoritos o a un grupo."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Configurar integración",
+			"discoveredIntegrations": "Integraciones descubiertas",
+			"addIntegration": "Añadir Integraciones",
+			"newIntegration": "Nuevas Integraciones"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
-			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"title": "Entidades controladas por YIO Remoto",
+			"integration": "Integración",
+			"availableEntities": "Entidades disponibles"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Perfiles",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "Páginas",
+				"dropZone": "Arrastra una página aquí"
 			},
 			"newProfile": {
 				"title": "Perfil nuevo"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
+				"defaultMessage": "Seleccione una página en un perfil para empezar a editar",
 				"editSettingsMessage": "No se pueden modificar los ajustes"
 			}
 		},
@@ -84,7 +84,7 @@
 		"softwareUpdate": {
 			"title": "Actualización de software",
 			"description": "Buscar actualizaciones automáticamente y actualizar cuando exista una nueva versión. Las actualizaciones se instalan a las 04:00.",
-			"autoUpdate": "Auto Update",
+			"autoUpdate": "Actualización automática",
 			"update": "Actualizar",
 			"checkForUpdate": "Comprobar actualizaciones",
 			"upToDate": "Su software está actualizado",
