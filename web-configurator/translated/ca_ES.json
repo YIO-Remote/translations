@@ -1,46 +1,46 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"title": "Oh no!",
+			"message": "Sembla que s'ha perdut la connexió amb el mando. Si us plau, mira que tingui connexió a la xarxa.",
+			"reconnecting": "Reconnectant"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
-		"version": "Version",
-		"release": "Release"
+		"save": "Desa",
+		"cancel": "Cancel·la",
+		"create": "Crear",
+		"name": "Nom",
+		"pleaseSelect": "Si us plau, selecciona",
+		"settings": "Configuració",
+		"type": "Tipus",
+		"version": "Versió",
+		"release": "Distribució"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Configurador Web"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "Avançat",
+		"entities": "Entitats",
+		"integrations": "Integracions",
+		"irLearning": "Aprenentatge IR",
+		"settings": "Configuració",
+		"profiles": "Perfils",
+		"softwareUpdate": "Actualització de programari"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Arrastra una entrada aqui"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Arrastra un grup aqui"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
+				"title": "Pàgines",
+				"message": "Pots afegir grups a una pàgina arrastrant-los sobre un perfil i seleccionant-lo.",
 				"availablePages": "Available Pages"
 			},
 			"groupsTab": {
