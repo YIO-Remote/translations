@@ -93,7 +93,7 @@
 		},
 		"advanced": {
 			"title": "Erweiterte Einstellungen",
-			"message": "Manually set the remote config by hand:"
+			"message": "Setze die Einstellungen der Fernbedienung manuell:"
 		},
 		"settings": {
 			"title": "Einstellungen",
@@ -102,7 +102,7 @@
 			},
 			"autoBrightness": {
 				"title": "Auto-Helligkeit",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"description": "Passe die Helligkeit automatisch an das Licht in der Umgebung an."
 			}
 		}
 	}
