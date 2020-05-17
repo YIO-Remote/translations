@@ -41,68 +41,68 @@
 			"pagesTab": {
 				"title": "Pàgines",
 				"message": "Pots afegir grups a una pàgina arrastrant-los sobre un perfil i seleccionant-lo.",
-				"availablePages": "Available Pages"
+				"availablePages": "Pàgines disponibles"
 			},
 			"groupsTab": {
-				"title": "Groups",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"title": "Grups",
+				"message": "Pots afegir entitas a un grup arrastrant-los sobre una pàgina a la vista del mando de l'esquerra.",
+				"availableGroups": "Grups disponibles"
 			},
 			"entitiesTab": {
-				"title": "Entities",
-				"message": "Drag entities to the remote view to add them to favorites or a group."
+				"title": "Entitats",
+				"message": "Arrastra entitats a la vista del mando per afegir-les al grup de favorits."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Integracions configurades",
+			"discoveredIntegrations": "Integracions descobertes",
+			"addIntegration": "Afegir integració",
+			"newIntegration": "Noves integracions"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
-			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"title": "Entitats controlades per el manod YIO",
+			"integration": "Integració",
+			"availableEntities": "Entitats disponibles"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Perfils",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "Pàgines",
+				"dropZone": "Arrastra una pàgina aqui"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Perfil nou"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Sel·lecciona una pàgina en un perfil per editarla",
+				"editSettingsMessage": "El contingut de la configuració no pot ser editat"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
-			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"title": "Actualització de programari",
+			"description": "Busca actualitzacions automàticament e instal·la-les quan estigui disponible una nova versió. Les actualitzacions s'instal·len a les 04.00 am.",
+			"autoUpdate": "Actualització automàtica",
+			"update": "Actualització",
+			"checkForUpdate": "Comprova si hi ha cap actualització",
+			"upToDate": "El programa està actualitzat",
+			"newAvailable": "Un nou programa està disponible",
+			"installedVersion": "Versió instal·lada"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "Configuració avançada",
+			"message": "Configura manualment el mando:"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Configuració",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Mode Fosc"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "Brillantor Automàtica",
+				"description": "Ajusta automáticament la brillantor en funció de la llum d'ambient."
 			}
 		}
 	}
