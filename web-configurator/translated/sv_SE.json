@@ -1,108 +1,108 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"title": "Åh nej!",
+			"message": "Det verkar som om vi förlorade anslutningen med din fjärrkontroll. Kontrollera att den är tillgänglig på nätverket.",
+			"reconnecting": "Återansluter"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
+		"save": "Spara",
+		"cancel": "Avbryt",
+		"create": "Skapa",
+		"name": "Namn",
+		"pleaseSelect": "Vänligen välj",
+		"settings": "Inställningar",
+		"type": "Typ",
 		"version": "Version",
-		"release": "Release"
+		"release": "Släpp"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Webbkonfigurator"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "Avancerat",
+		"entities": "Entiteter",
+		"integrations": "Integrationer",
+		"irLearning": "IR-inlärning",
+		"settings": "Inställningar",
+		"profiles": "Profiler",
+		"softwareUpdate": "Mjukvaruuppdatering"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Dra en entitet hit"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Dra en grupp hit"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"title": "Sidor",
+				"message": "Du kan lägga till grupper till en sida efter att du dragit den under en profil och valt den.",
+				"availablePages": "Tillgängliga sidor"
 			},
 			"groupsTab": {
-				"title": "Groups",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"title": "Grupper",
+				"message": "Du kan lägga till entiteter till en grupp efter att ha dragit den under en sida i fjärrkontrollsvyn till vänster.",
+				"availableGroups": "Tillgängliga grupper"
 			},
 			"entitiesTab": {
-				"title": "Entities",
-				"message": "Drag entities to the remote view to add them to favorites or a group."
+				"title": "Entiteter",
+				"message": "Dra enheter till fjärrkontrollsvyn för att lägga till dem i favoriter eller en grupp."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Konfigurerade Integrationer",
+			"discoveredIntegrations": "Upptäckta integrationer",
+			"addIntegration": "Lägg till integrationer",
+			"newIntegration": "Nya integrationer"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
+			"title": "Enheter som kontrolleras av YIO Fjärrkontroll",
 			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"availableEntities": "Tillgängliga entiteter"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Profiler",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "Sidor",
+				"dropZone": "Dra en sida hit"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Ny profil"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Välj en sida i en profil för att börja redigera",
+				"editSettingsMessage": "Inställningens innehåll kan inte redigeras"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
-			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"title": "Mjukvaruuppdatering",
+			"description": "Leta automatiskt efter uppdateringar och uppdatera när en ny version finns tillgänglig. Uppdateringar installeras 04:00.",
+			"autoUpdate": "Automatisk uppdatering",
+			"update": "Uppdatera",
+			"checkForUpdate": "Leta efter uppdatering",
+			"upToDate": "Din mjukvara är senaste versionen",
+			"newAvailable": "Ny mjukvaruuppdatering tillgänglig",
+			"installedVersion": "Installerad version"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "Avancerad konfiguration",
+			"message": "Ställ manuellt in fjärrkontrollskonfigurationen för hand:"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Inställningar",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Nattläge"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "Automatisk ljusstyrka",
+				"description": "Justera ljusstyrkan automatiskt baserat på omgivande ljus."
 			}
 		}
 	}
