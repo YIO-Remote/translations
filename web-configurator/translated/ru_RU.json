@@ -82,27 +82,27 @@
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
-			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"title": "Обновление приложения",
+			"description": "Автоматически искать обновления и устанавливать их при наличии. \nУстановка происходит в 04:00.",
+			"autoUpdate": "Автообновление",
+			"update": "Обновить",
+			"checkForUpdate": "Проверить наличие обновлений",
+			"upToDate": "Установлена последняя версия",
+			"newAvailable": "Доступно обновление",
+			"installedVersion": "Текущая версия"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "Расширенная конфигурация",
+			"message": "Установите настройки вручную:"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Настройки",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Тёмная тема"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "Адаптивная яркость",
+				"description": "Автоматически регулировать яркость на основе окружающего света."
 			}
 		}
 	}
