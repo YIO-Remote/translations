@@ -45,39 +45,39 @@
 			},
 			"groupsTab": {
 				"title": "Группы",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"message": "Вы можете добавить сущности в группу после их перетаскивания вниз страницы в описании пульта слева.",
+				"availableGroups": "Доступные группы"
 			},
 			"entitiesTab": {
-				"title": "Entities",
-				"message": "Drag entities to the remote view to add them to favorites or a group."
+				"title": "Объекты",
+				"message": "Перетащите объекты, чтобы добавить их в избранное или группу."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Настроенные интеграции",
+			"discoveredIntegrations": "Найденные интеграции",
+			"addIntegration": "Добавить интеграции",
+			"newIntegration": "Новые интеграции"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
-			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"title": "Управляемые YIO Remote объекты",
+			"integration": "Интеграция",
+			"availableEntities": "Доступные объекты"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Профили",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "Страницы",
+				"dropZone": "Перетащите страницу сюда"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Новый профиль"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Выберите страницу в профиле, чтобы начать редактирование",
+				"editSettingsMessage": "Настройки не могут быть отредактированы"
 			}
 		},
 		"irLearning": {},
