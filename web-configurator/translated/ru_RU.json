@@ -1,50 +1,50 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"title": "Упс!",
+			"message": "Похоже, потеряно соединение с пультом. Пожалуйста, убедитесь, что он доступен в сети.",
+			"reconnecting": "Переподключение"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
-		"version": "Version",
-		"release": "Release"
+		"save": "Сохранить",
+		"cancel": "Отмена",
+		"create": "Создать",
+		"name": "Название",
+		"pleaseSelect": "Выберите",
+		"settings": "Настройки",
+		"type": "Тип",
+		"version": "Версия",
+		"release": "Релиз"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Веб-конфигуратор"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "Дополнительно",
+		"entities": "Объекты",
+		"integrations": "Интеграция",
+		"irLearning": "IR настройка",
+		"settings": "Настройки",
+		"profiles": "Профили",
+		"softwareUpdate": "Обновить приложение"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Перетащите объект сюда"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Перетащите группу сюда"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"title": "Страницы",
+				"message": "Вы можете добавить группы на страницу после их перетаскивания под профиль и выбора.",
+				"availablePages": "Доступные страницы"
 			},
 			"groupsTab": {
-				"title": "Groups",
+				"title": "Группы",
 				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
 				"availableGroups": "Available Groups"
 			},
