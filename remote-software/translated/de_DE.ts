@@ -223,7 +223,7 @@ Um mehr über das Projekt zu erfahren, besuche
     <message>
       <location filename="../components/remote/ui/ir/CardButtons.qml" line="104"/>
       <source>Guide</source>
-      <translation>Anleitung</translation>
+      <translation>Guide</translation>
     </message>
   </context>
   <context>
