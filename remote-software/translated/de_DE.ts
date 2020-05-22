@@ -139,7 +139,7 @@ Um mehr über das Projekt zu erfahren, besuche
       <location filename="../components/climate/ui/Button.qml" line="45"/>
       <location filename="../components/climate/ui/Button.qml" line="47"/>
       <source>Temperature: </source>
-      <translation>Taste: </translation>
+      <translation>Temperatur: </translation>
     </message>
   </context>
   <context>
