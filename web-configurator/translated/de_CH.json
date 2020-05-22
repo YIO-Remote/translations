@@ -2,107 +2,107 @@
 	"overlays": {
 		"disconnection": {
 			"title": "Verdami nomal!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"message": "Es gseht us als ob mer d'Verbindig mit dinerä Fernbedienig verlorä hättet. Bitte stell sicher das sie im Netzwerk verfügbar isch.",
+			"reconnecting": "Erneut verbindä"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
+		"save": "Speicherä",
+		"cancel": "Abbrechä",
+		"create": "Erstellä",
+		"name": "Namä",
+		"pleaseSelect": "Bitte uswählä",
+		"settings": "Istelligä",
+		"type": "Typ",
 		"version": "Version",
 		"release": "Release"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Web-Konfigurator"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "Erwiiteret",
+		"entities": "Grät",
+		"integrations": "Integrationä",
+		"irLearning": "IR Lernä",
+		"settings": "Istelligä",
+		"profiles": "Profil",
+		"softwareUpdate": "Software uffrüschig"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Zieh es Grät doanä"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Zieh ä Gruppä doanä"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"title": "Sitä",
+				"message": "Du chasch ä Gruppä zunerä Sitä hinzufüegä nachdem sie ines Profil zogä häsch und den uswählsch.",
+				"availablePages": "Verfüegbari Sitä"
 			},
 			"groupsTab": {
-				"title": "Groups",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"title": "Gruppä",
+				"message": "Du chasch Grät zunerä Gruppä hinzufüegä nachdem sie uf a Sitä zogä häsch i der Fernbedienigsasicht uf der linkä Sitä.",
+				"availableGroups": "Verfügbari Gruppä"
 			},
 			"entitiesTab": {
-				"title": "Entities",
-				"message": "Drag entities to the remote view to add them to favorites or a group."
+				"title": "Grät",
+				"message": "Zieh Grät uf d'Fernbedienigsasicht um sie zu de Favoritä oder enerä Gruppä hinzuzfüegä."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Konfigurierti Integrationä",
+			"discoveredIntegrations": "Gfundni Integrationä",
+			"addIntegration": "Integrationä hinzuefüegä",
+			"newIntegration": "Neui Integrationä"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
+			"title": "Grät welchi vo der YIO Fernbedienig kontrolliert werdet",
 			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"availableEntities": "Verfüegbari Grät"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Profil",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "Sitä",
+				"dropZone": "Zieh ä Sitä doanä"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Neus Profil"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Wähl ä Sitä imnä Profil um sie azpassä",
+				"editSettingsMessage": "Ischtelligs Inhalt chan nöd veränderet werdä"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
-			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"title": "Software uffrüschig",
+			"description": "I mach's Update für diich automatisch. Das mach i jeweils am Morgä früeh um die 4i.",
+			"autoUpdate": "Automatischi Uffrüschig",
+			"update": "Uffrüschig",
+			"checkForUpdate": "Uffrüschig überprüefä",
+			"upToDate": "Diini Software isch uf em letschtä Stand",
+			"newAvailable": "Neui Software isch verfüegbar",
+			"installedVersion": "Installierti Version"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "Erwiteriti Konfiguration",
+			"message": "Fernbedienigs Konfigurations von Hand machä:"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Istelligä",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Finschternis Modus"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "Automatischi Helligkeit",
+				"description": "Automatischi Apassig vo der Helligkeit as Umgebigsliecht."
 			}
 		}
 	}
