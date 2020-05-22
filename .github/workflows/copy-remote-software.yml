@@ -1,8 +1,7 @@
 name: Copy remote-software translated files
 on:
-  pull_request:
-    types:
-      - closed
+  schedule:
+    - cron: "0 23 * * *"
 jobs:
   copycat:
     name: Copycat
