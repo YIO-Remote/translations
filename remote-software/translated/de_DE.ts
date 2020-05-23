@@ -94,12 +94,12 @@ Um mehr über das Projekt zu erfahren, besuche
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="461"/>
       <source>Never turn off the remote</source>
-      <translation>Fernbedienung nie abschalten</translation>
+      <translation>YIO Remote nie abschalten</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="461"/>
       <source>Turn off the remote after %1 hours of inactivity</source>
-      <translation>Deaktivieren Sie die Fernbedienung nach %1 Stunden Inaktivität</translation>
+      <translation>Deaktivieren Sie die YIO Remote nach %1 Stunden Inaktivität</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="558"/>
@@ -463,7 +463,7 @@ um das Problem zu lösen.</translation>
     <message>
       <location filename="../sources/entities/entities.h" line="111"/>
       <source>Remote</source>
-      <translation>Fernbedienung</translation>
+      <translation>YIO Remote</translation>
     </message>
     <message>
       <location filename="../sources/entities/entities.h" line="111"/>
@@ -505,7 +505,7 @@ um das Problem zu lösen.</translation>
       <source>Use the web configurator
 to set up YIO remote</source>
       <translation>Verwenden Sie den Web-Konfigurator
-um die YIO-Fernbedienung einzurichten</translation>
+um die YIO Remote einzurichten</translation>
     </message>
     <message>
       <location filename="../basic_ui/InitialSetup.qml" line="44"/>
@@ -648,7 +648,7 @@ um die YIO-Fernbedienung einzurichten</translation>
     <message>
       <location filename="../basic_ui/PopupLowBattery.qml" line="112"/>
       <source>Please charge the remote soon</source>
-      <translation>Bitte laden Sie die Fernbedienung bald auf</translation>
+      <translation>Bitte laden Sie die YIO Remote bald auf</translation>
     </message>
   </context>
   <context>
@@ -674,7 +674,7 @@ um die YIO-Fernbedienung einzurichten</translation>
     <message>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="29"/>
       <source>Cannot initialize the battery sensor. Please restart the remote.</source>
-      <translation>Akku-Sensor kann nicht initialisiert werden. Bitte Fernbedienung neu starten.</translation>
+      <translation>Akku-Sensor kann nicht initialisiert werden. Bitte die YIO Remote neu starten.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="30"/>
@@ -703,7 +703,7 @@ um die YIO-Fernbedienung einzurichten</translation>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="39"/>
       <source>Remote configuration</source>
-      <translation>Fernbedienungskonfiguration</translation>
+      <translation>WebUI-Konfiguration</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="74"/>
