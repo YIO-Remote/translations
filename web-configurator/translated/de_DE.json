@@ -2,7 +2,7 @@
 	"overlays": {
 		"disconnection": {
 			"title": "Oh nein!",
-			"message": "Es sieht so aus als hätten wir die Verbindung zur Fernbedienung verloren. Stellen Sie sicher, dass sie im Netzwerk verfügbar ist.",
+			"message": "Es sieht so aus als hätten wir die Verbindung zur YIO Remote verloren. Stellen Sie sicher, dass sie im Netzwerk verfügbar ist.",
 			"reconnecting": "Verbinde erneut"
 		}
 	},
@@ -62,7 +62,7 @@
 			"newIntegration": "Neue Integrationen"
 		},
 		"entities": {
-			"title": "Von der YIO Fernbedienung gesteuerte Entitäten",
+			"title": "Von der YIO Remote gesteuerte Entitäten",
 			"integration": "Integration",
 			"availableEntities": "Verfügbare Entitäten"
 		},
@@ -93,7 +93,7 @@
 		},
 		"advanced": {
 			"title": "Erweiterte Einstellungen",
-			"message": "Setze die Einstellungen der Fernbedienung manuell:"
+			"message": "Setze die Einstellungen der YIO Remote manuell:"
 		},
 		"settings": {
 			"title": "Einstellungen",
