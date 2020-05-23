@@ -504,8 +504,7 @@ um das Problem zu lösen.</translation>
       <location filename="../basic_ui/InitialSetup.qml" line="33"/>
       <source>Use the web configurator
 to set up YIO remote</source>
-      <translation>Verwenden Sie den Web-Konfigurator
-um die YIO Remote einzurichten</translation>
+      <translation>Verwenden Sie den Web-Konfigurator um die YIO Remote einzurichten</translation>
     </message>
     <message>
       <location filename="../basic_ui/InitialSetup.qml" line="44"/>
@@ -680,22 +679,22 @@ um die YIO Remote einzurichten</translation>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="30"/>
       <location filename="../sources/hardware/proximitysensor.h" line="29"/>
       <source>Battery sensor communication error. Please restart the remote.</source>
-      <translation>Fehler bei der Kommunikation des Batterie-Sensors. Bitte Fernbedienung neu starten.</translation>
+      <translation>Fehler bei der Kommunikation des Batterie-Sensors. Bitte die YIO Remote neu starten.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/hapticmotor.h" line="29"/>
       <source>Cannot initialize the haptic motor. Please restart the remote.</source>
-      <translation>Der Haptikmotor kann nicht initialisiert werden. Bitte Fernbedienung neu starten.</translation>
+      <translation>Der Haptikmotor kann nicht initialisiert werden. Bitte die YIO Remote neu starten.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/interrupthandler.h" line="28"/>
       <source>Cannot initialize the interrupt handler. Please restart the remote.</source>
-      <translation>Der Interrupt-Handler kann nicht initialisiert werden. Bitte Fernbedienung neu starten.</translation>
+      <translation>Der Interrupt-Handler kann nicht initialisiert werden. Bitte die YIO Remote neu starten.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/proximitysensor.h" line="28"/>
       <source>Cannot initialize the proximity sensor. Please restart the remote.</source>
-      <translation>Der Näherungssensor konnte nicht initialisiert werden. Bitte Fernbedienung neu starten.</translation>
+      <translation>Der Näherungssensor konnte nicht initialisiert werden. Bitte YIO Remote neu starten.</translation>
     </message>
   </context>
   <context>
@@ -709,7 +708,7 @@ um die YIO Remote einzurichten</translation>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="74"/>
       <source>Use your browser to configure your YIO remote or download and upload backups.
 Navigate your internet browser to: http://</source>
-      <translation>Verwenden Sie Ihren Browser, um Ihre YIO-Remote zu konfigurieren oder Backups herunter- und hochzuladen.
+      <translation>Verwenden Sie Ihren Browser, um Ihre YIO Remote zu konfigurieren oder Backups herunter- und hochzuladen.
 Navigieren Sie Ihren Internet-Browser zu: http://</translation>
     </message>
   </context>
@@ -959,7 +958,7 @@ Remote configuration after restarting the remote.</source>
 
 Um den Webkonfigurator zu nutzen,
 öffnen sie die Einstellungen und schalten
-den Konfigurator nach einem neustart ein.</translation>
+den Konfigurator nach einem Neustart ein.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="61"/>
@@ -1046,7 +1045,7 @@ den Konfigurator nach einem Neustart an.</translation>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="243"/>
       <source>The remote needs to be at least 50% battery to perform updates.</source>
-      <translation>Die Fernbedienung muss mindestens 50% geladen sein um Updates auszuführen.</translation>
+      <translation>Die YIO Remote muss mindestens zu 50% geladen sein um Updates auszuführen.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="303"/>
@@ -1078,7 +1077,7 @@ Updates werden zwischen 03:00 und 05:00 Uhr installiert.</translation>
       <source>New software is available.
 YIO remote %1</source>
       <translation>Neue Software ist verfügbar.
-YIO remote %1</translation>
+YIO Remote %1</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="93"/>
@@ -1093,7 +1092,7 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="104"/>
       <source>YIO Remote </source>
-      <translation>YIO-Fernbedienung </translation>
+      <translation>YIO Remote</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="114"/>
