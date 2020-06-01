@@ -84,25 +84,25 @@
 		"softwareUpdate": {
 			"title": "軟件更新",
 			"description": "自動檢查更新並在有新軟件版本時更新。更新會於04.00 am 安裝。",
-			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"autoUpdate": "自動更新",
+			"update": "更新",
+			"checkForUpdate": "檢查更新",
+			"upToDate": "您的系統已是最新狀態",
+			"newAvailable": "有新版本可用",
+			"installedVersion": "已安裝的版本"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "進階設定",
+			"message": "手動設定遙控器配置："
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "設定",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "深色主題"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "自動調整亮度",
+				"description": "根據環境光線自動調節亮度。"
 			}
 		}
 	}
