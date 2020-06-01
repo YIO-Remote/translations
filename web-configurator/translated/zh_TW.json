@@ -2,44 +2,44 @@
 	"overlays": {
 		"disconnection": {
 			"title": "唉呀，不妙！",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"message": "我們好像失去了與您的遙控器的連接。 請確保它可以在網絡上訪問。",
+			"reconnecting": "重新連線中"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
-		"version": "Version",
-		"release": "Release"
+		"save": "儲存",
+		"cancel": "取消",
+		"create": "建立",
+		"name": "名稱",
+		"pleaseSelect": "請選擇",
+		"settings": "設定",
+		"type": "類別",
+		"version": "版本",
+		"release": "正式版"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "網頁配置器"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "進階設定",
+		"entities": "實體",
+		"integrations": "整合",
+		"irLearning": "IR 學習模式",
+		"settings": "設定",
+		"profiles": "設定檔",
+		"softwareUpdate": "軟件更新"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "將實體拖放到此處"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "將群組拖放到這裡"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
+				"title": "頁面",
 				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
 				"availablePages": "Available Pages"
 			},
