@@ -1,7 +1,7 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
+			"title": "唉呀，不妙！",
 			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
 			"reconnecting": "Reconnecting"
 		}
