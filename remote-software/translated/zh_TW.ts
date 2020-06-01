@@ -954,12 +954,12 @@ Remote configuration after restarting the remote.</source>
       <translation>您可以稍後通過網頁配置器設定YIO Dock。
 
 要使用網頁配置器，
-請先從新啟動遙控器，之後到設定並開啟遠端設定工能。</translation>
+請先重新啟動遙控器，之後到設定並開啟遠端設定工能。</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="61"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>重新啟動</translation>
     </message>
   </context>
   <context>
@@ -967,7 +967,7 @@ Remote configuration after restarting the remote.</source>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="39"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>已連接</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="50"/>
@@ -976,16 +976,15 @@ Remote configuration after restarting the remote.</source>
 To use the web configurator,
 go to Settings and turn on
 Remote configuration after restarting the remote.</source>
-      <translation type="unfinished">YIO Dock has successfully connected to your Wi-Fi network.
+      <translation>YIO Dock已成功連接到您的Wi-Fi網絡
 
-To use the web configurator,
-go to Settings and turn on
-Remote configuration after restarting the remote.</translation>
+要使用網頁配置器，
+請先重新啟動遙控器，之後到設定並開啟遠端設定功能。</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="61"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>重新啟動</translation>
     </message>
   </context>
   <context>
@@ -993,7 +992,7 @@ Remote configuration after restarting the remote.</translation>
     <message>
       <location filename="../setup/SetupStepCountry.qml" line="65"/>
       <source>Select your country or region</source>
-      <translation type="unfinished">Select your country or region</translation>
+      <translation>選擇國家或地區</translation>
     </message>
   </context>
   <context>
@@ -1006,37 +1005,37 @@ Remote configuration after restarting the remote.</translation>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="196"/>
       <source>Invalid request.</source>
-      <translation type="unfinished">Invalid request.</translation>
+      <translation>無效的請求</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="199"/>
       <source>Unsupported device.</source>
-      <translation type="unfinished">Unsupported device.</translation>
+      <translation>不支援的裝置</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="202"/>
       <source>Service currently not available.</source>
-      <translation type="unfinished">Service currently not available.</translation>
+      <translation>目前未提供此服務</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="205"/>
       <source>Request error %1</source>
-      <translation type="unfinished">Request error %1</translation>
+      <translation>請求出錯 %1</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="209"/>
       <source>Software update:</source>
-      <translation type="unfinished">Software update:</translation>
+      <translation>軟體更新:</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="226"/>
       <source>New software is available</source>
-      <translation type="unfinished">New software is available</translation>
+      <translation>有新版本可用</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="226"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>下載</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="243"/>
@@ -1134,17 +1133,17 @@ YIO遙控器 %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="79"/>
       <source>Unit system</source>
-      <translation type="unfinished">Unit system</translation>
+      <translation>單位系統</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="113"/>
       <source>Metric</source>
-      <translation type="unfinished">Metric</translation>
+      <translation>公制</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="148"/>
       <source>Imperial</source>
-      <translation type="unfinished">Imperial</translation>
+      <translation>英制</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="167"/>
