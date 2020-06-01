@@ -40,50 +40,50 @@
 		"profileOptions": {
 			"pagesTab": {
 				"title": "頁面",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"message": "將群組拖放到您的個人配置下並將其選擇後，您便可以在頁面添加群組。",
+				"availablePages": "可使用的頁面"
 			},
 			"groupsTab": {
-				"title": "Groups",
+				"title": "群組",
 				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"availableGroups": "可用的群組"
 			},
 			"entitiesTab": {
-				"title": "Entities",
+				"title": "實體",
 				"message": "Drag entities to the remote view to add them to favorites or a group."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "已設置的整合功能",
+			"discoveredIntegrations": "已發現的整合功能",
+			"addIntegration": "添加整合功能",
+			"newIntegration": "新整合功能"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
-			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"title": "由YIO Remote控制的實體",
+			"integration": "整合",
+			"availableEntities": "可用實體"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "設定檔",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "頁面",
+				"dropZone": "將首面拖放到這裡"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "新增設定檔"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "在設定檔中選擇一個頁面以開始編輯",
+				"editSettingsMessage": "設定內容無法編輯"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
+			"title": "軟件更新",
+			"description": "自動檢查更新並在有新軟件版本時更新。更新會於04.00 am 安裝。",
 			"autoUpdate": "Auto Update",
 			"update": "Update",
 			"checkForUpdate": "Check For Updates",
