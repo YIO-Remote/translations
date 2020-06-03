@@ -32,7 +32,7 @@ Um mehr über das Projekt zu erfahren, besuche
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="99"/>
       <source>Battery health</source>
-      <translation>Batteriezustand</translation>
+      <translation>Akkuzustand</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="125"/>
@@ -679,7 +679,7 @@ to set up YIO remote</source>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="30"/>
       <location filename="../sources/hardware/proximitysensor.h" line="29"/>
       <source>Battery sensor communication error. Please restart the remote.</source>
-      <translation>Fehler bei der Kommunikation des Batterie-Sensors. Bitte die YIO Remote neu starten.</translation>
+      <translation>Fehler bei der Kommunikation des AKku-Sensors. Bitte die YIO Remote neu starten.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/hapticmotor.h" line="29"/>
@@ -749,7 +749,7 @@ Navigieren Sie Ihren Internet-Browser zu: http://</translation>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="216"/>
       <source>Battery &amp; power</source>
-      <translation>Batterie &amp; Strom</translation>
+      <translation>Energie &amp; Akku</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="223"/>
