@@ -1045,7 +1045,7 @@ den Konfigurator nach einem Neustart an.</translation>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="243"/>
       <source>The remote needs to be at least 50% battery to perform updates.</source>
-      <translation>Die YIO Remote muss mindestens zu 50% geladen sein um Updates auszuführen.</translation>
+      <translation>Die YIO Remote muss mindestens zu 50% geladen sein, um Updates auszuführen.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="303"/>
@@ -1055,7 +1055,7 @@ den Konfigurator nach einem Neustart an.</translation>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="322"/>
       <source>Failed to start app update script!</source>
-      <translation>Fehler beim Starten des App-Update-Skripts!</translation>
+      <translation>Fehler beim Ausführen des App-Update-Skripts!</translation>
     </message>
   </context>
   <context>
@@ -1107,7 +1107,7 @@ YIO Remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="153"/>
       <source>Check for update</source>
-      <translation>Nach Update suchen</translation>
+      <translation>Suche nach Updates</translation>
     </message>
   </context>
   <context>

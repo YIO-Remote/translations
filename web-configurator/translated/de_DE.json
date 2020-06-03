@@ -2,8 +2,8 @@
 	"overlays": {
 		"disconnection": {
 			"title": "Oh nein!",
-			"message": "Es sieht so aus als hätten wir die Verbindung zur YIO Remote verloren. Stellen Sie sicher, dass sie im Netzwerk verfügbar ist.",
-			"reconnecting": "Verbinde erneut"
+			"message": "Es sieht so aus als hätten wir die Verbindung zur YIO Remote verloren. Stellen Sie sicher, dass sie sich im Netzwerk befindet.",
+			"reconnecting": "Erneut verbinden"
 		}
 	},
 	"common": {
@@ -50,7 +50,7 @@
 			},
 			"entitiesTab": {
 				"title": "Entitäten",
-				"message": "Ziehen Sie Entitäten zur Fernbedienungsansicht um sie zu den Favoriten oder einer Gruppe hinzuzufügen."
+				"message": "Ziehen Sie Entitäten zur YIO Remote Ansicht, um sie zu den Favoriten oder einer Gruppe hinzuzufügen."
 			}
 		}
 	},
