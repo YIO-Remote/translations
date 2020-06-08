@@ -722,12 +722,12 @@ pour configurer votre télécommande YIO</translation>
     <message>
       <location filename="../sources/main.cpp" line="242"/>
       <source>An error occured while restoring to defaults. Please try again.</source>
-      <translation>Une erreur est survenue lors de la restauration des valeurs par défaut. Veuillez réessayer.</translation>
+      <translation>Une erreur est survenue lors de la restauration des valeurs par défaut. Réessayer s'il vous plaît.</translation>
     </message>
     <message>
       <location filename="../sources/main.cpp" line="246"/>
       <source>Default config file not found. Cannot restore to defaults.</source>
-      <translation>Fichier de configuration introuvable. Impossible de restaurer les valeurs par défaut.</translation>
+      <translation>Fichier de configuration par défaut introuvable. Impossible de restaurer les valeurs par défaut.</translation>
     </message>
   </context>
   <context>
