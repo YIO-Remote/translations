@@ -130,7 +130,7 @@ Om meer te leren over het project, bezoek
     <message>
       <location filename="../sources/bluetooth.cpp" line="41"/>
       <source>Bluetooth device was not found.</source>
-      <translation type="unfinished">Bluetooth device was not found.</translation>
+      <translation>Bluetooth-apparaat is niet gevonden.</translation>
     </message>
   </context>
   <context>
@@ -216,67 +216,67 @@ Om meer te leren over het project, bezoek
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="39"/>
       <source>Play</source>
-      <translation type="unfinished">Play</translation>
+      <translation>Speel</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="45"/>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>Pauze</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="51"/>
       <source>Stop</source>
-      <translation type="unfinished">Stop</translation>
+      <translation>Stop</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="57"/>
       <source>Prev</source>
-      <translation type="unfinished">Prev</translation>
+      <translation>Vorige</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="63"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Volgende</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="69"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>Info</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="75"/>
       <source>BWD</source>
-      <translation type="unfinished">BWD</translation>
+      <translation>BWD</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="81"/>
       <source>FWD</source>
-      <translation type="unfinished">FWD</translation>
+      <translation>FWD</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="87"/>
       <source>Rec</source>
-      <translation type="unfinished">Rec</translation>
+      <translation>Rec</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="95"/>
       <source>Exit</source>
-      <translation type="unfinished">Exit</translation>
+      <translation>Sluiten</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="103"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>Terug</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="109"/>
       <source>Home</source>
-      <translation type="unfinished">Home</translation>
+      <translation>Startpagina</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="115"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Menu</translation>
     </message>
   </context>
   <context>
