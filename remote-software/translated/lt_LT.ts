@@ -515,7 +515,7 @@ YIO distancinio valdymo pulto nustatymams</translation>
     <message>
       <location filename="../basic_ui/InitialSetup.qml" line="44"/>
       <source>Loading</source>
-      <translation type="unfinished">Loading</translation>
+      <translation>Kraunasi</translation>
     </message>
   </context>
   <context>
@@ -801,7 +801,7 @@ Atsidarykite naršyklę ir eikite adresu: http://</translation>
     <message>
       <location filename="../setup/SetupStep3.qml" line="164"/>
       <source>Join other</source>
-      <translation type="unfinished">Join other</translation>
+      <translation>Jungtis kitur</translation>
     </message>
   </context>
   <context>
@@ -829,22 +829,22 @@ Atsidarykite naršyklę ir eikite adresu: http://</translation>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="104"/>
       <source>Enter your WiFi network credentials</source>
-      <translation type="unfinished">Enter your WiFi network credentials</translation>
+      <translation>Įveskite savo bevielio tinklo parametrus</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="122"/>
       <source>SSID</source>
-      <translation type="unfinished">SSID</translation>
+      <translation>SSID</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="157"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Slaptažodis</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="206"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Prisijungti</translation>
     </message>
   </context>
   <context>
