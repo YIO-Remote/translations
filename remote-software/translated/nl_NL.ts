@@ -722,12 +722,12 @@ om de YIO afstandsbediening in te stellen</translation>
     <message>
       <location filename="../sources/main.cpp" line="242"/>
       <source>An error occured while restoring to defaults. Please try again.</source>
-      <translation type="unfinished">An error occured while restoring to defaults. Please try again.</translation>
+      <translation>Er is een fout opgetreden bij terugzetten van de standaard instellingen! Probeer het opnieuw.</translation>
     </message>
     <message>
       <location filename="../sources/main.cpp" line="246"/>
       <source>Default config file not found. Cannot restore to defaults.</source>
-      <translation type="unfinished">Default config file not found. Cannot restore to defaults.</translation>
+      <translation>Standaard configuratiebestand niet gevonden. Kan standaardwaarden niet herstellen.</translation>
     </message>
   </context>
   <context>
