@@ -1228,7 +1228,7 @@ Télécommande YIO %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="241"/>
       <source>CPU load</source>
-      <translation>Charge CPU</translation>
+      <translation>Utilisation du CPU</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="267"/>
