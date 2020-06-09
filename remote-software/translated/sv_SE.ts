@@ -130,7 +130,7 @@ För att lära dig mer om projektet, besök
     <message>
       <location filename="../sources/bluetooth.cpp" line="41"/>
       <source>Bluetooth device was not found.</source>
-      <translation type="unfinished">Bluetooth device was not found.</translation>
+      <translation>Bluetooth-enheten kunde inte hittas.</translation>
     </message>
   </context>
   <context>
@@ -216,17 +216,17 @@ För att lära dig mer om projektet, besök
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="39"/>
       <source>Play</source>
-      <translation type="unfinished">Play</translation>
+      <translation>Spela</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="45"/>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>Pausa</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="51"/>
       <source>Stop</source>
-      <translation type="unfinished">Stop</translation>
+      <translation>Stopp</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="57"/>
@@ -276,7 +276,7 @@ För att lära dig mer om projektet, besök
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="115"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Meny</translation>
     </message>
   </context>
   <context>
@@ -722,12 +722,12 @@ för att konfigurera YIO-fjärrkontrollen</translation>
     <message>
       <location filename="../sources/main.cpp" line="242"/>
       <source>An error occured while restoring to defaults. Please try again.</source>
-      <translation type="unfinished">An error occured while restoring to defaults. Please try again.</translation>
+      <translation>Ett fel uppstod vid återställning till standardinställningar. Försök igen.</translation>
     </message>
     <message>
       <location filename="../sources/main.cpp" line="246"/>
       <source>Default config file not found. Cannot restore to defaults.</source>
-      <translation type="unfinished">Default config file not found. Cannot restore to defaults.</translation>
+      <translation>Standardkonfigurationsfilen kunde inte hittas. Kan inte återställa till standardinställningar.</translation>
     </message>
   </context>
   <context>
