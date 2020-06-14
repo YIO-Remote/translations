@@ -17,7 +17,7 @@ jobs:
         personal_token: ${{ secrets.GH_TOKEN }}
         src_branch: master
         src_path: /remote-software/translated/.
-        file_filter: *.ts
+        file_filter: '*.ts'
         username: Workflow
         email: hello@yio-remote.com
         commit_message: 'ci: New translations'
