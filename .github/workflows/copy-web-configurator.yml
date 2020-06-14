@@ -16,7 +16,8 @@ jobs:
         dst_path: /src/i18n/
         personal_token: ${{ secrets.GH_TOKEN }}
         src_branch: master
-        src_path: /web-configurator/translated/*.json
+        src_path: /web-configurator/translated/.
+        file_filter: '*.json'
         username: Workflow
         email: hello@yio-remote.com
         commit_message: 'ci: New translations'
