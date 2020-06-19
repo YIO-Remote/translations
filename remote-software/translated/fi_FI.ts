@@ -12,7 +12,7 @@
       <location filename="../basic_ui/settings/About.qml" line="44"/>
       <source>YIO being an open source project, benefits from all the contributors. Big thanks to everyone who added something to the project so far:
 %1</source>
-      <translation type="unfinished">YIO being an open source project, benefits from all the contributors. Big thanks to everyone who added something to the project so far:
+      <translation>YIO on avoimen lähdekoodin projekti, josta hyötyvät myös kaikki avustajat. Kiitos kaikille ketkä ovat antaneet panoksensa tähän mennessä:
 %1</translation>
     </message>
     <message>
@@ -21,9 +21,9 @@
 
 To learn more about the project, visit
 %1</source>
-      <translation type="unfinished">
+      <translation>
 
-To learn more about the project, visit
+Saadaksesi lisätietoja projektista, käy osoitteessa
 %1</translation>
     </message>
   </context>
@@ -57,7 +57,7 @@ To learn more about the project, visit
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="253"/>
       <source>Average power</source>
-      <translation type="unfinished">Average power</translation>
+      <translation>Keskiarvoinen teho</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="313"/>
@@ -122,7 +122,7 @@ To learn more about the project, visit
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="99"/>
       <source>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</source>
-      <translation type="unfinished">Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</translation>
+      <translation>Skannaa automaattisesti alueisiin liitetys bluetooth-majakat, valitse lähin ja näytä alueella olevat laitteet.</translation>
     </message>
   </context>
   <context>
@@ -130,7 +130,7 @@ To learn more about the project, visit
     <message>
       <location filename="../sources/bluetooth.cpp" line="41"/>
       <source>Bluetooth device was not found.</source>
-      <translation type="unfinished">Bluetooth device was not found.</translation>
+      <translation>Yhtään bluetooth-laitetta ei löytynyt.</translation>
     </message>
   </context>
   <context>
@@ -139,7 +139,7 @@ To learn more about the project, visit
       <location filename="../components/climate/ui/Button.qml" line="45"/>
       <location filename="../components/climate/ui/Button.qml" line="47"/>
       <source>Temperature: </source>
-      <translation type="unfinished">Temperature: </translation>
+      <translation>Lämpötila: </translation>
     </message>
   </context>
   <context>
@@ -147,12 +147,12 @@ To learn more about the project, visit
     <message>
       <location filename="../components/ButtonBase.qml" line="373"/>
       <source>Remove from favorites</source>
-      <translation type="unfinished">Remove from favorites</translation>
+      <translation>Poista suosikeista</translation>
     </message>
     <message>
       <location filename="../components/ButtonBase.qml" line="373"/>
       <source>Add to favorites</source>
-      <translation type="unfinished">Add to favorites</translation>
+      <translation>Lisää suosikkeihin</translation>
     </message>
   </context>
   <context>
@@ -160,17 +160,17 @@ To learn more about the project, visit
     <message>
       <location filename="../components/climate/ui/Card.qml" line="403"/>
       <source>Turn off</source>
-      <translation type="unfinished">Turn off</translation>
+      <translation>Sammuta</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="403"/>
       <source>Turn on</source>
-      <translation type="unfinished">Turn on</translation>
+      <translation>Käynnistä</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="416"/>
       <source>Mode</source>
-      <translation type="unfinished">Mode</translation>
+      <translation>Tila</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="426"/>
@@ -180,27 +180,27 @@ To learn more about the project, visit
     <message>
       <location filename="../components/climate/ui/Card.qml" line="432"/>
       <source>Heat</source>
-      <translation type="unfinished">Heat</translation>
+      <translation>Lämpö</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="438"/>
       <source>Cool</source>
-      <translation type="unfinished">Cool</translation>
+      <translation>Viileä</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="253"/>
       <source>Mute</source>
-      <translation type="unfinished">Mute</translation>
+      <translation>Mykistä</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="278"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>Takaisin</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="303"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Valikko</translation>
     </message>
   </context>
   <context>
@@ -208,7 +208,7 @@ To learn more about the project, visit
     <message>
       <location filename="../components/remote/ui/ir/CardButtons.qml" line="69"/>
       <source>Source</source>
-      <translation type="unfinished">Source</translation>
+      <translation>Lähde</translation>
     </message>
   </context>
   <context>
@@ -216,32 +216,32 @@ To learn more about the project, visit
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="39"/>
       <source>Play</source>
-      <translation type="unfinished">Play</translation>
+      <translation>Toista</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="45"/>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>Pysäytä</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="51"/>
       <source>Stop</source>
-      <translation type="unfinished">Stop</translation>
+      <translation>Lopeta toisto</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="57"/>
       <source>Prev</source>
-      <translation type="unfinished">Prev</translation>
+      <translation>Edellinen</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="63"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Seuraava</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="69"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>Tietoja</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="75"/>
@@ -256,7 +256,7 @@ To learn more about the project, visit
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="87"/>
       <source>Rec</source>
-      <translation type="unfinished">Rec</translation>
+      <translation>Nauhoitus</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="95"/>
