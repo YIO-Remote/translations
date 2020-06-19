@@ -175,7 +175,7 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../components/climate/ui/Card.qml" line="426"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>Pois</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="432"/>
@@ -246,12 +246,12 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="75"/>
       <source>BWD</source>
-      <translation type="unfinished">BWD</translation>
+      <translation>Taaksepäin</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="81"/>
       <source>FWD</source>
-      <translation type="unfinished">FWD</translation>
+      <translation>Eteenpäin</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="87"/>
@@ -261,22 +261,22 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="95"/>
       <source>Exit</source>
-      <translation type="unfinished">Exit</translation>
+      <translation>Poistu</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="103"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>Takaisin</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="109"/>
       <source>Home</source>
-      <translation type="unfinished">Home</translation>
+      <translation>Etusivu</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="115"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Valikko</translation>
     </message>
   </context>
   <context>
@@ -284,17 +284,17 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../components/light/ui/CardColor.qml" line="267"/>
       <source>Turn off</source>
-      <translation type="unfinished">Turn off</translation>
+      <translation>Sammuta</translation>
     </message>
     <message>
       <location filename="../components/light/ui/CardColor.qml" line="267"/>
       <source>Turn on</source>
-      <translation type="unfinished">Turn on</translation>
+      <translation>Käynnistä</translation>
     </message>
     <message>
       <location filename="../components/light/ui/CardColor.qml" line="280"/>
       <source>Color</source>
-      <translation type="unfinished">Color</translation>
+      <translation>Väri</translation>
     </message>
   </context>
   <context>
@@ -302,12 +302,12 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../components/light/ui/CardDimmable.qml" line="235"/>
       <source>Turn off</source>
-      <translation type="unfinished">Turn off</translation>
+      <translation>Sammuta</translation>
     </message>
     <message>
       <location filename="../components/light/ui/CardDimmable.qml" line="235"/>
       <source>Turn on</source>
-      <translation type="unfinished">Turn on</translation>
+      <translation>Käynnistä</translation>
     </message>
   </context>
   <context>
@@ -315,7 +315,7 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../components/media_player/ui/CardPlaylists.qml" line="126"/>
       <source>My playlists</source>
-      <translation type="unfinished">My playlists</translation>
+      <translation>Oma soittolista</translation>
     </message>
   </context>
   <context>
@@ -324,41 +324,41 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
       <location filename="../components/media_player/ui/CardSearch.qml" line="129"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="166"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Haku</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="226"/>
       <source>Recent searches</source>
-      <translation type="unfinished">Recent searches</translation>
+      <translation>Viimeisimmät haut</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="234"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Tyhjennä</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="350"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="410"/>
       <source>Albums</source>
-      <translation type="unfinished">Albums</translation>
+      <translation>Albumit</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="352"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="412"/>
       <source>Tracks</source>
-      <translation type="unfinished">Tracks</translation>
+      <translation>Raidat</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="354"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="414"/>
       <source>Artists</source>
-      <translation type="unfinished">Artists</translation>
+      <translation>Artistit</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="356"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="416"/>
       <source>Playlists</source>
-      <translation type="unfinished">Playlists</translation>
+      <translation>Soittolistat</translation>
     </message>
   </context>
   <context>
@@ -367,13 +367,13 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
       <location filename="../components/light/ui/CardSwitch.qml" line="160"/>
       <location filename="../components/switch/ui/CardSwitch.qml" line="159"/>
       <source>Turn off</source>
-      <translation type="unfinished">Turn off</translation>
+      <translation>Poista käytöstä</translation>
     </message>
     <message>
       <location filename="../components/light/ui/CardSwitch.qml" line="160"/>
       <location filename="../components/switch/ui/CardSwitch.qml" line="159"/>
       <source>Turn on</source>
-      <translation type="unfinished">Turn on</translation>
+      <translation>Ota käyttöön</translation>
     </message>
   </context>
   <context>
@@ -381,7 +381,7 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../basic_ui/ChargingScreen.qml" line="136"/>
       <source>% Charged</source>
-      <translation type="unfinished">% Charged</translation>
+      <translation>% ladattu</translation>
     </message>
   </context>
   <context>
