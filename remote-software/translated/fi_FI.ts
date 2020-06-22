@@ -389,12 +389,12 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="40"/>
       <source>Use configuration profile.</source>
-      <translation>Käytä konfigurointi profiilia.</translation>
+      <translation>Käytä konfiguraatioprofiilia.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="43"/>
       <source>Use configuration file.</source>
-      <translation>Käytä knfigurointi tiedostoa.</translation>
+      <translation>Käytä konfiguraatiotiedostoa.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="44"/>
@@ -404,17 +404,17 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="45"/>
       <source>Use hardware configuration file.</source>
-      <translation>Käytä laitteiston konfigurointitiedostoa.</translation>
+      <translation>Käytä laitteiston konfiguraatiotiedostoa.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="46"/>
       <source>Use hardware configuration schema file.</source>
-      <translation>Käytä laitteiston mallikonfigurointitiedostoa.</translation>
+      <translation>Käytä laitteiston mallikonfiguraatioitiedostoa.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="50"/>
       <source>Validate json configuration files and exit.</source>
-      <translation>Vahvista json konfigurointitiedosto ja poistu.</translation>
+      <translation>Vahvista json konfiguraatioitiedoston kelpoisuus ja poistu.</translation>
     </message>
   </context>
   <context>
@@ -422,12 +422,12 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="41"/>
       <source>Invalid configuration file</source>
-      <translation type="unfinished">Invalid configuration file</translation>
+      <translation>Virheellinen konfiguraatiotiedosto</translation>
     </message>
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="53"/>
       <source>Navigate your internet browser to: http://</source>
-      <translation type="unfinished">Navigate your internet browser to: http://</translation>
+      <translation>Siirry osoitteeseen: http://</translation>
     </message>
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="53"/>
@@ -769,7 +769,7 @@ to set up YIO remote</translation>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="39"/>
       <source>Remote configuration</source>
-      <translation type="unfinished">Remote configuration</translation>
+      <translation>Kaukosäätimen konfigurointi</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="74"/>
