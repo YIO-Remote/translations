@@ -389,12 +389,12 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="40"/>
       <source>Use configuration profile.</source>
-      <translation>Käytä konfiguraatioprofiilia.</translation>
+      <translation>Käytä konfigurointiprofiilia.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="43"/>
       <source>Use configuration file.</source>
-      <translation>Käytä konfiguraatiotiedostoa.</translation>
+      <translation>Käytä konfigurointitiedostoa.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="44"/>
@@ -404,17 +404,17 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="45"/>
       <source>Use hardware configuration file.</source>
-      <translation>Käytä laitteiston konfiguraatiotiedostoa.</translation>
+      <translation>Käytä laitteiston konfigurointitiedostoa.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="46"/>
       <source>Use hardware configuration schema file.</source>
-      <translation>Käytä laitteiston mallikonfiguraatioitiedostoa.</translation>
+      <translation>Käytä laitteiston mallikonfigurointiitiedostoa.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="50"/>
       <source>Validate json configuration files and exit.</source>
-      <translation>Vahvista json konfiguraatioitiedoston kelpoisuus ja poistu.</translation>
+      <translation>Vahvista json konfigurointitiedoston kelpoisuus ja poistu.</translation>
     </message>
   </context>
   <context>
@@ -441,7 +441,7 @@ to fix the problem.</translation>
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="90"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Uudelleenkäynnistys</translation>
     </message>
   </context>
   <context>
@@ -557,8 +557,8 @@ to fix the problem.</translation>
       <location filename="../basic_ui/InitialSetup.qml" line="33"/>
       <source>Use the web configurator
 to set up YIO remote</source>
-      <translation type="unfinished">Use the web configurator
-to set up YIO remote</translation>
+      <translation>Käytä verkkokonfiguraattoria
+asentaaksesi YIO kaukosäätimen</translation>
     </message>
     <message>
       <location filename="../basic_ui/InitialSetup.qml" line="44"/>
@@ -714,7 +714,7 @@ to set up YIO remote</translation>
     <message>
       <location filename="../basic_ui/Profiles.qml" line="194"/>
       <source>To edit your profiles, use the web configurator tool in settings.</source>
-      <translation type="unfinished">To edit your profiles, use the web configurator tool in settings.</translation>
+      <translation>Muokataksesi profiileja, käytä verkkokonfiguraattoria.</translation>
     </message>
   </context>
   <context>
@@ -727,7 +727,7 @@ to set up YIO remote</translation>
     <message>
       <location filename="../sources/main.cpp" line="251"/>
       <source>Default config file not found. Cannot restore to defaults.</source>
-      <translation type="unfinished">Default config file not found. Cannot restore to defaults.</translation>
+      <translation>Oletus konfigurointitiedostoa ei löytynyt. Laitetta ei voida palauttaa oletusarvoihin.</translation>
     </message>
   </context>
   <context>
@@ -769,14 +769,14 @@ to set up YIO remote</translation>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="39"/>
       <source>Remote configuration</source>
-      <translation>Kaukosäätimen konfigurointi</translation>
+      <translation>Etäkonfigurointi</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="74"/>
       <source>Use your browser to configure your YIO remote or download and upload backups.
 Navigate your internet browser to: http://</source>
-      <translation type="unfinished">Use your browser to configure your YIO remote or download and upload backups.
-Navigate your internet browser to: http://</translation>
+      <translation>Käytä verkkoselainta YIO Kaukosäätimen konfigurointiin tai ladataksesi varmuuskopioita.
+Siirry osoitteeseen: http://</translation>
     </message>
   </context>
   <context>
@@ -1021,11 +1021,10 @@ a power source and wait until it starts blinking.
 To use the web configurator,
 go to Settings and turn on
 Remote configuration after restarting the remote.</source>
-      <translation type="unfinished">You can setup your YIO Dock later from the web configurator.
+      <translation>Voit asentaa YIO Telakan myöhemmin verkkokonfiguraattorilla.
 
-To use the web configurator,
-go to Settings and turn on
-Remote configuration after restarting the remote.</translation>
+Uudelleenkäynnistyksen jälkeen voit käyttää verkkokonfiguraattoria
+siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="61"/>
@@ -1047,11 +1046,10 @@ Remote configuration after restarting the remote.</translation>
 To use the web configurator,
 go to Settings and turn on
 Remote configuration after restarting the remote.</source>
-      <translation type="unfinished">YIO Dock has successfully connected to your Wi-Fi network.
+      <translation>YIO Telakka on onnistuneesti liitetty Wi-Fi verkkoosi.
 
-To use the web configurator,
-go to Settings and turn on
-Remote configuration after restarting the remote.</translation>
+Uudelleenkäynnistyksen jälkeen voit käyttää verkkokonfiguraattoria
+siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="61"/>
