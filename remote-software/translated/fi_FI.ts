@@ -1110,12 +1110,12 @@ siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="243"/>
       <source>The remote needs to be at least 50% battery to perform updates.</source>
-      <translation type="unfinished">The remote needs to be at least 50% battery to perform updates.</translation>
+      <translation>Akun latauksen on oltava vähintään 50% päivityksen suorittamiseksi.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="303"/>
       <source>Download failed: %1</source>
-      <translation type="unfinished">Download failed: %1</translation>
+      <translation>Lataus epäonnistui: %1</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="322"/>
