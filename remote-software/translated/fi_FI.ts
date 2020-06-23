@@ -289,7 +289,7 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../components/light/ui/CardColor.qml" line="267"/>
       <source>Turn on</source>
-      <translation>Käynnistä</translation>
+      <translation>Päälle</translation>
     </message>
     <message>
       <location filename="../components/light/ui/CardColor.qml" line="280"/>
@@ -307,7 +307,7 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../components/light/ui/CardDimmable.qml" line="235"/>
       <source>Turn on</source>
-      <translation>Käynnistä</translation>
+      <translation>Päälle</translation>
     </message>
   </context>
   <context>
@@ -751,17 +751,17 @@ asentaaksesi YIO kaukosäätimen</translation>
     <message>
       <location filename="../sources/hardware/hapticmotor.h" line="29"/>
       <source>Cannot initialize the haptic motor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the haptic motor. Please restart the remote.</translation>
+      <translation>Värinämoottorin alustus epäonnistui. Ole hyvä ja käynnistä kaukosäädin uudelleen.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/interrupthandler.h" line="28"/>
       <source>Cannot initialize the interrupt handler. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the interrupt handler. Please restart the remote.</translation>
+      <translation>Keskeytyskutsujen hallinan alustus epäonnistui. Ole hyvä ja käynnistä kaukosäädin uudelleen.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/proximitysensor.h" line="28"/>
       <source>Cannot initialize the proximity sensor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the proximity sensor. Please restart the remote.</translation>
+      <translation>Läheisyysanturin alustus epäonnistui. Ole hyvä ja käynnistä kaukosäädin uudelleen.</translation>
     </message>
   </context>
   <context>
@@ -867,7 +867,7 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep3.qml" line="166"/>
       <source>Join other</source>
-      <translation type="unfinished">Join other</translation>
+      <translation>Liity muuhun</translation>
     </message>
   </context>
   <context>
@@ -985,7 +985,7 @@ Lähettääksesi Wi-Fi -verkon tunnukset latausasemalle, paina seuraava.</transl
     <message>
       <location filename="../setup/SetupStep8.qml" line="136"/>
       <source>Setting up your YIO Dock</source>
-      <translation type="unfinished">Setting up your YIO Dock</translation>
+      <translation>Asetaa YIO telakkaa</translation>
     </message>
   </context>
   <context>
@@ -1089,7 +1089,7 @@ siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="205"/>
       <source>Request error %1</source>
-      <translation type="unfinished">Request error %1</translation>
+      <translation>Pyyntö palautti virheen %1</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="209"/>
@@ -1119,7 +1119,7 @@ siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="322"/>
       <source>Failed to start app update script!</source>
-      <translation type="unfinished">Failed to start app update script!</translation>
+      <translation>Päivitys-skriptin käynnistäminen epäonnistui!</translation>
     </message>
   </context>
   <context>
@@ -1140,8 +1140,8 @@ Päivitykset asennetaan klo 03:00-05:00 välisenä aikana.</translation>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="93"/>
       <source>New software is available.
 YIO remote %1</source>
-      <translation type="unfinished">New software is available.
-YIO remote %1</translation>
+      <translation>Uusi ohjemisto on saatavilla.
+YIO Remote %1</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="93"/>
@@ -1151,7 +1151,7 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="104"/>
       <source>Installed version: YIO Remote </source>
-      <translation type="unfinished">Installed version: YIO Remote </translation>
+      <translation>Asennettu versio: YIO Remote </translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="104"/>
@@ -1179,12 +1179,12 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/SoftwareupdateDownloading.qml" line="17"/>
       <source>Download completed</source>
-      <translation type="unfinished">Download completed</translation>
+      <translation>Lataus suoritettu</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/SoftwareupdateDownloading.qml" line="49"/>
       <source>Downloading</source>
-      <translation type="unfinished">Downloading</translation>
+      <translation>Ladataan</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/SoftwareupdateDownloading.qml" line="74"/>
