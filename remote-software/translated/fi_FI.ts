@@ -1095,17 +1095,17 @@ siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="209"/>
       <source>Software update:</source>
-      <translation type="unfinished">Software update:</translation>
+      <translation>Ohjelmistopäivitys:</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="226"/>
       <source>New software is available</source>
-      <translation type="unfinished">New software is available</translation>
+      <translation>Ohjelmistopäivitys on saatavilla</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="226"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>Lataa</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="243"/>
