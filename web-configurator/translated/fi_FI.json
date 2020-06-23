@@ -1,7 +1,7 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Voi ei!",
+			"title": "Voi prkl!",
 			"message": "Vaikuttaa siltä, että yhteys kaukosäätimeen on katkennut. Ole hyvä ja tarkista, että kaukosäädin on yhdistetty verkkoon.",
 			"reconnecting": "Yhdistetään uudelleen"
 		}
@@ -50,7 +50,7 @@
 			},
 			"entitiesTab": {
 				"title": "Kohteet",
-				"message": "Drag entities to the remote view to add them to favorites or a group."
+				"message": "Lisätäksesi Kohteen Suosikkeihin raahaa se kaukosäätien näytölle."
 			}
 		}
 	},
@@ -82,27 +82,27 @@
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
-			"autoUpdate": "Auto Update",
+			"title": "Ohjelmistopäivitys",
+			"description": "Etsi päivityksiä automaattisesti ja suorita päivitys kun uusi ohjelmistoversio on saatavilla.\nPäivitykset asennetaan yöllä klo 04: 00.",
+			"autoUpdate": "Automaattinen päivitys",
 			"update": "Päivitä",
 			"checkForUpdate": "Tarkista päivitykset",
 			"upToDate": "Ohjelmistosi on ajan tasalla",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"newAvailable": "Ohjelmistopäivitys on saatavilla",
+			"installedVersion": "Asennettu versio"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "Lisäasetukset",
+			"message": "Muokkaa kaukosäätimen asetuksia manuaalisesti:"
 		},
 		"settings": {
 			"title": "Asetukset",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Tumma tila"
 			},
 			"autoBrightness": {
 				"title": "Automaattinen kirkkaus",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"description": "Säädä näytön kirkkautta automaattisesti ympäristön valoisuuden mukaan."
 			}
 		}
 	}
