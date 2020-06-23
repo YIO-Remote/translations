@@ -37,12 +37,12 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="125"/>
       <source>Remaining time</source>
-      <translation>Aikaa jäljellä</translation>
+      <translation>Jäljellä oleva aika</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="158"/>
       <source>Screen on</source>
-      <translation>Näyttö päälle</translation>
+      <translation>Näyttö päällä</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="177"/>
@@ -68,7 +68,7 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="337"/>
       <source>Power saving</source>
-      <translation>Virransäästötila</translation>
+      <translation>Virransäästön asetukset</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="345"/>
@@ -458,7 +458,8 @@ korjataksesi ongelman.</translation>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="51"/>
       <source>Auto brightness</source>
-      <translation>Automaattinen kirkkauden säätö</translation>
+      <translation>Automaattinen
+kirkkauden säätö</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="162"/>
