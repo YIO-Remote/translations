@@ -600,12 +600,12 @@ asentaaksesi YIO kaukosäätimen</translation>
       <location filename="../sources/jsonfile.cpp" line="80"/>
       <location filename="../sources/jsonfile.cpp" line="133"/>
       <source>empty name</source>
-      <translation type="unfinished">empty name</translation>
+      <translation>tyhjä nimi</translation>
     </message>
     <message>
       <location filename="../sources/jsonfile.cpp" line="86"/>
       <source>empty data</source>
-      <translation type="unfinished">empty data</translation>
+      <translation>tyhjä tieto</translation>
     </message>
     <message>
       <location filename="../sources/jsonfile.cpp" line="97"/>
