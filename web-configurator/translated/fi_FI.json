@@ -2,20 +2,20 @@
 	"overlays": {
 		"disconnection": {
 			"title": "Voi ei!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"message": "Vaikuttaa siltä, että yhteys kaukosäätimeen on katkennut. Ole hyvä ja tarkista, että kaukosäädin on yhdistetty verkkoon.",
+			"reconnecting": "Yhdistetään uudelleen"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
-		"version": "Version",
+		"save": "Tallenna",
+		"cancel": "Peruuta",
+		"create": "Luo uusi",
+		"name": "Nimi",
+		"pleaseSelect": "Ole hyvä ja valitse",
+		"settings": "Asetukset",
+		"type": "Tyyppi",
+		"version": "Versio",
 		"release": "Release"
 	},
 	"header": {
