@@ -12,7 +12,7 @@
       <location filename="../basic_ui/settings/About.qml" line="44"/>
       <source>YIO being an open source project, benefits from all the contributors. Big thanks to everyone who added something to the project so far:
 %1</source>
-      <translation>YIO on avoimen lähdekoodin projekti, josta hyötyvät myös kaikki avustajat. Kiitos kaikille ketkä ovat antaneet panoksensa tähän mennessä:
+      <translation>YIO on avoimen lähdekoodin projekti. Suuret kiitokset kaikille ketkä ovat antaneet oman panoksensa projektille tähän mennessä:
 %1</translation>
     </message>
     <message>
@@ -769,13 +769,13 @@ asentaaksesi YIO kaukosäätimen</translation>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="39"/>
       <source>Remote configuration</source>
-      <translation>Etäkonfigurointi</translation>
+      <translation>Etähallinta</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="74"/>
       <source>Use your browser to configure your YIO remote or download and upload backups.
 Navigate your internet browser to: http://</source>
-      <translation>Käytä verkkoselainta YIO Kaukosäätimen konfigurointiin tai ladataksesi varmuuskopioita.
+      <translation>Käytä verkkoselainta YIO Kaukosäätimen hallintaan tai ladataksesi varmuuskopioita.
 Siirry verkkoselaimella osoitteeseen: http://</translation>
     </message>
   </context>
