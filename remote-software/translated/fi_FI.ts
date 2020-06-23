@@ -12,7 +12,7 @@
       <location filename="../basic_ui/settings/About.qml" line="44"/>
       <source>YIO being an open source project, benefits from all the contributors. Big thanks to everyone who added something to the project so far:
 %1</source>
-      <translation>YIO on avoimen lähdekoodin projekti. Suuret kiitokset kaikille ketkä ovat antaneet oman panoksensa projektille tähän mennessä:
+      <translation>YIO on avoimen lähdekoodin projekti. Suuret kiitokset kaikille tähän mennessä oman panoksensa antaneille:
 %1</translation>
     </message>
     <message>
