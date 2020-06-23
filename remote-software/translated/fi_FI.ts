@@ -910,7 +910,7 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="206"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Liity</translation>
     </message>
   </context>
   <context>
@@ -931,7 +931,7 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="49"/>
       <source>YIO Remote could not connect to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Remote could not connect to your Wi-Fi network.</translation>
+      <translation>YIO kaukosäädin ei saanut yhteyttä Wi-Fi -verkkoon.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="60"/>
@@ -949,7 +949,7 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="47"/>
       <source>YIO Remote has successfully connected to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Remote has successfully connected to your Wi-Fi network.</translation>
+      <translation>YIO kaukosäädin on yhdistetty Wi-Fi -verkkoon onnistuneesti.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="58"/>
@@ -1156,7 +1156,7 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="104"/>
       <source>YIO Remote </source>
-      <translation type="unfinished">YIO Remote </translation>
+      <translation>YIO kaukosäädin </translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="114"/>
@@ -1171,7 +1171,7 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="153"/>
       <source>Check for update</source>
-      <translation type="unfinished">Check for update</translation>
+      <translation>Tarkista päivitykset</translation>
     </message>
   </context>
   <context>
@@ -1189,12 +1189,12 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/SoftwareupdateDownloading.qml" line="74"/>
       <source>Update</source>
-      <translation type="unfinished">Update</translation>
+      <translation>Päivitä</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/SoftwareupdateDownloading.qml" line="89"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Peruuta</translation>
     </message>
   </context>
   <context>
@@ -1202,47 +1202,47 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="92"/>
       <source>Unit system</source>
-      <translation type="unfinished">Unit system</translation>
+      <translation>Yksikköjärjestelmä</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="131"/>
       <source>Metric</source>
-      <translation type="unfinished">Metric</translation>
+      <translation>Metrijärjestelmä</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="167"/>
       <source>Imperial</source>
-      <translation type="unfinished">Imperial</translation>
+      <translation>Brittiläinen yksikköjärjestelmä</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="186"/>
       <source>Uptime</source>
-      <translation type="unfinished">Uptime</translation>
+      <translation>Käynnissäoloaika</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="214"/>
       <source>CPU temperature</source>
-      <translation type="unfinished">CPU temperature</translation>
+      <translation>Prosessorin lämpötila</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="241"/>
       <source>CPU load</source>
-      <translation type="unfinished">CPU load</translation>
+      <translation>Prosessorin kuorma</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="267"/>
       <source>Used memory</source>
-      <translation type="unfinished">Used memory</translation>
+      <translation>Käytetty muisti</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="291"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Käynnistä uudelleen</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="305"/>
       <source>Shutdown</source>
-      <translation type="unfinished">Shutdown</translation>
+      <translation>Sammuta</translation>
     </message>
   </context>
   <context>
@@ -1250,22 +1250,22 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="51"/>
       <source>Area detection</source>
-      <translation type="unfinished">Area detection</translation>
+      <translation>Alueen tunnistus</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="81"/>
       <source>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</source>
-      <translation type="unfinished">Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</translation>
+      <translation>Skannaa automaattisesti alueisiin liitetyt bluetooth-majakat, valitsee lähimmän ja näyttää alueella olevat laitteet.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="110"/>
       <source>WiFi</source>
-      <translation type="unfinished">WiFi</translation>
+      <translation>WiFi</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="192"/>
       <source>Other networks</source>
-      <translation type="unfinished">Other networks</translation>
+      <translation>Muut verkot</translation>
     </message>
   </context>
   <context>
@@ -1280,12 +1280,12 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/WifiConnect.qml" line="110"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Salasana</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/WifiConnect.qml" line="169"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Liity</translation>
     </message>
   </context>
 </TS>

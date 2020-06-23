@@ -1,7 +1,7 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
+			"title": "Voi ei!",
 			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
 			"reconnecting": "Reconnecting"
 		}
@@ -85,9 +85,9 @@
 			"title": "Software Update",
 			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
 			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
+			"update": "Päivitä",
+			"checkForUpdate": "Tarkista päivitykset",
+			"upToDate": "Ohjelmistosi on ajan tasalla",
 			"newAvailable": "New software is available",
 			"installedVersion": "Installed Version"
 		},
@@ -96,12 +96,12 @@
 			"message": "Manually set the remote config by hand:"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Asetukset",
 			"darkMode": {
 				"title": "Dark Mode"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
+				"title": "Automaattinen kirkkaus",
 				"description": "Automatically adjust the brightness based on ambient light."
 			}
 		}
