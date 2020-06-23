@@ -857,12 +857,12 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep3.qml" line="63"/>
       <source>Wi-Fi setup</source>
-      <translation type="unfinished">Wi-Fi setup</translation>
+      <translation>Wi-Fi asetukset</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep3.qml" line="74"/>
       <source>Select a Wi-Fi network.</source>
-      <translation type="unfinished">Select a Wi-Fi network.</translation>
+      <translation>Valitse Wi-Fi verkko.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep3.qml" line="166"/>
@@ -882,12 +882,12 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep4.qml" line="115"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Salasana</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4.qml" line="174"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Liity</translation>
     </message>
   </context>
   <context>
@@ -895,17 +895,17 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="104"/>
       <source>Enter your WiFi network credentials</source>
-      <translation type="unfinished">Enter your WiFi network credentials</translation>
+      <translation>Syötä WiFi -verkon tunnukset</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="122"/>
       <source>SSID</source>
-      <translation type="unfinished">SSID</translation>
+      <translation>SSID</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="157"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Salasana</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="206"/>
@@ -918,7 +918,7 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep5.qml" line="70"/>
       <source>Connecting</source>
-      <translation type="unfinished">Connecting</translation>
+      <translation>Yhdistetään</translation>
     </message>
   </context>
   <context>
@@ -926,7 +926,7 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="36"/>
       <source>Failed to connect</source>
-      <translation type="unfinished">Failed to connect</translation>
+      <translation>Yhdistäminen epäonnistui</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="49"/>
@@ -936,7 +936,7 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="60"/>
       <source>Try again</source>
-      <translation type="unfinished">Try again</translation>
+      <translation>Yritä uudelleen</translation>
     </message>
   </context>
   <context>
@@ -944,7 +944,7 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="36"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>Yhdistetty</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="47"/>
@@ -954,7 +954,7 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="58"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Seuraava</translation>
     </message>
   </context>
   <context>
@@ -965,20 +965,19 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
 a power source and wait until it starts blinking.
 
  To share the Wi-Fi network credentials with the dock, tap next.</source>
-      <translation type="unfinished">Connect the YIO Dock to
-a power source and wait until it starts blinking.
+      <translation>Yhdistä YIO latausasema virtalähteeseen ja odota kunnes se alkaa vilkkua.
 
- To share the Wi-Fi network credentials with the dock, tap next.</translation>
+Lähettääksesi Wi-Fi -verkon tunnukset latausasemalle, paina seuraava.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep7.qml" line="72"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Seuraava</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep7.qml" line="83"/>
       <source>Skip</source>
-      <translation type="unfinished">Skip</translation>
+      <translation>Ohita</translation>
     </message>
   </context>
   <context>
@@ -994,17 +993,17 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep9Failure.qml" line="36"/>
       <source>Failed to connect</source>
-      <translation type="unfinished">Failed to connect</translation>
+      <translation>Yhdistäminen epäonnistui</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Failure.qml" line="49"/>
       <source>YIO Dock could not connect to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Dock could not connect to your Wi-Fi network.</translation>
+      <translation>YIO latausasema ei saanut yhteyttä Wi-FI -verkkoon.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Failure.qml" line="60"/>
       <source>Try again</source>
-      <translation type="unfinished">Try again</translation>
+      <translation>Yritä uudelleen</translation>
     </message>
   </context>
   <context>
@@ -1012,7 +1011,7 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="39"/>
       <source>Done</source>
-      <translation type="unfinished">Done</translation>
+      <translation>Valmis</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="50"/>
@@ -1029,7 +1028,7 @@ siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="61"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Käynnistä uudelleen</translation>
     </message>
   </context>
   <context>
@@ -1037,7 +1036,7 @@ siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="39"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>Yhdistetty</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="50"/>
@@ -1054,7 +1053,7 @@ siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="61"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Käynnistä uudelleen</translation>
     </message>
   </context>
   <context>
@@ -1062,7 +1061,7 @@ siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
     <message>
       <location filename="../setup/SetupStepCountry.qml" line="65"/>
       <source>Select your country or region</source>
-      <translation type="unfinished">Select your country or region</translation>
+      <translation>Valitse maa tai alue</translation>
     </message>
   </context>
   <context>
@@ -1070,22 +1069,22 @@ siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="165"/>
       <source>Cannot connect to the update server.</source>
-      <translation type="unfinished">Cannot connect to the update server.</translation>
+      <translation>Päivityspalvelimeen ei saatu yhteyttä.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="196"/>
       <source>Invalid request.</source>
-      <translation type="unfinished">Invalid request.</translation>
+      <translation>Virheellinen pyyntö.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="199"/>
       <source>Unsupported device.</source>
-      <translation type="unfinished">Unsupported device.</translation>
+      <translation>Laitetta ei tueta.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="202"/>
       <source>Service currently not available.</source>
-      <translation type="unfinished">Service currently not available.</translation>
+      <translation>Palvelu ei tällä hetkellä saatavilla.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="205"/>
@@ -1128,14 +1127,14 @@ siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="50"/>
       <source>Auto update</source>
-      <translation type="unfinished">Auto update</translation>
+      <translation>Automaattinen päivitys</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="73"/>
       <source>Automatically look for updates and update when a new software version is available.
 Updates are installed between 03.00 am and 05.00 am.</source>
-      <translation type="unfinished">Automatically look for updates and update when a new software version is available.
-Updates are installed between 03.00 am and 05.00 am.</translation>
+      <translation>Etsi päivityksiä automaattisesti ja päivitä kun uusi ohjelmistoversio on saatavilla.
+Päivitykset asennetaan klo 03:00-05:00 välisenä aikana.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="93"/>
@@ -1147,7 +1146,7 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="93"/>
       <source>Your software is up to date.</source>
-      <translation type="unfinished">Your software is up to date.</translation>
+      <translation>Järjestelmä on ajan tasalla.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="104"/>
@@ -1162,12 +1161,12 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="114"/>
       <source>Update</source>
-      <translation type="unfinished">Update</translation>
+      <translation>Päivitä</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="130"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>Lataa</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="153"/>
