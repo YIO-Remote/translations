@@ -122,7 +122,7 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="99"/>
       <source>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</source>
-      <translation>Skannaa automaattisesti alueisiin liitetys bluetooth-majakat, valitse lähin ja näytä alueella olevat laitteet.</translation>
+      <translation>Skannaa automaattisesti alueisiin liitetyt bluetooth-majakat, valitsee lähimmän ja näyttää alueella olevat laitteet.</translation>
     </message>
   </context>
   <context>
@@ -315,7 +315,7 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../components/media_player/ui/CardPlaylists.qml" line="126"/>
       <source>My playlists</source>
-      <translation>Oma soittolista</translation>
+      <translation>Soittolistani</translation>
     </message>
   </context>
   <context>
@@ -488,12 +488,12 @@ korjataksesi ongelman.</translation>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="325"/>
       <source>Cleaning mode</source>
-      <translation>Näytön puhdistus tila</translation>
+      <translation>Näytön puhdistustila</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="335"/>
       <source>Touch the display for 10 seconds to turn cleaning mode off.</source>
-      <translation>Kytkeäksesi Näytön puhdistus tilan pois päältä, kosketa näyttöä yhtäjaksoisesti 10 sekunnin ajan.</translation>
+      <translation>Paina näyttöä 10 sekuntia poistuaksesi siivoustilasta.</translation>
     </message>
   </context>
   <context>
@@ -511,7 +511,7 @@ korjataksesi ongelman.</translation>
     <message>
       <location filename="../sources/entities/entities.h" line="110"/>
       <source>Blind</source>
-      <translation>Verho</translation>
+      <translation>Kaihdin</translation>
     </message>
     <message>
       <location filename="../sources/entities/entities.h" line="111"/>
@@ -644,7 +644,7 @@ asentaaksesi YIO kaukosäätimen</translation>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="79"/>
       <source>Blinds</source>
-      <translation>Verhot</translation>
+      <translation>Kaihtimet</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="79"/>
