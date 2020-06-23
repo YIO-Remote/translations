@@ -16,68 +16,68 @@
 		"settings": "Asetukset",
 		"type": "Tyyppi",
 		"version": "Versio",
-		"release": "Release"
+		"release": "Julkaisu"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Web-hallinta työkalu"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "Lisäasetukset",
+		"entities": "Kohteet",
+		"integrations": "Integraatiot",
+		"irLearning": "IR kaappaus",
+		"settings": "Asetukset",
+		"profiles": "Profiilit",
+		"softwareUpdate": "Ohjelmistopäivitys"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Raahaa kohde tähän"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Raahaa ryhmä tähän"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"title": "Sivut",
+				"message": "Voit lisätä sivulle ryhmiä kun olet raahannut Sivun profiilleihin ja valinnut sen.",
+				"availablePages": "Saatavilla olevat Sivut"
 			},
 			"groupsTab": {
-				"title": "Groups",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"title": "Ryhmät",
+				"message": "Voit lisätä kohteita ryhmiin kun olet raahannut Ryhmän Sivulle sivun vasemmmalle laidalle.",
+				"availableGroups": "Saatavilla olevat Ryhmät"
 			},
 			"entitiesTab": {
-				"title": "Entities",
+				"title": "Kohteet",
 				"message": "Drag entities to the remote view to add them to favorites or a group."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Asennetut integraatiot",
+			"discoveredIntegrations": "Löydetyt integraatiot",
+			"addIntegration": "Lisää integraatio",
+			"newIntegration": "Uusi integraatio"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
-			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"title": "YIO Kaukosäätimen hallinnoimat Kohteet",
+			"integration": "Integraatio",
+			"availableEntities": "Saatavilla olevat Kohteet"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Profiilit",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "Sivut",
+				"dropZone": "Raahaa Sivu tähän"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Uusi Profiili"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Muokataksesi valitse Sivu Profiileista",
+				"editSettingsMessage": "Asetusten sisältöä ei voida muokata"
 			}
 		},
 		"irLearning": {},
