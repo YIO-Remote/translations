@@ -389,32 +389,32 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="40"/>
       <source>Use configuration profile.</source>
-      <translation>Käytä konfigurointiprofiilia.</translation>
+      <translation>Käytä asetusprofiilia.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="43"/>
       <source>Use configuration file.</source>
-      <translation>Käytä konfigurointitiedostoa.</translation>
+      <translation>Käytä asetustiedostoa.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="44"/>
       <source>Use configuration schema file.</source>
-      <translation>Käytä konfiguroinnin mallitiedostoa.</translation>
+      <translation>Käytä asetusten mallitiedostoa.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="45"/>
       <source>Use hardware configuration file.</source>
-      <translation>Käytä laitteiston konfigurointitiedostoa.</translation>
+      <translation>Käytä laitteiston asetustiedostoa.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="46"/>
       <source>Use hardware configuration schema file.</source>
-      <translation>Käytä laitteiston mallikonfigurointiitiedostoa.</translation>
+      <translation>Käytä laitteiston malliasetustiedostoa.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="50"/>
       <source>Validate json configuration files and exit.</source>
-      <translation>Vahvista json konfigurointitiedoston kelpoisuus ja poistu.</translation>
+      <translation>Vahvista json asetustiedoston kelpoisuus ja poistu.</translation>
     </message>
   </context>
   <context>
@@ -422,7 +422,7 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="41"/>
       <source>Invalid configuration file</source>
-      <translation>Virheellinen konfiguraatiotiedosto</translation>
+      <translation>Virheellinen asetustiedosto</translation>
     </message>
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="53"/>
@@ -435,7 +435,7 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
  and use the web configurator
 to fix the problem.</source>
       <translation>
- ja käytä verkkokonfiguraattoria
+ ja käytä web-etähallinta työkalua
 korjataksesi ongelman.</translation>
     </message>
     <message>
@@ -557,8 +557,8 @@ korjataksesi ongelman.</translation>
       <location filename="../basic_ui/InitialSetup.qml" line="33"/>
       <source>Use the web configurator
 to set up YIO remote</source>
-      <translation>Käytä verkkokonfiguraattoria
-asentaaksesi YIO kaukosäätimen</translation>
+      <translation>Käytä web-hallinta työkalua
+asentaaksesi YIO Kaukosäätimen</translation>
     </message>
     <message>
       <location filename="../basic_ui/InitialSetup.qml" line="44"/>
@@ -714,7 +714,7 @@ asentaaksesi YIO kaukosäätimen</translation>
     <message>
       <location filename="../basic_ui/Profiles.qml" line="194"/>
       <source>To edit your profiles, use the web configurator tool in settings.</source>
-      <translation>Muokataksesi profiileja, käytä verkkokonfiguraattoria.</translation>
+      <translation>Muokataksesi profiileja, käytä web-hallinta työkalua.</translation>
     </message>
   </context>
   <context>
@@ -769,7 +769,7 @@ asentaaksesi YIO kaukosäätimen</translation>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="39"/>
       <source>Remote configuration</source>
-      <translation>Etähallinta</translation>
+      <translation>Web-hallinta työkalu</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="74"/>
@@ -1020,10 +1020,10 @@ Lähettääksesi Wi-Fi -verkon tunnukset latausasemalle, paina seuraava.</transl
 To use the web configurator,
 go to Settings and turn on
 Remote configuration after restarting the remote.</source>
-      <translation>Voit asentaa YIO Telakan myöhemmin verkkokonfiguraattorilla.
+      <translation>Voit asentaa YIO Telakan myöhemmin web-hallinta työkalulla.
 
-Uudelleenkäynnistyksen jälkeen voit käyttää verkkokonfiguraattoria
-siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
+Uudelleenkäynnistyksen jälkeen voit käyttää web-hallinta työkalua
+siirtymällä 'Asetukset' ja ottamalla käyttöön 'Web-hallinta työkalu'.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="61"/>
@@ -1047,8 +1047,8 @@ go to Settings and turn on
 Remote configuration after restarting the remote.</source>
       <translation>YIO Telakka on onnistuneesti liitetty Wi-Fi verkkoosi.
 
-Uudelleenkäynnistyksen jälkeen voit käyttää verkkokonfiguraattoria
-siirtymällä 'Asetukset' ja ottamalla käyttöön 'Etähallinta'.</translation>
+Uudelleenkäynnistyksen jälkeen voit käyttää web-halinta työkalua
+siirtymällä 'Asetukset' ja ottamalla käyttöön 'Web-hallinta työkalu'.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="61"/>
