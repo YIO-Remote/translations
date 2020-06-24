@@ -1210,12 +1210,12 @@ YIO Remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="131"/>
       <source>Metric</source>
-      <translation>Metrijärjestelmä</translation>
+      <translation>Metrinen</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="167"/>
       <source>Imperial</source>
-      <translation>Brittiläinen yksikköjärjestelmä</translation>
+      <translation>Brittiläinen</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="186"/>
@@ -1230,17 +1230,18 @@ YIO Remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="241"/>
       <source>CPU load</source>
-      <translation>Prosessorin kuorma</translation>
+      <translation>Prosessorin kuormitus</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="267"/>
       <source>Used memory</source>
-      <translation>Käytetty muisti</translation>
+      <translation>Muistin käyttö</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="291"/>
       <source>Reboot</source>
-      <translation>Käynnistä uudelleen</translation>
+      <translation>Käynnistä
+uudelleen</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="305"/>
