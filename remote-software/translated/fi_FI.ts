@@ -494,7 +494,7 @@ kirkkauden säätö</translation>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="335"/>
       <source>Touch the display for 10 seconds to turn cleaning mode off.</source>
-      <translation>Paina näyttöä 10 sekuntia poistuaksesi siivoustilasta.</translation>
+      <translation>Paina näyttöä yhtäjaksoisesti 10 sekuntia poistuaksesi puhdistustilasta.</translation>
     </message>
   </context>
   <context>
@@ -558,8 +558,8 @@ kirkkauden säätö</translation>
       <location filename="../basic_ui/InitialSetup.qml" line="33"/>
       <source>Use the web configurator
 to set up YIO remote</source>
-      <translation>Käytä web-hallinta työkalua
-asentaaksesi YIO Kaukosäätimen</translation>
+      <translation>Asentaaksesi YIO Remoten
+käytä web-hallinta työkalua</translation>
     </message>
     <message>
       <location filename="../basic_ui/InitialSetup.qml" line="44"/>
@@ -776,7 +776,7 @@ asentaaksesi YIO Kaukosäätimen</translation>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="74"/>
       <source>Use your browser to configure your YIO remote or download and upload backups.
 Navigate your internet browser to: http://</source>
-      <translation>Käytä verkkoselainta YIO Kaukosäätimen hallintaan tai ladataksesi varmuuskopioita.
+      <translation>Käytä verkkoselainta YIO Remoten ja varmuuskopioiden hallintaan.
 Siirry verkkoselaimella osoitteeseen: http://</translation>
     </message>
   </context>
@@ -932,7 +932,7 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="49"/>
       <source>YIO Remote could not connect to your Wi-Fi network.</source>
-      <translation>YIO kaukosäädin ei saanut yhteyttä Wi-Fi -verkkoon.</translation>
+      <translation>YIO Remote ei saanut yhteyttä Wi-Fi -verkkoon.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="60"/>
@@ -950,7 +950,7 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="47"/>
       <source>YIO Remote has successfully connected to your Wi-Fi network.</source>
-      <translation>YIO kaukosäädin on yhdistetty Wi-Fi -verkkoon onnistuneesti.</translation>
+      <translation>YIO Remoten yhdistetäminen Wi-Fi -verkkoon onnistui.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="58"/>
@@ -1157,7 +1157,7 @@ YIO Remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="104"/>
       <source>YIO Remote </source>
-      <translation>YIO kaukosäädin </translation>
+      <translation>YIO Remote </translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="114"/>
