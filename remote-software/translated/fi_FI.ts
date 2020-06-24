@@ -73,7 +73,8 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="345"/>
       <source>Never turn off Wi-Fi</source>
-      <translation>Älä sammuta Wi-Fi-yhteyttä</translation>
+      <translation>Älä sammuta Wi-Fi-yhteyttä
+</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="345"/>
@@ -94,12 +95,13 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="461"/>
       <source>Never turn off the remote</source>
-      <translation>Älä sammuta kaukosäädintä koskaan</translation>
+      <translation>Älä sammuta kaukosäädintä
+</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="461"/>
       <source>Turn off the remote after %1 hours of inactivity</source>
-      <translation>Sammuta kaukosäädin kun se on ollut käyttämättä %1 minuuttia</translation>
+      <translation>Sammuta kaukosäädin kun se on ollut käyttämättä %1 tuntia</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="558"/>
@@ -896,7 +898,7 @@ Siirry verkkoselaimella osoitteeseen: http://</translation>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="104"/>
       <source>Enter your WiFi network credentials</source>
-      <translation>Syötä WiFi -verkon tunnukset</translation>
+      <translation>Syötä Wi-Fi -verkon tunnukset</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="122"/>
@@ -1261,7 +1263,7 @@ YIO Remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="110"/>
       <source>WiFi</source>
-      <translation>WiFi</translation>
+      <translation>Wi-Fi</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="192"/>
@@ -1275,7 +1277,7 @@ YIO Remote %1</translation>
       <location filename="../basic_ui/settings/WifiConnect.qml" line="92"/>
       <source>Enter password for
 &quot;%1&quot;</source>
-      <translation>Enter password for
+      <translation>Syötä salasana verkolle: 
 &quot;%1&quot;</translation>
     </message>
     <message>
