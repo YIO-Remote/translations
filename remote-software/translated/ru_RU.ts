@@ -6,7 +6,7 @@
     <message>
       <location filename="../basic_ui/settings/About.qml" line="35"/>
       <source>Thank you!</source>
-      <translation>Благодарим вас!</translation>
+      <translation>Спасибо!</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/About.qml" line="44"/>
@@ -721,12 +721,12 @@ to set up YIO remote</source>
     <message>
       <location filename="../sources/main.cpp" line="247"/>
       <source>An error occured while restoring to defaults. Please try again.</source>
-      <translation type="unfinished">An error occured while restoring to defaults. Please try again.</translation>
+      <translation>Произошла ошибка при сбросе настроек. Пожалуйста, повторите позже.</translation>
     </message>
     <message>
       <location filename="../sources/main.cpp" line="251"/>
       <source>Default config file not found. Cannot restore to defaults.</source>
-      <translation type="unfinished">Default config file not found. Cannot restore to defaults.</translation>
+      <translation>Файл конфигурации по умолчанию не найден. Сброс настроек невозможен.</translation>
     </message>
   </context>
   <context>
@@ -1212,7 +1212,7 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="167"/>
       <source>Imperial</source>
-      <translation type="unfinished">Imperial</translation>
+      <translation>Английская</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="186"/>
@@ -1227,12 +1227,12 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="241"/>
       <source>CPU load</source>
-      <translation type="unfinished">CPU load</translation>
+      <translation>Загрузка ЦП</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="267"/>
       <source>Used memory</source>
-      <translation type="unfinished">Used memory</translation>
+      <translation>Используемая память</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="291"/>
