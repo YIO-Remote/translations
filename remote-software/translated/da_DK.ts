@@ -723,8 +723,8 @@ to set up YIO remote</translation>
       <location filename="../sources/main.cpp" line="210"/>
       <source>Factory reset failed.
  %1</source>
-      <translation type="unfinished">Factory reset failed.
- %1</translation>
+      <translation>Fejl ved nulstilling til fabriksindstillinger
+%1</translation>
     </message>
   </context>
   <context>
