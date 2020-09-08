@@ -168,22 +168,22 @@ Om meer te leren over het project, bezoek
       <translation>Inschakelen</translation>
     </message>
     <message>
-      <location filename="../components/climate/ui/Card.qml" line="416"/>
+      <location filename="../components/climate/ui/Card.qml" line="420"/>
       <source>Mode</source>
       <translation>Modus</translation>
     </message>
     <message>
-      <location filename="../components/climate/ui/Card.qml" line="426"/>
+      <location filename="../components/climate/ui/Card.qml" line="430"/>
       <source>Off</source>
       <translation>Uit</translation>
     </message>
     <message>
-      <location filename="../components/climate/ui/Card.qml" line="432"/>
+      <location filename="../components/climate/ui/Card.qml" line="436"/>
       <source>Heat</source>
       <translation>Verwarmen</translation>
     </message>
     <message>
-      <location filename="../components/climate/ui/Card.qml" line="438"/>
+      <location filename="../components/climate/ui/Card.qml" line="442"/>
       <source>Cool</source>
       <translation>Koelen</translation>
     </message>
@@ -387,32 +387,32 @@ Om meer te leren over het project, bezoek
   <context>
     <name>CommandLineHandler</name>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="40"/>
+      <location filename="../sources/commandlinehandler.cpp" line="45"/>
       <source>Use configuration profile.</source>
       <translation>Gebruik configuratieprofiel.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="43"/>
+      <location filename="../sources/commandlinehandler.cpp" line="48"/>
       <source>Use configuration file.</source>
       <translation>Gebruik configuratiebestand.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="44"/>
+      <location filename="../sources/commandlinehandler.cpp" line="49"/>
       <source>Use configuration schema file.</source>
       <translation>Gebruik configuratieschema bestand.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="45"/>
+      <location filename="../sources/commandlinehandler.cpp" line="50"/>
       <source>Use hardware configuration file.</source>
       <translation>Gebruik hardware configuratiebestand.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="46"/>
+      <location filename="../sources/commandlinehandler.cpp" line="51"/>
       <source>Use hardware configuration schema file.</source>
       <translation>Gebruik hardware configuratieschema bestand.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="50"/>
+      <location filename="../sources/commandlinehandler.cpp" line="55"/>
       <source>Validate json configuration files and exit.</source>
       <translation>Controleer json configuratiebestanden en sluit af.</translation>
     </message>
@@ -720,14 +720,11 @@ om de YIO afstandsbediening in te stellen</translation>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="247"/>
-      <source>An error occured while restoring to defaults. Please try again.</source>
-      <translation>Er is een fout opgetreden bij terugzetten van de standaard instellingen! Probeer het opnieuw.</translation>
-    </message>
-    <message>
-      <location filename="../sources/main.cpp" line="251"/>
-      <source>Default config file not found. Cannot restore to defaults.</source>
-      <translation>Standaard configuratiebestand niet gevonden. Kan standaardwaarden niet herstellen.</translation>
+      <location filename="../sources/main.cpp" line="210"/>
+      <source>Factory reset failed.
+ %1</source>
+      <translation type="unfinished">Factory reset failed.
+ %1</translation>
     </message>
   </context>
   <context>
@@ -781,59 +778,59 @@ Navigate your internet browser to: http://</source>
   <context>
     <name>Settings</name>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="93"/>
-      <location filename="../basic_ui/pages/Settings.qml" line="106"/>
-      <location filename="../basic_ui/pages/Settings.qml" line="162"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="98"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="111"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="167"/>
       <source>Settings</source>
       <translation>Instellingen</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="173"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="178"/>
       <source>New software is available.</source>
       <translation>Nieuwe software is beschikbaar.</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="173"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="178"/>
       <source>Your software is up to date.</source>
       <translation>Uw systeem is up-to-date.</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="190"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="195"/>
       <source>Display</source>
       <translation>Scherm</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="196"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="201"/>
       <source>Language</source>
       <translation>Taal</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="209"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="214"/>
       <source>Integrations</source>
       <translation>Integraties</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="216"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="221"/>
       <source>Battery &amp; power</source>
       <translation>Batterij &amp; vermogen</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="223"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="228"/>
       <source>m remaining</source>
       <translation>m resterend</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="230"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="235"/>
       <source>WiFi &amp; bluetooth</source>
       <translation>WiFi &amp; bluetooth</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="236"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="241"/>
       <source>System</source>
       <translation>Systeem</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="242"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="247"/>
       <source>About</source>
       <translation>Over</translation>
     </message>
