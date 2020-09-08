@@ -168,22 +168,22 @@ Pour en savoir plus sur le projet, visitez
       <translation>Allumer</translation>
     </message>
     <message>
-      <location filename="../components/climate/ui/Card.qml" line="416"/>
+      <location filename="../components/climate/ui/Card.qml" line="420"/>
       <source>Mode</source>
       <translation>Mode</translation>
     </message>
     <message>
-      <location filename="../components/climate/ui/Card.qml" line="426"/>
+      <location filename="../components/climate/ui/Card.qml" line="430"/>
       <source>Off</source>
       <translation>Éteint</translation>
     </message>
     <message>
-      <location filename="../components/climate/ui/Card.qml" line="432"/>
+      <location filename="../components/climate/ui/Card.qml" line="436"/>
       <source>Heat</source>
       <translation>Chauffage</translation>
     </message>
     <message>
-      <location filename="../components/climate/ui/Card.qml" line="438"/>
+      <location filename="../components/climate/ui/Card.qml" line="442"/>
       <source>Cool</source>
       <translation>Climatisation</translation>
     </message>
@@ -387,32 +387,32 @@ Pour en savoir plus sur le projet, visitez
   <context>
     <name>CommandLineHandler</name>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="40"/>
+      <location filename="../sources/commandlinehandler.cpp" line="45"/>
       <source>Use configuration profile.</source>
       <translation>Utiliser le profil de configuration.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="43"/>
+      <location filename="../sources/commandlinehandler.cpp" line="48"/>
       <source>Use configuration file.</source>
       <translation>Utiliser le fichier de configuration.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="44"/>
+      <location filename="../sources/commandlinehandler.cpp" line="49"/>
       <source>Use configuration schema file.</source>
       <translation>Utiliser le fichier schéma de configuration.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="45"/>
+      <location filename="../sources/commandlinehandler.cpp" line="50"/>
       <source>Use hardware configuration file.</source>
       <translation>Utiliser le fichier de configuration matériel.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="46"/>
+      <location filename="../sources/commandlinehandler.cpp" line="51"/>
       <source>Use hardware configuration schema file.</source>
       <translation>Utiliser le fichier schéma de configuration matériel.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="50"/>
+      <location filename="../sources/commandlinehandler.cpp" line="55"/>
       <source>Validate json configuration files and exit.</source>
       <translation>Valider les fichiers de configuration json et quitter.</translation>
     </message>
@@ -720,14 +720,11 @@ pour configurer votre télécommande YIO</translation>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="247"/>
-      <source>An error occured while restoring to defaults. Please try again.</source>
-      <translation>Une erreur est survenue lors de la restauration des valeurs par défaut. Réessayer s'il vous plaît.</translation>
-    </message>
-    <message>
-      <location filename="../sources/main.cpp" line="251"/>
-      <source>Default config file not found. Cannot restore to defaults.</source>
-      <translation>Fichier de configuration par défaut introuvable. Impossible de restaurer les valeurs par défaut.</translation>
+      <location filename="../sources/main.cpp" line="210"/>
+      <source>Factory reset failed.
+ %1</source>
+      <translation type="unfinished">Factory reset failed.
+ %1</translation>
     </message>
   </context>
   <context>
@@ -782,59 +779,59 @@ http://</translation>
   <context>
     <name>Settings</name>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="93"/>
-      <location filename="../basic_ui/pages/Settings.qml" line="106"/>
-      <location filename="../basic_ui/pages/Settings.qml" line="162"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="98"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="111"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="167"/>
       <source>Settings</source>
       <translation>Paramètres</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="173"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="178"/>
       <source>New software is available.</source>
       <translation>Nouvelle version disponible.</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="173"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="178"/>
       <source>Your software is up to date.</source>
       <translation>Votre système est à jour.</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="190"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="195"/>
       <source>Display</source>
       <translation>Écran</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="196"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="201"/>
       <source>Language</source>
       <translation>Langue</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="209"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="214"/>
       <source>Integrations</source>
       <translation>Intégrations</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="216"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="221"/>
       <source>Battery &amp; power</source>
       <translation>Batterie &amp; Alimentation</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="223"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="228"/>
       <source>m remaining</source>
       <translation>m restant</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="230"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="235"/>
       <source>WiFi &amp; bluetooth</source>
       <translation>WiFi &amp; bluetooth</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="236"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="241"/>
       <source>System</source>
       <translation>Système</translation>
     </message>
     <message>
-      <location filename="../basic_ui/pages/Settings.qml" line="242"/>
+      <location filename="../basic_ui/pages/Settings.qml" line="247"/>
       <source>About</source>
       <translation>À propos</translation>
     </message>
