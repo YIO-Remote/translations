@@ -723,7 +723,7 @@ pour configurer votre télécommande YIO</translation>
       <location filename="../sources/main.cpp" line="210"/>
       <source>Factory reset failed.
  %1</source>
-      <translation type="unfinished">Factory reset failed.
+      <translation>La réinitialisation d'usine a échoué.
  %1</translation>
     </message>
   </context>
