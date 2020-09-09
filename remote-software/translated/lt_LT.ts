@@ -130,7 +130,7 @@ Jei norite sužinoti daugiau apie projektą, eikite
     <message>
       <location filename="../sources/bluetooth.cpp" line="41"/>
       <source>Bluetooth device was not found.</source>
-      <translation type="unfinished">Bluetooth device was not found.</translation>
+      <translation>Bluetooth įrenginys nerastas.</translation>
     </message>
   </context>
   <context>
@@ -216,67 +216,67 @@ Jei norite sužinoti daugiau apie projektą, eikite
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="39"/>
       <source>Play</source>
-      <translation type="unfinished">Play</translation>
+      <translation>Groti</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="45"/>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>Pristabdyti</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="51"/>
       <source>Stop</source>
-      <translation type="unfinished">Stop</translation>
+      <translation>Sustabdyti</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="57"/>
       <source>Prev</source>
-      <translation type="unfinished">Prev</translation>
+      <translation>Ankst</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="63"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Kitas</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="69"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>Informacija</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="75"/>
       <source>BWD</source>
-      <translation type="unfinished">BWD</translation>
+      <translation>ATGAL</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="81"/>
       <source>FWD</source>
-      <translation type="unfinished">FWD</translation>
+      <translation>PIRMYN</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="87"/>
       <source>Rec</source>
-      <translation type="unfinished">Rec</translation>
+      <translation>Įraš.</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="95"/>
       <source>Exit</source>
-      <translation type="unfinished">Exit</translation>
+      <translation>Išeiti</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="103"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>Atgal</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="109"/>
       <source>Home</source>
-      <translation type="unfinished">Home</translation>
+      <translation>Pradžia</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="115"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Meniu</translation>
     </message>
   </context>
   <context>
@@ -1226,12 +1226,12 @@ YIO distancinis valdymas %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="241"/>
       <source>CPU load</source>
-      <translation type="unfinished">CPU load</translation>
+      <translation>Procesoriaus apkrova</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="267"/>
       <source>Used memory</source>
-      <translation type="unfinished">Used memory</translation>
+      <translation>Atminties naudojimas</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="291"/>
