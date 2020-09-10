@@ -190,17 +190,17 @@ To learn more about the project, visit
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="253"/>
       <source>Mute</source>
-      <translation type="unfinished">Mute</translation>
+      <translation>Mute</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="278"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>Back</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="303"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Menu</translation>
     </message>
   </context>
   <context>
@@ -208,7 +208,7 @@ To learn more about the project, visit
     <message>
       <location filename="../components/remote/ui/ir/CardButtons.qml" line="69"/>
       <source>Source</source>
-      <translation type="unfinished">Source</translation>
+      <translation>Source</translation>
     </message>
   </context>
   <context>
@@ -216,67 +216,67 @@ To learn more about the project, visit
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="39"/>
       <source>Play</source>
-      <translation type="unfinished">Play</translation>
+      <translation>Play</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="45"/>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>Pause</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="51"/>
       <source>Stop</source>
-      <translation type="unfinished">Stop</translation>
+      <translation>Stop</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="57"/>
       <source>Prev</source>
-      <translation type="unfinished">Prev</translation>
+      <translation>Prev</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="63"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Next</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="69"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>Info</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="75"/>
       <source>BWD</source>
-      <translation type="unfinished">BWD</translation>
+      <translation>BWD</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="81"/>
       <source>FWD</source>
-      <translation type="unfinished">FWD</translation>
+      <translation>FWD</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="87"/>
       <source>Rec</source>
-      <translation type="unfinished">Rec</translation>
+      <translation>Rec</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="95"/>
       <source>Exit</source>
-      <translation type="unfinished">Exit</translation>
+      <translation>Exit</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="103"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>Back</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="109"/>
       <source>Home</source>
-      <translation type="unfinished">Home</translation>
+      <translation>Home</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="115"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Menu</translation>
     </message>
   </context>
   <context>
@@ -284,12 +284,12 @@ To learn more about the project, visit
     <message>
       <location filename="../components/light/ui/CardColor.qml" line="267"/>
       <source>Turn off</source>
-      <translation type="unfinished">Turn off</translation>
+      <translation>Turn off</translation>
     </message>
     <message>
       <location filename="../components/light/ui/CardColor.qml" line="267"/>
       <source>Turn on</source>
-      <translation type="unfinished">Turn on</translation>
+      <translation>Turn on</translation>
     </message>
     <message>
       <location filename="../components/light/ui/CardColor.qml" line="280"/>
@@ -302,12 +302,12 @@ To learn more about the project, visit
     <message>
       <location filename="../components/light/ui/CardDimmable.qml" line="235"/>
       <source>Turn off</source>
-      <translation type="unfinished">Turn off</translation>
+      <translation>Turn off</translation>
     </message>
     <message>
       <location filename="../components/light/ui/CardDimmable.qml" line="235"/>
       <source>Turn on</source>
-      <translation type="unfinished">Turn on</translation>
+      <translation>Turn on</translation>
     </message>
   </context>
   <context>
@@ -315,7 +315,7 @@ To learn more about the project, visit
     <message>
       <location filename="../components/media_player/ui/CardPlaylists.qml" line="126"/>
       <source>My playlists</source>
-      <translation type="unfinished">My playlists</translation>
+      <translation>My playlists</translation>
     </message>
   </context>
   <context>
@@ -324,41 +324,41 @@ To learn more about the project, visit
       <location filename="../components/media_player/ui/CardSearch.qml" line="129"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="166"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Search</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="226"/>
       <source>Recent searches</source>
-      <translation type="unfinished">Recent searches</translation>
+      <translation>Recent searches</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="234"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Clear</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="350"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="410"/>
       <source>Albums</source>
-      <translation type="unfinished">Albums</translation>
+      <translation>Albums</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="352"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="412"/>
       <source>Tracks</source>
-      <translation type="unfinished">Tracks</translation>
+      <translation>Tracks</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="354"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="414"/>
       <source>Artists</source>
-      <translation type="unfinished">Artists</translation>
+      <translation>Artists</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="356"/>
       <location filename="../components/media_player/ui/CardSearch.qml" line="416"/>
       <source>Playlists</source>
-      <translation type="unfinished">Playlists</translation>
+      <translation>Playlists</translation>
     </message>
   </context>
   <context>
@@ -367,13 +367,13 @@ To learn more about the project, visit
       <location filename="../components/light/ui/CardSwitch.qml" line="160"/>
       <location filename="../components/switch/ui/CardSwitch.qml" line="159"/>
       <source>Turn off</source>
-      <translation type="unfinished">Turn off</translation>
+      <translation>Turn off</translation>
     </message>
     <message>
       <location filename="../components/light/ui/CardSwitch.qml" line="160"/>
       <location filename="../components/switch/ui/CardSwitch.qml" line="159"/>
       <source>Turn on</source>
-      <translation type="unfinished">Turn on</translation>
+      <translation>Turn on</translation>
     </message>
   </context>
   <context>
@@ -381,7 +381,7 @@ To learn more about the project, visit
     <message>
       <location filename="../basic_ui/ChargingScreen.qml" line="136"/>
       <source>% Charged</source>
-      <translation type="unfinished">% Charged</translation>
+      <translation>% Charged</translation>
     </message>
   </context>
   <context>
@@ -389,32 +389,32 @@ To learn more about the project, visit
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="45"/>
       <source>Use configuration profile.</source>
-      <translation type="unfinished">Use configuration profile.</translation>
+      <translation>Use configuration profile.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="48"/>
       <source>Use configuration file.</source>
-      <translation type="unfinished">Use configuration file.</translation>
+      <translation>Use configuration file.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="49"/>
       <source>Use configuration schema file.</source>
-      <translation type="unfinished">Use configuration schema file.</translation>
+      <translation>Use configuration schema file.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="50"/>
       <source>Use hardware configuration file.</source>
-      <translation type="unfinished">Use hardware configuration file.</translation>
+      <translation>Use hardware configuration file.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="51"/>
       <source>Use hardware configuration schema file.</source>
-      <translation type="unfinished">Use hardware configuration schema file.</translation>
+      <translation>Use hardware configuration schema file.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="55"/>
       <source>Validate json configuration files and exit.</source>
-      <translation type="unfinished">Validate json configuration files and exit.</translation>
+      <translation>Validate json configuration files and exit.</translation>
     </message>
   </context>
   <context>
@@ -422,26 +422,26 @@ To learn more about the project, visit
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="41"/>
       <source>Invalid configuration file</source>
-      <translation type="unfinished">Invalid configuration file</translation>
+      <translation>Invalid configuration file</translation>
     </message>
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="53"/>
       <source>Navigate your internet browser to: http://</source>
-      <translation type="unfinished">Navigate your internet browser to: http://</translation>
+      <translation>Navigate your internet browser to: http://</translation>
     </message>
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="53"/>
       <source>
  and use the web configurator
 to fix the problem.</source>
-      <translation type="unfinished">
+      <translation>
  and use the web configurator
 to fix the problem.</translation>
     </message>
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="90"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Reboot</translation>
     </message>
   </context>
   <context>
@@ -450,7 +450,7 @@ to fix the problem.</translation>
       <location filename="../basic_ui/ContextMenu.qml" line="139"/>
       <location filename="../components/climate/ui/ContextMenu.qml" line="138"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Cancel</translation>
     </message>
   </context>
   <context>
@@ -458,12 +458,12 @@ to fix the problem.</translation>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="51"/>
       <source>Auto brightness</source>
-      <translation type="unfinished">Auto brightness</translation>
+      <translation>Auto brightness</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="162"/>
       <source>Proximity detection</source>
-      <translation type="unfinished">Proximity detection</translation>
+      <translation>Proximity detection</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="253"/>
@@ -634,22 +634,22 @@ to set up YIO remote</translation>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="78"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>Settings</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="79"/>
       <source>Lights</source>
-      <translation type="unfinished">Lights</translation>
+      <translation>Lights</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="79"/>
       <source>Blinds</source>
-      <translation type="unfinished">Blinds</translation>
+      <translation>Blinds</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="79"/>
       <source>Media</source>
-      <translation type="unfinished">Media</translation>
+      <translation>Media</translation>
     </message>
   </context>
   <context>
@@ -657,22 +657,22 @@ to set up YIO remote</translation>
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="64"/>
       <source>Network</source>
-      <translation type="unfinished">Network</translation>
+      <translation>Network</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="246"/>
       <source>Wi-Fi signal strength</source>
-      <translation type="unfinished">Wi-Fi signal strength</translation>
+      <translation>Wi-Fi signal strength</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="283"/>
       <source>IP address</source>
-      <translation type="unfinished">IP address</translation>
+      <translation>IP address</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Network.qml" line="319"/>
       <source>MAC address</source>
-      <translation type="unfinished">MAC address</translation>
+      <translation>MAC address</translation>
     </message>
   </context>
   <context>
@@ -680,7 +680,7 @@ to set up YIO remote</translation>
     <message>
       <location filename="../basic_ui/Notification.qml" line="232"/>
       <source>Dismiss</source>
-      <translation type="unfinished">Dismiss</translation>
+      <translation>Dismiss</translation>
     </message>
   </context>
   <context>
@@ -688,7 +688,7 @@ to set up YIO remote</translation>
     <message>
       <location filename="../basic_ui/NotificationDrawer.qml" line="36"/>
       <source>Notifications</source>
-      <translation type="unfinished">Notifications</translation>
+      <translation>Notifications</translation>
     </message>
   </context>
   <context>
@@ -696,12 +696,12 @@ to set up YIO remote</translation>
     <message>
       <location filename="../basic_ui/PopupLowBattery.qml" line="102"/>
       <source>Low battery</source>
-      <translation type="unfinished">Low battery</translation>
+      <translation>Low battery</translation>
     </message>
     <message>
       <location filename="../basic_ui/PopupLowBattery.qml" line="112"/>
       <source>Please charge the remote soon</source>
-      <translation type="unfinished">Please charge the remote soon</translation>
+      <translation>Please charge the remote soon</translation>
     </message>
   </context>
   <context>
@@ -709,12 +709,12 @@ to set up YIO remote</translation>
     <message>
       <location filename="../basic_ui/Profiles.qml" line="112"/>
       <source>Profiles</source>
-      <translation type="unfinished">Profiles</translation>
+      <translation>Profiles</translation>
     </message>
     <message>
       <location filename="../basic_ui/Profiles.qml" line="194"/>
       <source>To edit your profiles, use the web configurator tool in settings.</source>
-      <translation type="unfinished">To edit your profiles, use the web configurator tool in settings.</translation>
+      <translation>To edit your profiles, use the web configurator tool in settings.</translation>
     </message>
   </context>
   <context>
@@ -723,7 +723,7 @@ to set up YIO remote</translation>
       <location filename="../sources/main.cpp" line="210"/>
       <source>Factory reset failed.
  %1</source>
-      <translation type="unfinished">Factory reset failed.
+      <translation>Factory reset failed.
  %1</translation>
     </message>
   </context>
@@ -732,33 +732,33 @@ to set up YIO remote</translation>
     <message>
       <location filename="../sources/hardware/wifi_control.h" line="37"/>
       <source>WiFi device was not found.</source>
-      <translation type="unfinished">WiFi device was not found.</translation>
+      <translation>WiFi device was not found.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="29"/>
       <source>Cannot initialize the battery sensor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the battery sensor. Please restart the remote.</translation>
+      <translation>Cannot initialize the battery sensor. Please restart the remote.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="30"/>
       <location filename="../sources/hardware/proximitysensor.h" line="29"/>
       <source>Battery sensor communication error. Please restart the remote.</source>
-      <translation type="unfinished">Battery sensor communication error. Please restart the remote.</translation>
+      <translation>Battery sensor communication error. Please restart the remote.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/hapticmotor.h" line="29"/>
       <source>Cannot initialize the haptic motor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the haptic motor. Please restart the remote.</translation>
+      <translation>Cannot initialize the haptic motor. Please restart the remote.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/interrupthandler.h" line="28"/>
       <source>Cannot initialize the interrupt handler. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the interrupt handler. Please restart the remote.</translation>
+      <translation>Cannot initialize the interrupt handler. Please restart the remote.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/proximitysensor.h" line="28"/>
       <source>Cannot initialize the proximity sensor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the proximity sensor. Please restart the remote.</translation>
+      <translation>Cannot initialize the proximity sensor. Please restart the remote.</translation>
     </message>
   </context>
   <context>
@@ -766,13 +766,13 @@ to set up YIO remote</translation>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="39"/>
       <source>Remote configuration</source>
-      <translation type="unfinished">Remote configuration</translation>
+      <translation>Remote configuration</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="74"/>
       <source>Use your browser to configure your YIO remote or download and upload backups.
 Navigate your internet browser to: http://</source>
-      <translation type="unfinished">Use your browser to configure your YIO remote or download and upload backups.
+      <translation>Use your browser to configure your YIO remote or download and upload backups.
 Navigate your internet browser to: http://</translation>
     </message>
   </context>
@@ -783,57 +783,57 @@ Navigate your internet browser to: http://</translation>
       <location filename="../basic_ui/pages/Settings.qml" line="111"/>
       <location filename="../basic_ui/pages/Settings.qml" line="167"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>Settings</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="178"/>
       <source>New software is available.</source>
-      <translation type="unfinished">New software is available.</translation>
+      <translation>New software is available.</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="178"/>
       <source>Your software is up to date.</source>
-      <translation type="unfinished">Your software is up to date.</translation>
+      <translation>Your software is up to date.</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="195"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>Display</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="201"/>
       <source>Language</source>
-      <translation type="unfinished">Language</translation>
+      <translation>Language</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="214"/>
       <source>Integrations</source>
-      <translation type="unfinished">Integrations</translation>
+      <translation>Integrations</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="221"/>
       <source>Battery &amp; power</source>
-      <translation type="unfinished">Battery &amp; power</translation>
+      <translation>Battery &amp; power</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="228"/>
       <source>m remaining</source>
-      <translation type="unfinished">m remaining</translation>
+      <translation>m remaining</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="235"/>
       <source>WiFi &amp; bluetooth</source>
-      <translation type="unfinished">WiFi &amp; bluetooth</translation>
+      <translation>WiFi &amp; bluetooth</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="241"/>
       <source>System</source>
-      <translation type="unfinished">System</translation>
+      <translation>System</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="247"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>About</translation>
     </message>
   </context>
   <context>
@@ -841,12 +841,12 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep1.qml" line="34"/>
       <source>Hello</source>
-      <translation type="unfinished">Hello</translation>
+      <translation>Hello</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep1.qml" line="45"/>
       <source>Tap the screen to begin</source>
-      <translation type="unfinished">Tap the screen to begin</translation>
+      <translation>Tap the screen to begin</translation>
     </message>
   </context>
   <context>
@@ -854,17 +854,17 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep3.qml" line="63"/>
       <source>Wi-Fi setup</source>
-      <translation type="unfinished">Wi-Fi setup</translation>
+      <translation>Wi-Fi setup</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep3.qml" line="74"/>
       <source>Select a Wi-Fi network.</source>
-      <translation type="unfinished">Select a Wi-Fi network.</translation>
+      <translation>Select a Wi-Fi network.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep3.qml" line="166"/>
       <source>Join other</source>
-      <translation type="unfinished">Join other</translation>
+      <translation>Join other</translation>
     </message>
   </context>
   <context>
@@ -873,18 +873,18 @@ Navigate your internet browser to: http://</translation>
       <location filename="../setup/SetupStep4.qml" line="97"/>
       <source>Enter password for
 &quot;%1&quot;</source>
-      <translation type="unfinished">Enter password for
+      <translation>Enter password for
 &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4.qml" line="115"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Password</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4.qml" line="174"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Join</translation>
     </message>
   </context>
   <context>
@@ -892,22 +892,22 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="104"/>
       <source>Enter your WiFi network credentials</source>
-      <translation type="unfinished">Enter your WiFi network credentials</translation>
+      <translation>Enter your WiFi network credentials</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="122"/>
       <source>SSID</source>
-      <translation type="unfinished">SSID</translation>
+      <translation>SSID</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="157"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Password</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="206"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Join</translation>
     </message>
   </context>
   <context>
@@ -915,7 +915,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep5.qml" line="70"/>
       <source>Connecting</source>
-      <translation type="unfinished">Connecting</translation>
+      <translation>Connecting</translation>
     </message>
   </context>
   <context>
@@ -923,17 +923,17 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="36"/>
       <source>Failed to connect</source>
-      <translation type="unfinished">Failed to connect</translation>
+      <translation>Failed to connect</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="49"/>
       <source>YIO Remote could not connect to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Remote could not connect to your Wi-Fi network.</translation>
+      <translation>YIO Remote could not connect to your Wi-Fi network.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="60"/>
       <source>Try again</source>
-      <translation type="unfinished">Try again</translation>
+      <translation>Try again</translation>
     </message>
   </context>
   <context>
@@ -1250,22 +1250,22 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="51"/>
       <source>Area detection</source>
-      <translation type="unfinished">Area detection</translation>
+      <translation>Area detection</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="81"/>
       <source>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</source>
-      <translation type="unfinished">Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</translation>
+      <translation>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="110"/>
       <source>WiFi</source>
-      <translation type="unfinished">WiFi</translation>
+      <translation>WiFi</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="192"/>
       <source>Other networks</source>
-      <translation type="unfinished">Other networks</translation>
+      <translation>Other networks</translation>
     </message>
   </context>
   <context>
@@ -1274,18 +1274,18 @@ YIO remote %1</translation>
       <location filename="../basic_ui/settings/WifiConnect.qml" line="92"/>
       <source>Enter password for
 &quot;%1&quot;</source>
-      <translation type="unfinished">Enter password for
+      <translation>Enter password for
 &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/WifiConnect.qml" line="110"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Password</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/WifiConnect.qml" line="169"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Join</translation>
     </message>
   </context>
 </TS>
