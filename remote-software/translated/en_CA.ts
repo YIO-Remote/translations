@@ -6,13 +6,13 @@
     <message>
       <location filename="../basic_ui/settings/About.qml" line="35"/>
       <source>Thank you!</source>
-      <translation type="unfinished">Thank you!</translation>
+      <translation>Thank you!</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/About.qml" line="44"/>
       <source>YIO being an open source project, benefits from all the contributors. Big thanks to everyone who added something to the project so far:
 %1</source>
-      <translation type="unfinished">YIO being an open source project, benefits from all the contributors. Big thanks to everyone who added something to the project so far:
+      <translation>YIO being an open source project, benefits from all the contributors. Big thanks to everyone who added something to the project so far:
 %1</translation>
     </message>
     <message>
@@ -21,7 +21,7 @@
 
 To learn more about the project, visit
 %1</source>
-      <translation type="unfinished">
+      <translation>
 
 To learn more about the project, visit
 %1</translation>
@@ -32,79 +32,79 @@ To learn more about the project, visit
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="99"/>
       <source>Battery health</source>
-      <translation type="unfinished">Battery health</translation>
+      <translation>Battery health</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="125"/>
       <source>Remaining time</source>
-      <translation type="unfinished">Remaining time</translation>
+      <translation>Remaining time</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="158"/>
       <source>Screen on</source>
-      <translation type="unfinished">Screen on</translation>
+      <translation>Screen on</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="177"/>
       <source>Screen off</source>
-      <translation type="unfinished">Screen off</translation>
+      <translation>Screen off</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="206"/>
       <source>Battery level</source>
-      <translation type="unfinished">Battery level</translation>
+      <translation>Battery level</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="253"/>
       <source>Average power</source>
-      <translation type="unfinished">Average power</translation>
+      <translation>Average power</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="313"/>
       <source>No data available yet</source>
       <extracomment>Battery level history data. When no data avaialable yet it shows this text under the empty graph.</extracomment>
-      <translation type="unfinished">No data available yet</translation>
+      <translation>No data available yet</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="337"/>
       <source>Power saving</source>
-      <translation type="unfinished">Power saving</translation>
+      <translation>Power saving</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="345"/>
       <source>Never turn off Wi-Fi</source>
-      <translation type="unfinished">Never turn off Wi-Fi</translation>
+      <translation>Never turn off Wi-Fi</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="345"/>
       <source>Turn off Wi-Fi after %1 minutes of inactivity</source>
-      <translation type="unfinished">Turn off Wi-Fi after %1 minutes of inactivity</translation>
+      <translation>Turn off Wi-Fi after %1 minutes of inactivity</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="433"/>
       <location filename="../basic_ui/settings/Battery.qml" line="549"/>
       <source>Never</source>
-      <translation type="unfinished">Never</translation>
+      <translation>Never</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="442"/>
       <source>60 minutes</source>
-      <translation type="unfinished">60 minutes</translation>
+      <translation>60 minutes</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="461"/>
       <source>Never turn off the remote</source>
-      <translation type="unfinished">Never turn off the remote</translation>
+      <translation>Never turn off the remote</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="461"/>
       <source>Turn off the remote after %1 hours of inactivity</source>
-      <translation type="unfinished">Turn off the remote after %1 hours of inactivity</translation>
+      <translation>Turn off the remote after %1 hours of inactivity</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="558"/>
       <source>8 hours</source>
-      <translation type="unfinished">8 hours</translation>
+      <translation>8 hours</translation>
     </message>
   </context>
   <context>
@@ -112,17 +112,17 @@ To learn more about the project, visit
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="40"/>
       <source>Bluetooth</source>
-      <translation type="unfinished">Bluetooth</translation>
+      <translation>Bluetooth</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="61"/>
       <source>Area detection</source>
-      <translation type="unfinished">Area detection</translation>
+      <translation>Area detection</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="99"/>
       <source>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</source>
-      <translation type="unfinished">Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</translation>
+      <translation>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</translation>
     </message>
   </context>
   <context>
@@ -130,7 +130,7 @@ To learn more about the project, visit
     <message>
       <location filename="../sources/bluetooth.cpp" line="41"/>
       <source>Bluetooth device was not found.</source>
-      <translation type="unfinished">Bluetooth device was not found.</translation>
+      <translation>Bluetooth device was not found.</translation>
     </message>
   </context>
   <context>
@@ -139,7 +139,7 @@ To learn more about the project, visit
       <location filename="../components/climate/ui/Button.qml" line="45"/>
       <location filename="../components/climate/ui/Button.qml" line="47"/>
       <source>Temperature: </source>
-      <translation type="unfinished">Temperature: </translation>
+      <translation>Temperature: </translation>
     </message>
   </context>
   <context>
@@ -147,12 +147,12 @@ To learn more about the project, visit
     <message>
       <location filename="../components/ButtonBase.qml" line="373"/>
       <source>Remove from favorites</source>
-      <translation type="unfinished">Remove from favorites</translation>
+      <translation>Remove from favourites</translation>
     </message>
     <message>
       <location filename="../components/ButtonBase.qml" line="373"/>
       <source>Add to favorites</source>
-      <translation type="unfinished">Add to favorites</translation>
+      <translation>Add to favourites</translation>
     </message>
   </context>
   <context>
@@ -160,32 +160,32 @@ To learn more about the project, visit
     <message>
       <location filename="../components/climate/ui/Card.qml" line="403"/>
       <source>Turn off</source>
-      <translation type="unfinished">Turn off</translation>
+      <translation>Turn off</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="403"/>
       <source>Turn on</source>
-      <translation type="unfinished">Turn on</translation>
+      <translation>Turn on</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="420"/>
       <source>Mode</source>
-      <translation type="unfinished">Mode</translation>
+      <translation>Mode</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="430"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>Off</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="436"/>
       <source>Heat</source>
-      <translation type="unfinished">Heat</translation>
+      <translation>Heat</translation>
     </message>
     <message>
       <location filename="../components/climate/ui/Card.qml" line="442"/>
       <source>Cool</source>
-      <translation type="unfinished">Cool</translation>
+      <translation>Cool</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="253"/>
@@ -294,7 +294,7 @@ To learn more about the project, visit
     <message>
       <location filename="../components/light/ui/CardColor.qml" line="280"/>
       <source>Color</source>
-      <translation type="unfinished">Color</translation>
+      <translation>Colour</translation>
     </message>
   </context>
   <context>
@@ -535,7 +535,7 @@ to fix the problem.</translation>
       <location filename="../basic_ui/pages/Favorites.qml" line="31"/>
       <source>Favorites</source>
       <extracomment>Name of the settings page</extracomment>
-      <translation type="unfinished">Favorites</translation>
+      <translation>Favourites</translation>
     </message>
   </context>
   <context>
@@ -629,7 +629,7 @@ to set up YIO remote</translation>
       <location filename="../basic_ui/MainNavigation.qml" line="78"/>
       <source>Favorites</source>
       <extracomment>menu items that are in the bottom menu</extracomment>
-      <translation type="unfinished">Favorites</translation>
+      <translation>Favourites</translation>
     </message>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="78"/>
