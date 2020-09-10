@@ -714,7 +714,7 @@ YIO distancinio valdymo pulto nustatymams</translation>
     <message>
       <location filename="../basic_ui/Profiles.qml" line="194"/>
       <source>To edit your profiles, use the web configurator tool in settings.</source>
-      <translation>Jei norite koreguoti savo profilius, naudokite Web koregavimo įrankį nustatymuose.</translation>
+      <translation>Jei norite koreguoti savo profilius, naudokite naršyklės koregavimo įrankį nustatymose.</translation>
     </message>
   </context>
   <context>
