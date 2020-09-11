@@ -1213,32 +1213,37 @@ comandament YIO %1</translation>
       <translation>Imperial</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="186"/>
+      <location filename="../basic_ui/settings/System.qml" line="188"/>
+      <source>24-hour clock</source>
+      <translation type="unfinished">24-hour clock</translation>
+    </message>
+    <message>
+      <location filename="../basic_ui/settings/System.qml" line="218"/>
       <source>Uptime</source>
       <translation>Temps de funcionament</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="214"/>
+      <location filename="../basic_ui/settings/System.qml" line="246"/>
       <source>CPU temperature</source>
       <translation>Temperatura CPU</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="241"/>
+      <location filename="../basic_ui/settings/System.qml" line="273"/>
       <source>CPU load</source>
       <translation>Càrrega de CPU</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="267"/>
+      <location filename="../basic_ui/settings/System.qml" line="299"/>
       <source>Used memory</source>
       <translation>Memòria utilitzada</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="291"/>
+      <location filename="../basic_ui/settings/System.qml" line="323"/>
       <source>Reboot</source>
       <translation>Reinicia</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="305"/>
+      <location filename="../basic_ui/settings/System.qml" line="337"/>
       <source>Shutdown</source>
       <translation>Apaga</translation>
     </message>
