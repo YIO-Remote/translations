@@ -1209,32 +1209,37 @@ YIO遙控器 %1</translation>
       <translation>英制</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="186"/>
+      <location filename="../basic_ui/settings/System.qml" line="188"/>
+      <source>24-hour clock</source>
+      <translation type="unfinished">24-hour clock</translation>
+    </message>
+    <message>
+      <location filename="../basic_ui/settings/System.qml" line="218"/>
       <source>Uptime</source>
       <translation>執行時間</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="214"/>
+      <location filename="../basic_ui/settings/System.qml" line="246"/>
       <source>CPU temperature</source>
       <translation>處理器溫度</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="241"/>
+      <location filename="../basic_ui/settings/System.qml" line="273"/>
       <source>CPU load</source>
       <translation type="unfinished">CPU load</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="267"/>
+      <location filename="../basic_ui/settings/System.qml" line="299"/>
       <source>Used memory</source>
       <translation type="unfinished">Used memory</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="291"/>
+      <location filename="../basic_ui/settings/System.qml" line="323"/>
       <source>Reboot</source>
       <translation>重新啟動</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="305"/>
+      <location filename="../basic_ui/settings/System.qml" line="337"/>
       <source>Shutdown</source>
       <translation>關機</translation>
     </message>
