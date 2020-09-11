@@ -1214,32 +1214,37 @@ YIO Remote %1</translation>
       <translation>Imperial</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="186"/>
+      <location filename="../basic_ui/settings/System.qml" line="188"/>
+      <source>24-hour clock</source>
+      <translation type="unfinished">24-hour clock</translation>
+    </message>
+    <message>
+      <location filename="../basic_ui/settings/System.qml" line="218"/>
       <source>Uptime</source>
       <translation>Betriebszeit</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="214"/>
+      <location filename="../basic_ui/settings/System.qml" line="246"/>
       <source>CPU temperature</source>
       <translation>CPU-Temperatur</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="241"/>
+      <location filename="../basic_ui/settings/System.qml" line="273"/>
       <source>CPU load</source>
       <translation>CPU Last</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="267"/>
+      <location filename="../basic_ui/settings/System.qml" line="299"/>
       <source>Used memory</source>
       <translation>Verwendeter Speicher</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="291"/>
+      <location filename="../basic_ui/settings/System.qml" line="323"/>
       <source>Reboot</source>
       <translation>Neustart</translation>
     </message>
     <message>
-      <location filename="../basic_ui/settings/System.qml" line="305"/>
+      <location filename="../basic_ui/settings/System.qml" line="337"/>
       <source>Shutdown</source>
       <translation>Herunterfahren</translation>
     </message>
