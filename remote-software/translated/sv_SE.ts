@@ -723,7 +723,7 @@ för att konfigurera YIO-fjärrkontrollen</translation>
       <location filename="../sources/main.cpp" line="210"/>
       <source>Factory reset failed.
  %1</source>
-      <translation type="unfinished">Factory reset failed.
+      <translation>Fabriksåterställning misslyckades.
  %1</translation>
     </message>
   </context>
