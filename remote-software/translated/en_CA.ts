@@ -1217,7 +1217,7 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="188"/>
       <source>24-hour clock</source>
-      <translation type="unfinished">24-hour clock</translation>
+      <translation>24-hour clock</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="218"/>
