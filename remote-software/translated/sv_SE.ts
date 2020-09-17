@@ -117,7 +117,7 @@ För att lära dig mer om projektet, besök
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="61"/>
       <source>Area detection</source>
-      <translation>Zon detektering</translation>
+      <translation>Zondetektering</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Bluetooth.qml" line="99"/>
@@ -315,7 +315,7 @@ För att lära dig mer om projektet, besök
     <message>
       <location filename="../components/media_player/ui/CardPlaylists.qml" line="126"/>
       <source>My playlists</source>
-      <translation>Mina Spellistor</translation>
+      <translation>Mina spellistor</translation>
     </message>
   </context>
   <context>
@@ -334,7 +334,7 @@ För att lära dig mer om projektet, besök
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="234"/>
       <source>Clear</source>
-      <translation>Töm</translation>
+      <translation>Rensa</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardSearch.qml" line="350"/>
