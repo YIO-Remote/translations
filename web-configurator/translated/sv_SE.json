@@ -28,7 +28,7 @@
 		"irLearning": "IR-inlärning",
 		"settings": "Inställningar",
 		"profiles": "Profiler",
-		"softwareUpdate": "Mjukvaruuppdatering"
+		"softwareUpdate": "Enhetsuppdatering"
 	},
 	"components": {
 		"editEntities": {
@@ -45,18 +45,18 @@
 			},
 			"groupsTab": {
 				"title": "Grupper",
-				"message": "Du kan lägga till entiteter till en grupp efter att ha dragit den under en sida i fjärrkontrollsvyn till vänster.",
+				"message": "Du kan lägga till entiteter till en grupp efter att ha dragit den under en sida i fjärrkontrolls-vyn till vänster.",
 				"availableGroups": "Tillgängliga grupper"
 			},
 			"entitiesTab": {
 				"title": "Entiteter",
-				"message": "Dra enheter till fjärrkontrollsvyn för att lägga till dem i favoriter eller en grupp."
+				"message": "Dra enheter till fjärrkontrolls-vyn för att lägga till dem i favoriter eller en grupp."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Konfigurerade Integrationer",
+			"configuredIntegrations": "Konfigurerade integrationer",
 			"discoveredIntegrations": "Upptäckta integrationer",
 			"addIntegration": "Lägg till integrationer",
 			"newIntegration": "Nya integrationer"
