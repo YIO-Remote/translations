@@ -22,7 +22,7 @@
     <message>
       <location filename="../src/homeassistant.cpp" line="632"/>
       <source>Connection lost to </source>
-      <translation>Anslutningen avbröts mot </translation>
+      <translation>Anslutningen förlorades till </translation>
     </message>
   </context>
 </TS>
