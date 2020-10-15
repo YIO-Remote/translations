@@ -729,7 +729,7 @@ to set up YIO remote</source>
       <location filename="../sources/main.cpp" line="216"/>
       <source>Factory reset failed.
  %1</source>
-      <translation type="unfinished">Factory reset failed.
+      <translation>恢復出廠設置失敗。
  %1</translation>
     </message>
   </context>
@@ -1219,7 +1219,7 @@ YIO遙控器 %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="188"/>
       <source>24-hour clock</source>
-      <translation type="unfinished">24-hour clock</translation>
+      <translation>使用 24 小時制</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="218"/>
@@ -1234,12 +1234,12 @@ YIO遙控器 %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="273"/>
       <source>CPU load</source>
-      <translation type="unfinished">CPU load</translation>
+      <translation>CPU 負載</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="299"/>
       <source>Used memory</source>
-      <translation type="unfinished">Used memory</translation>
+      <translation>已使用記憶體</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="323"/>
