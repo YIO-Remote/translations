@@ -128,7 +128,7 @@ Aby dowiedzieć się więcej o projekcie, odwiedź
   <context>
     <name>BluetoothControl</name>
     <message>
-      <location filename="../sources/bluetooth.cpp" line="41"/>
+      <location filename="../sources/bluetooth.cpp" line="39"/>
       <source>Bluetooth device was not found.</source>
       <translation type="unfinished">Bluetooth device was not found.</translation>
     </message>
@@ -387,32 +387,32 @@ Aby dowiedzieć się więcej o projekcie, odwiedź
   <context>
     <name>CommandLineHandler</name>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="45"/>
+      <location filename="../sources/commandlinehandler.cpp" line="42"/>
       <source>Use configuration profile.</source>
       <translation>Użyj profilu konfiguracji.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="48"/>
+      <location filename="../sources/commandlinehandler.cpp" line="45"/>
       <source>Use configuration file.</source>
       <translation>Użyj pliku konfiguracji.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="49"/>
+      <location filename="../sources/commandlinehandler.cpp" line="46"/>
       <source>Use configuration schema file.</source>
       <translation>Użyj pliku schematu konfiguracji.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="50"/>
+      <location filename="../sources/commandlinehandler.cpp" line="47"/>
       <source>Use hardware configuration file.</source>
       <translation>Użyj pliku konfiguracji sprzętowej.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="51"/>
+      <location filename="../sources/commandlinehandler.cpp" line="48"/>
       <source>Use hardware configuration schema file.</source>
       <translation>Użyj pliku schematu konfiguracji sprzętowej.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="55"/>
+      <location filename="../sources/commandlinehandler.cpp" line="52"/>
       <source>Validate json configuration files and exit.</source>
       <translation>Sprawdź poprawność plików konfiguracyjnych json i wyjdź.</translation>
     </message>
@@ -541,12 +541,12 @@ to fix the problem.</translation>
   <context>
     <name>FileDownload</name>
     <message>
-      <location filename="../sources/filedownload.cpp" line="114"/>
+      <location filename="../sources/filedownload.cpp" line="112"/>
       <source>Not enough free space (%1 MB).</source>
       <translation>Za mało wolnego miejsca (%1 MB).</translation>
     </message>
     <message>
-      <location filename="../sources/filedownload.cpp" line="121"/>
+      <location filename="../sources/filedownload.cpp" line="119"/>
       <source>Destination file already exists</source>
       <translation>Plik docelowy już istnieje</translation>
     </message>
@@ -597,30 +597,38 @@ aby skonfigurować pilot YIO</translation>
   <context>
     <name>JsonFile</name>
     <message>
-      <location filename="../sources/jsonfile.cpp" line="80"/>
-      <location filename="../sources/jsonfile.cpp" line="133"/>
+      <location filename="../sources/jsonfile.cpp" line="78"/>
+      <location filename="../sources/jsonfile.cpp" line="131"/>
       <source>empty name</source>
       <translation>pusta nazwa</translation>
     </message>
     <message>
-      <location filename="../sources/jsonfile.cpp" line="86"/>
+      <location filename="../sources/jsonfile.cpp" line="84"/>
       <source>empty data</source>
       <translation>puste dane</translation>
     </message>
     <message>
-      <location filename="../sources/jsonfile.cpp" line="97"/>
+      <location filename="../sources/jsonfile.cpp" line="95"/>
       <source>cannot open file &apos;%1&apos; for writing: %2</source>
       <translation>nie można otworzyć pliku &apos;%1&apos; do zapisu: %2</translation>
     </message>
     <message>
-      <location filename="../sources/jsonfile.cpp" line="140"/>
+      <location filename="../sources/jsonfile.cpp" line="138"/>
       <source>cannot open file &apos;%1&apos; for reading: %2</source>
       <translation>nie można otworzyć pliku &apos;%1&apos; do odczytu: %2</translation>
     </message>
     <message>
-      <location filename="../sources/jsonfile.cpp" line="149"/>
+      <location filename="../sources/jsonfile.cpp" line="147"/>
       <source>invalid JSON file &apos;%1&apos; at offset %2</source>
       <translation>niepoprawny plik JSON &apos;%1&apos; na pozycji %2</translation>
+    </message>
+  </context>
+  <context>
+    <name>Logger</name>
+    <message>
+      <location filename="../sources/logger.cpp" line="300"/>
+      <source>Error creating log file &apos;%1&apos;.</source>
+      <translation type="unfinished">Error creating log file &apos;%1&apos;.</translation>
     </message>
   </context>
   <context>
@@ -720,7 +728,7 @@ aby skonfigurować pilot YIO</translation>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="210"/>
+      <location filename="../sources/main.cpp" line="216"/>
       <source>Factory reset failed.
  %1</source>
       <translation type="unfinished">Factory reset failed.
@@ -730,7 +738,7 @@ aby skonfigurować pilot YIO</translation>
   <context>
     <name>QObject</name>
     <message>
-      <location filename="../sources/hardware/wifi_control.h" line="37"/>
+      <location filename="../sources/hardware/wifi_control.h" line="36"/>
       <source>WiFi device was not found.</source>
       <translation>Nie znaleziono urządzenia WiFi.</translation>
     </message>
@@ -1067,52 +1075,52 @@ zdalną konfigurację po ponownym uruchomieniu pilota.</translation>
   <context>
     <name>SoftwareUpdate</name>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="165"/>
+      <location filename="../sources/softwareupdate.cpp" line="163"/>
       <source>Cannot connect to the update server.</source>
       <translation>Nie można połączyć się z serwerem aktualizacji.</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="196"/>
+      <location filename="../sources/softwareupdate.cpp" line="194"/>
       <source>Invalid request.</source>
       <translation>Nieprawidłowe zapytanie.</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="199"/>
+      <location filename="../sources/softwareupdate.cpp" line="197"/>
       <source>Unsupported device.</source>
       <translation>Nieobsługiwane urządzenie.</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="202"/>
+      <location filename="../sources/softwareupdate.cpp" line="200"/>
       <source>Service currently not available.</source>
       <translation>Usługa jest obecnie niedostępna.</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="205"/>
+      <location filename="../sources/softwareupdate.cpp" line="203"/>
       <source>Request error %1</source>
       <translation>Błąd zapytania %1</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="209"/>
+      <location filename="../sources/softwareupdate.cpp" line="207"/>
       <source>Software update:</source>
       <translation>Aktualizacja oprogramowania:</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="226"/>
+      <location filename="../sources/softwareupdate.cpp" line="224"/>
       <source>New software is available</source>
       <translation>Nowe oprogramowanie jest dostępne</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="226"/>
+      <location filename="../sources/softwareupdate.cpp" line="224"/>
       <source>Download</source>
       <translation>Pobierz</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="243"/>
+      <location filename="../sources/softwareupdate.cpp" line="241"/>
       <source>The remote needs to be at least 50% battery to perform updates.</source>
       <translation>Pilot musi mieć co najmniej 50% baterii, aby dokonać aktualizacji.</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="303"/>
+      <location filename="../sources/softwareupdate.cpp" line="301"/>
       <source>Download failed: %1</source>
       <translation>Pobieranie nie powiodło się: %1</translation>
     </message>
