@@ -722,8 +722,8 @@ to set up YIO remote</source>
       <location filename="../sources/main.cpp" line="210"/>
       <source>Factory reset failed.
  %1</source>
-      <translation type="unfinished">Factory reset failed.
- %1</translation>
+      <translation>Zurücksetzen auf Werkseinstellungen fehlgeschlagen
+%1</translation>
     </message>
   </context>
   <context>
@@ -1216,7 +1216,7 @@ YIO Remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="188"/>
       <source>24-hour clock</source>
-      <translation type="unfinished">24-hour clock</translation>
+      <translation>24-Stunden-Format</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="218"/>
