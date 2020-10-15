@@ -128,7 +128,7 @@ Om meer te leren over het project, bezoek
   <context>
     <name>BluetoothControl</name>
     <message>
-      <location filename="../sources/bluetooth.cpp" line="41"/>
+      <location filename="../sources/bluetooth.cpp" line="39"/>
       <source>Bluetooth device was not found.</source>
       <translation>Bluetooth-apparaat is niet gevonden.</translation>
     </message>
@@ -387,32 +387,32 @@ Om meer te leren over het project, bezoek
   <context>
     <name>CommandLineHandler</name>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="45"/>
+      <location filename="../sources/commandlinehandler.cpp" line="42"/>
       <source>Use configuration profile.</source>
       <translation>Gebruik configuratieprofiel.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="48"/>
+      <location filename="../sources/commandlinehandler.cpp" line="45"/>
       <source>Use configuration file.</source>
       <translation>Gebruik configuratiebestand.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="49"/>
+      <location filename="../sources/commandlinehandler.cpp" line="46"/>
       <source>Use configuration schema file.</source>
       <translation>Gebruik configuratieschema bestand.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="50"/>
+      <location filename="../sources/commandlinehandler.cpp" line="47"/>
       <source>Use hardware configuration file.</source>
       <translation>Gebruik hardware configuratiebestand.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="51"/>
+      <location filename="../sources/commandlinehandler.cpp" line="48"/>
       <source>Use hardware configuration schema file.</source>
       <translation>Gebruik hardware configuratieschema bestand.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="55"/>
+      <location filename="../sources/commandlinehandler.cpp" line="52"/>
       <source>Validate json configuration files and exit.</source>
       <translation>Controleer json configuratiebestanden en sluit af.</translation>
     </message>
@@ -541,12 +541,12 @@ om het probleem op te lossen.</translation>
   <context>
     <name>FileDownload</name>
     <message>
-      <location filename="../sources/filedownload.cpp" line="114"/>
+      <location filename="../sources/filedownload.cpp" line="112"/>
       <source>Not enough free space (%1 MB).</source>
       <translation>Niet genoeg vrije ruimte (%1 MB).</translation>
     </message>
     <message>
-      <location filename="../sources/filedownload.cpp" line="121"/>
+      <location filename="../sources/filedownload.cpp" line="119"/>
       <source>Destination file already exists</source>
       <translation>Doelbestand bestaat al</translation>
     </message>
@@ -597,30 +597,38 @@ om de YIO afstandsbediening in te stellen</translation>
   <context>
     <name>JsonFile</name>
     <message>
-      <location filename="../sources/jsonfile.cpp" line="80"/>
-      <location filename="../sources/jsonfile.cpp" line="133"/>
+      <location filename="../sources/jsonfile.cpp" line="78"/>
+      <location filename="../sources/jsonfile.cpp" line="131"/>
       <source>empty name</source>
       <translation>geen naam</translation>
     </message>
     <message>
-      <location filename="../sources/jsonfile.cpp" line="86"/>
+      <location filename="../sources/jsonfile.cpp" line="84"/>
       <source>empty data</source>
       <translation>geen gegevens</translation>
     </message>
     <message>
-      <location filename="../sources/jsonfile.cpp" line="97"/>
+      <location filename="../sources/jsonfile.cpp" line="95"/>
       <source>cannot open file &apos;%1&apos; for writing: %2</source>
       <translation>kan het bestand &apos;%1&apos; niet openen voor het schrijven naar: %2</translation>
     </message>
     <message>
-      <location filename="../sources/jsonfile.cpp" line="140"/>
+      <location filename="../sources/jsonfile.cpp" line="138"/>
       <source>cannot open file &apos;%1&apos; for reading: %2</source>
       <translation>kan het bestand &apos;%1&apos; niet openen voor het lezen van: %2</translation>
     </message>
     <message>
-      <location filename="../sources/jsonfile.cpp" line="149"/>
+      <location filename="../sources/jsonfile.cpp" line="147"/>
       <source>invalid JSON file &apos;%1&apos; at offset %2</source>
       <translation>ongeldig JSON-bestand &apos;%1&apos; bij offset %2</translation>
+    </message>
+  </context>
+  <context>
+    <name>Logger</name>
+    <message>
+      <location filename="../sources/logger.cpp" line="300"/>
+      <source>Error creating log file &apos;%1&apos;.</source>
+      <translation type="unfinished">Error creating log file &apos;%1&apos;.</translation>
     </message>
   </context>
   <context>
@@ -720,7 +728,7 @@ om de YIO afstandsbediening in te stellen</translation>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="210"/>
+      <location filename="../sources/main.cpp" line="216"/>
       <source>Factory reset failed.
  %1</source>
       <translation type="unfinished">Factory reset failed.
@@ -730,7 +738,7 @@ om de YIO afstandsbediening in te stellen</translation>
   <context>
     <name>QObject</name>
     <message>
-      <location filename="../sources/hardware/wifi_control.h" line="37"/>
+      <location filename="../sources/hardware/wifi_control.h" line="36"/>
       <source>WiFi device was not found.</source>
       <translation>Geen WiFi-apparaat gevonden.</translation>
     </message>
@@ -1066,52 +1074,52 @@ Externe configuratie in na het herstarten van de afstandsbediening.</translation
   <context>
     <name>SoftwareUpdate</name>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="165"/>
+      <location filename="../sources/softwareupdate.cpp" line="163"/>
       <source>Cannot connect to the update server.</source>
       <translation>Kan geen verbinding maken met de update server.</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="196"/>
+      <location filename="../sources/softwareupdate.cpp" line="194"/>
       <source>Invalid request.</source>
       <translation>Ongeldig verzoek.</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="199"/>
+      <location filename="../sources/softwareupdate.cpp" line="197"/>
       <source>Unsupported device.</source>
       <translation>Niet-ondersteund apparaat.</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="202"/>
+      <location filename="../sources/softwareupdate.cpp" line="200"/>
       <source>Service currently not available.</source>
       <translation>Dienst is momenteel niet beschikbaar.</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="205"/>
+      <location filename="../sources/softwareupdate.cpp" line="203"/>
       <source>Request error %1</source>
       <translation>Aanvraag fout %1</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="209"/>
+      <location filename="../sources/softwareupdate.cpp" line="207"/>
       <source>Software update:</source>
       <translation>Software bijwerken:</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="226"/>
+      <location filename="../sources/softwareupdate.cpp" line="224"/>
       <source>New software is available</source>
       <translation>Nieuwe software is beschikbaar</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="226"/>
+      <location filename="../sources/softwareupdate.cpp" line="224"/>
       <source>Download</source>
       <translation>Downloaden</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="243"/>
+      <location filename="../sources/softwareupdate.cpp" line="241"/>
       <source>The remote needs to be at least 50% battery to perform updates.</source>
       <translation>De afstandsbediening moet ten minste 50% opgeladen zijn om updates uit te voeren.</translation>
     </message>
     <message>
-      <location filename="../sources/softwareupdate.cpp" line="303"/>
+      <location filename="../sources/softwareupdate.cpp" line="301"/>
       <source>Download failed: %1</source>
       <translation>Download mislukt: %1</translation>
     </message>
