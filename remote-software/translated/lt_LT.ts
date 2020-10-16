@@ -728,7 +728,7 @@ YIO distancinio valdymo pulto nustatymams</translation>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="216"/>
+      <location filename="../sources/main.cpp" line="217"/>
       <source>Factory reset failed.
  %1</source>
       <translation>Nepavyko atstatyti gamyklinius nustatymus.
