@@ -728,7 +728,7 @@ to set up YIO remote</translation>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="216"/>
+      <location filename="../sources/main.cpp" line="217"/>
       <source>Factory reset failed.
  %1</source>
       <translation>Fejl ved nulstilling til fabriksindstillinger
