@@ -728,7 +728,7 @@ pour configurer votre télécommande YIO</translation>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="216"/>
+      <location filename="../sources/main.cpp" line="217"/>
       <source>Factory reset failed.
  %1</source>
       <translation>La réinitialisation d'usine a échoué.
