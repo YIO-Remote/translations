@@ -628,7 +628,7 @@ YIO distancinio valdymo pulto nustatymams</translation>
     <message>
       <location filename="../sources/logger.cpp" line="300"/>
       <source>Error creating log file &apos;%1&apos;.</source>
-      <translation type="unfinished">Error creating log file &apos;%1&apos;.</translation>
+      <translation>Klaida kuriant log failą &apos;%1&apos;.</translation>
     </message>
   </context>
   <context>
