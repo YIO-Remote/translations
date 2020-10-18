@@ -628,7 +628,7 @@ för att konfigurera YIO-fjärrkontrollen</translation>
     <message>
       <location filename="../sources/logger.cpp" line="300"/>
       <source>Error creating log file &apos;%1&apos;.</source>
-      <translation type="unfinished">Error creating log file &apos;%1&apos;.</translation>
+      <translation>Fel vid skapande av loggfil &apos;%1&apos;.</translation>
     </message>
   </context>
   <context>
