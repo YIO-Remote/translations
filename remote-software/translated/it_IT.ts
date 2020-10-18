@@ -628,7 +628,7 @@ per impostare YIO Remote</translation>
     <message>
       <location filename="../sources/logger.cpp" line="300"/>
       <source>Error creating log file &apos;%1&apos;.</source>
-      <translation type="unfinished">Error creating log file &apos;%1&apos;.</translation>
+      <translation>Errore nella creazione del file di log &apos;%1&apos;.</translation>
     </message>
   </context>
   <context>
