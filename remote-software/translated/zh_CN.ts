@@ -128,7 +128,7 @@ To learn more about the project, visit
   <context>
     <name>BluetoothControl</name>
     <message>
-      <location filename="../sources/bluetooth.cpp" line="39"/>
+      <location filename="../sources/bluetooth.cpp" line="40"/>
       <source>Bluetooth device was not found.</source>
       <translation type="unfinished">Bluetooth device was not found.</translation>
     </message>
@@ -727,7 +727,7 @@ to set up YIO remote</source>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="217"/>
+      <location filename="../sources/main.cpp" line="221"/>
       <source>Factory reset failed.
  %1</source>
       <translation type="unfinished">Factory reset failed.
@@ -986,7 +986,7 @@ a power source and wait until it starts blinking.
   <context>
     <name>SetupStep8</name>
     <message>
-      <location filename="../setup/SetupStep8.qml" line="136"/>
+      <location filename="../setup/SetupStep8.qml" line="143"/>
       <source>Setting up your YIO Dock</source>
       <translation>设置您的 YIO DOCK</translation>
     </message>
