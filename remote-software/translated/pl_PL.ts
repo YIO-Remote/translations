@@ -128,7 +128,7 @@ Aby dowiedzieć się więcej o projekcie, odwiedź
   <context>
     <name>BluetoothControl</name>
     <message>
-      <location filename="../sources/bluetooth.cpp" line="39"/>
+      <location filename="../sources/bluetooth.cpp" line="40"/>
       <source>Bluetooth device was not found.</source>
       <translation type="unfinished">Bluetooth device was not found.</translation>
     </message>
@@ -728,7 +728,7 @@ aby skonfigurować pilot YIO</translation>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="217"/>
+      <location filename="../sources/main.cpp" line="221"/>
       <source>Factory reset failed.
  %1</source>
       <translation type="unfinished">Factory reset failed.
@@ -989,7 +989,7 @@ Aby udostępnić hasło Wi-Fi stacji dokującej, naciśnij dalej.</translation>
   <context>
     <name>SetupStep8</name>
     <message>
-      <location filename="../setup/SetupStep8.qml" line="136"/>
+      <location filename="../setup/SetupStep8.qml" line="143"/>
       <source>Setting up your YIO Dock</source>
       <translation>Konfigurowanie stacji dokującej YIO</translation>
     </message>
