@@ -128,7 +128,7 @@ Pour en savoir plus sur le projet, visitez
   <context>
     <name>BluetoothControl</name>
     <message>
-      <location filename="../sources/bluetooth.cpp" line="39"/>
+      <location filename="../sources/bluetooth.cpp" line="40"/>
       <source>Bluetooth device was not found.</source>
       <translation>Le périphérique Bluetooth n'a pas été trouvé.</translation>
     </message>
@@ -728,7 +728,7 @@ pour configurer votre télécommande YIO</translation>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="217"/>
+      <location filename="../sources/main.cpp" line="221"/>
       <source>Factory reset failed.
  %1</source>
       <translation>La réinitialisation d'usine a échoué.
@@ -988,7 +988,7 @@ Pour partager les informations d'identification du réseau Wi-Fi avec le dock, a
   <context>
     <name>SetupStep8</name>
     <message>
-      <location filename="../setup/SetupStep8.qml" line="136"/>
+      <location filename="../setup/SetupStep8.qml" line="143"/>
       <source>Setting up your YIO Dock</source>
       <translation>Configuration votre dock YIO</translation>
     </message>
