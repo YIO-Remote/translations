@@ -128,7 +128,7 @@ Jei norite sužinoti daugiau apie projektą, eikite
   <context>
     <name>BluetoothControl</name>
     <message>
-      <location filename="../sources/bluetooth.cpp" line="39"/>
+      <location filename="../sources/bluetooth.cpp" line="40"/>
       <source>Bluetooth device was not found.</source>
       <translation>Bluetooth įrenginys nerastas.</translation>
     </message>
@@ -728,7 +728,7 @@ YIO distancinio valdymo pulto nustatymams</translation>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="217"/>
+      <location filename="../sources/main.cpp" line="221"/>
       <source>Factory reset failed.
  %1</source>
       <translation>Nepavyko atstatyti gamyklinius nustatymus.
@@ -989,7 +989,7 @@ elektros tinklo ir lukterkite kol lemputė pradės mirksėti.
   <context>
     <name>SetupStep8</name>
     <message>
-      <location filename="../setup/SetupStep8.qml" line="136"/>
+      <location filename="../setup/SetupStep8.qml" line="143"/>
       <source>Setting up your YIO Dock</source>
       <translation>YIO stovelio nustatymai</translation>
     </message>
