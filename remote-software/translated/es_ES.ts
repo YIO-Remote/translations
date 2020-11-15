@@ -128,7 +128,7 @@ Para obtener más información sobre el proyecto, visite
   <context>
     <name>BluetoothControl</name>
     <message>
-      <location filename="../sources/bluetooth.cpp" line="40"/>
+      <location filename="../sources/bluetooth.cpp" line="46"/>
       <source>Bluetooth device was not found.</source>
       <translation>No se encuentra el dispositivo Bluetooth.</translation>
     </message>
@@ -412,7 +412,12 @@ Para obtener más información sobre el proyecto, visite
       <translation>Utilice el archivo de esquema de configuración de hardware.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="52"/>
+      <location filename="../sources/commandlinehandler.cpp" line="50"/>
+      <source>Show frames / second counter.</source>
+      <translation type="unfinished">Show frames / second counter.</translation>
+    </message>
+    <message>
+      <location filename="../sources/commandlinehandler.cpp" line="53"/>
       <source>Validate json configuration files and exit.</source>
       <translation>Validar los archivos de configuración json y salir.</translation>
     </message>
@@ -728,7 +733,7 @@ para configurar el mando YIO</translation>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="221"/>
+      <location filename="../sources/main.cpp" line="220"/>
       <source>Factory reset failed.
  %1</source>
       <translation type="unfinished">Factory reset failed.
@@ -989,7 +994,7 @@ una fuente de alimentación y espera hasta que empiece a parpadear.
   <context>
     <name>SetupStep8</name>
     <message>
-      <location filename="../setup/SetupStep8.qml" line="143"/>
+      <location filename="../setup/SetupStep8.qml" line="144"/>
       <source>Setting up your YIO Dock</source>
       <translation>Configurando tu Dock YIO</translation>
     </message>
