@@ -130,7 +130,7 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
   <context>
     <name>BluetoothControl</name>
     <message>
-      <location filename="../sources/bluetooth.cpp" line="40"/>
+      <location filename="../sources/bluetooth.cpp" line="46"/>
       <source>Bluetooth device was not found.</source>
       <translation>Yhtään bluetooth-laitetta ei löytynyt.</translation>
     </message>
@@ -414,7 +414,12 @@ Saadaksesi lisätietoja projektista, käy osoitteessa
       <translation>Käytä laitteiston malliasetustiedostoa.</translation>
     </message>
     <message>
-      <location filename="../sources/commandlinehandler.cpp" line="52"/>
+      <location filename="../sources/commandlinehandler.cpp" line="50"/>
+      <source>Show frames / second counter.</source>
+      <translation type="unfinished">Show frames / second counter.</translation>
+    </message>
+    <message>
+      <location filename="../sources/commandlinehandler.cpp" line="53"/>
       <source>Validate json configuration files and exit.</source>
       <translation>Vahvista json asetustiedoston kelpoisuus ja poistu.</translation>
     </message>
@@ -731,7 +736,7 @@ käytä web-hallinta työkalua</translation>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="221"/>
+      <location filename="../sources/main.cpp" line="220"/>
       <source>Factory reset failed.
  %1</source>
       <translation type="unfinished">Factory reset failed.
@@ -991,7 +996,7 @@ Lähettääksesi Wi-Fi -verkon tunnukset latausasemalle, paina seuraava.</transl
   <context>
     <name>SetupStep8</name>
     <message>
-      <location filename="../setup/SetupStep8.qml" line="143"/>
+      <location filename="../setup/SetupStep8.qml" line="144"/>
       <source>Setting up your YIO Dock</source>
       <translation>Asetaa YIO telakkaa</translation>
     </message>
