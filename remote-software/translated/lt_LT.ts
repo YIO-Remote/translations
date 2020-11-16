@@ -414,7 +414,7 @@ Jei norite sužinoti daugiau apie projektą, eikite
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="50"/>
       <source>Show frames / second counter.</source>
-      <translation type="unfinished">Show frames / second counter.</translation>
+      <translation>Rodyti kadras per sekundę skaičiavimus.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="53"/>
