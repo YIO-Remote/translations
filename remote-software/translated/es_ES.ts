@@ -414,7 +414,7 @@ Para obtener más información sobre el proyecto, visite
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="50"/>
       <source>Show frames / second counter.</source>
-      <translation type="unfinished">Show frames / second counter.</translation>
+      <translation>Mostrar frames / segundo contador.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="53"/>
@@ -633,7 +633,7 @@ para configurar el mando YIO</translation>
     <message>
       <location filename="../sources/logger.cpp" line="300"/>
       <source>Error creating log file &apos;%1&apos;.</source>
-      <translation type="unfinished">Error creating log file &apos;%1&apos;.</translation>
+      <translation>Error al crear archivo de registro &apos;%1&apos;.</translation>
     </message>
   </context>
   <context>
@@ -736,7 +736,7 @@ para configurar el mando YIO</translation>
       <location filename="../sources/main.cpp" line="220"/>
       <source>Factory reset failed.
  %1</source>
-      <translation type="unfinished">Factory reset failed.
+      <translation>Error al reiniciar de fábrica.
  %1</translation>
     </message>
   </context>
@@ -1230,7 +1230,7 @@ YIO remoto %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="188"/>
       <source>24-hour clock</source>
-      <translation type="unfinished">24-hour clock</translation>
+      <translation>Reloj de 24 horas</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="218"/>
