@@ -1111,27 +1111,27 @@ Fjernkontroll konfigurasjon etter omstart av fjernkontrollen.</translation>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="224"/>
       <source>New software is available</source>
-      <translation type="unfinished">New software is available</translation>
+      <translation>Ny programvare er tilgjengelig</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="224"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>Last ned</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="241"/>
       <source>The remote needs to be at least 50% battery to perform updates.</source>
-      <translation type="unfinished">The remote needs to be at least 50% battery to perform updates.</translation>
+      <translation>Fjernkontrollen må ha minimum 50% batterinivå for å gjennomføre oppdateringer.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="301"/>
       <source>Download failed: %1</source>
-      <translation type="unfinished">Download failed: %1</translation>
+      <translation>Nedlasting mislyktes:%1</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="322"/>
       <source>Failed to start app update script!</source>
-      <translation type="unfinished">Failed to start app update script!</translation>
+      <translation>Kunne ikke starte appens oppdateringsskript!</translation>
     </message>
   </context>
   <context>
@@ -1151,8 +1151,8 @@ Updates are installed between 03.00 am and 05.00 am.</source>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="93"/>
       <source>New software is available.
 YIO remote %1</source>
-      <translation type="unfinished">New software is available.
-YIO remote %1</translation>
+      <translation>Ny programvare er tilgjengelig.
+YIO fjernkontroll %1</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="93"/>
@@ -1177,7 +1177,7 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="130"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>Last ned</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="153"/>
@@ -1190,22 +1190,22 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/SoftwareupdateDownloading.qml" line="17"/>
       <source>Download completed</source>
-      <translation type="unfinished">Download completed</translation>
+      <translation>Nedlasting ferdig</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/SoftwareupdateDownloading.qml" line="49"/>
       <source>Downloading</source>
-      <translation type="unfinished">Downloading</translation>
+      <translation>Laster ned</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/SoftwareupdateDownloading.qml" line="74"/>
       <source>Update</source>
-      <translation type="unfinished">Update</translation>
+      <translation>Oppdater</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/SoftwareupdateDownloading.qml" line="89"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Avbryt</translation>
     </message>
   </context>
   <context>
@@ -1213,22 +1213,22 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="92"/>
       <source>Unit system</source>
-      <translation type="unfinished">Unit system</translation>
+      <translation>Enhetssystem</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="131"/>
       <source>Metric</source>
-      <translation type="unfinished">Metric</translation>
+      <translation>Metrisk</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="167"/>
       <source>Imperial</source>
-      <translation type="unfinished">Imperial</translation>
+      <translation>Imperialt</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="188"/>
       <source>24-hour clock</source>
-      <translation type="unfinished">24-hour clock</translation>
+      <translation>Bruk 24-timersklokke</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="218"/>
@@ -1243,12 +1243,12 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="273"/>
       <source>CPU load</source>
-      <translation type="unfinished">CPU load</translation>
+      <translation>CPU belastning</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="299"/>
       <source>Used memory</source>
-      <translation type="unfinished">Used memory</translation>
+      <translation>Brukt minne</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="323"/>
@@ -1266,22 +1266,22 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="51"/>
       <source>Area detection</source>
-      <translation type="unfinished">Area detection</translation>
+      <translation>Områdedeteksjon</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="81"/>
       <source>Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</source>
-      <translation type="unfinished">Automatically scans for bluetooth beacons associated with areas, finds the closest and displays devices in that area.</translation>
+      <translation>Skanner automatisk etter bluetooth beacons for område, finner den nærmeste og viser enheter i det området.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="110"/>
       <source>WiFi</source>
-      <translation type="unfinished">WiFi</translation>
+      <translation>WiFi</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Wifi.qml" line="192"/>
       <source>Other networks</source>
-      <translation type="unfinished">Other networks</translation>
+      <translation>Andre nettverk</translation>
     </message>
   </context>
   <context>
@@ -1296,12 +1296,12 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/WifiConnect.qml" line="110"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Passord</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/WifiConnect.qml" line="169"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Koble til</translation>
     </message>
   </context>
 </TS>
