@@ -399,27 +399,27 @@ For å se mer om prosjektet, besøk
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="46"/>
       <source>Use configuration schema file.</source>
-      <translation type="unfinished">Use configuration schema file.</translation>
+      <translation>Bruk et konfigurasjonsskjema.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="47"/>
       <source>Use hardware configuration file.</source>
-      <translation type="unfinished">Use hardware configuration file.</translation>
+      <translation>Bruk maskinvarekonfigurasjon.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="48"/>
       <source>Use hardware configuration schema file.</source>
-      <translation type="unfinished">Use hardware configuration schema file.</translation>
+      <translation>Bruk konfigurasjonsskjema for maskinvare.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="50"/>
       <source>Show frames / second counter.</source>
-      <translation type="unfinished">Show frames / second counter.</translation>
+      <translation>Vis bilder / sekund teller.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="53"/>
       <source>Validate json configuration files and exit.</source>
-      <translation type="unfinished">Validate json configuration files and exit.</translation>
+      <translation>Valider json konfigurasjonsfiler og avslutt.</translation>
     </message>
   </context>
   <context>
@@ -427,26 +427,26 @@ For å se mer om prosjektet, besøk
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="41"/>
       <source>Invalid configuration file</source>
-      <translation type="unfinished">Invalid configuration file</translation>
+      <translation>Ugyldig konfigurasjonsfil</translation>
     </message>
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="53"/>
       <source>Navigate your internet browser to: http://</source>
-      <translation type="unfinished">Navigate your internet browser to: http://</translation>
+      <translation>Åpne følgende side i nettleseren din: http://</translation>
     </message>
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="53"/>
       <source>
  and use the web configurator
 to fix the problem.</source>
-      <translation type="unfinished">
- and use the web configurator
-to fix the problem.</translation>
+      <translation>
+ og bruk webkonfiguratoren
+for å fikse problemet.</translation>
     </message>
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="90"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Start på nytt</translation>
     </message>
   </context>
   <context>
@@ -455,7 +455,7 @@ to fix the problem.</translation>
       <location filename="../basic_ui/ContextMenu.qml" line="139"/>
       <location filename="../components/climate/ui/ContextMenu.qml" line="138"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Avbryt</translation>
     </message>
   </context>
   <context>
@@ -468,22 +468,22 @@ to fix the problem.</translation>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="162"/>
       <source>Proximity detection</source>
-      <translation type="unfinished">Proximity detection</translation>
+      <translation>Nærhetsdeteksjon</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="253"/>
       <source>Far</source>
-      <translation type="unfinished">Far</translation>
+      <translation>Fjern</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="262"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>Nær</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="272"/>
       <source>How far the proximity sensor should look when detecting your hand.</source>
-      <translation type="unfinished">How far the proximity sensor should look when detecting your hand.</translation>
+      <translation>Hvor langt nærhetssensoren skal se etter hånden din.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Display.qml" line="293"/>
