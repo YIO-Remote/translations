@@ -86,23 +86,23 @@
 			"description": "Last ned og installer oppdateringer automatisk når nye versjoner er tilgjengelige. Oppdateringene blir installert kl. 04:00.",
 			"autoUpdate": "Automatisk oppdatering",
 			"update": "Oppdater",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"checkForUpdate": "Se etter oppdateringer",
+			"upToDate": "Programvaren er oppdatert",
+			"newAvailable": "Ny programvare er tilgjengelig",
+			"installedVersion": "Installert versjon"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"title": "Avansert konfigurasjon",
+			"message": "Konfigurer fjernkontrollen manuelt for hånd:"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Innstillinger",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Mørk Modus"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "Automatisk lysstyrke",
+				"description": "Juster lysstyrken automatisk basert på omgivelsene."
 			}
 		}
 	}
