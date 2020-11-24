@@ -9,83 +9,83 @@
 	"common": {
 		"id": "ID",
 		"save": "Lagre",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
+		"cancel": "Avbryt",
+		"create": "Opprett",
+		"name": "Navn",
+		"pleaseSelect": "Vennligst velg",
+		"settings": "Innstillinger",
 		"type": "Type",
-		"version": "Version",
-		"release": "Release"
+		"version": "Versjon",
+		"release": "Utgivelse"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Web-konfigurator"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "Avansert",
+		"entities": "Enheter",
+		"integrations": "Integrasjoner",
+		"irLearning": "IR Læring",
+		"settings": "Innstillinger",
+		"profiles": "Profiler",
+		"softwareUpdate": "Programvareoppdatering"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Dra en enhet hit"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Dra en gruppe hit"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"title": "Sider",
+				"message": "Du kan legge til grupper på en side etter å ha flyttet den under en profil og valgt den.",
+				"availablePages": "Tilgjengelige sider"
 			},
 			"groupsTab": {
-				"title": "Groups",
-				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"title": "Grupper",
+				"message": "Du kan legge til enheter til en gruppe etter å ha flyttet den under en side i fjernkontrollvisning til venstre.",
+				"availableGroups": "Tilgjengelige Grupper"
 			},
 			"entitiesTab": {
-				"title": "Entities",
-				"message": "Drag entities to the remote view to add them to favorites or a group."
+				"title": "Enheter",
+				"message": "Dra enheter til fjernkontrollvisning for å legge dem til favoritter eller gruppe."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Konfigurerte integrasjoner",
+			"discoveredIntegrations": "Oppdagede integrasjoner",
+			"addIntegration": "Legg til integrasjoner",
+			"newIntegration": "Nye integrasjoner"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
-			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"title": "Enheter kontrollert av YIO fjernkontroll",
+			"integration": "Integrasjon",
+			"availableEntities": "Tilgjengelige enheter"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Profiler",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "Sider",
+				"dropZone": "Dra en side hit"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Ny profil"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Velg en side i en profil for å begynne å redigere",
+				"editSettingsMessage": "Innstillingsinnholdet kan ikke redigeres"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
-			"autoUpdate": "Auto Update",
-			"update": "Update",
+			"title": "Programvareoppdatering",
+			"description": "Last ned og installer oppdateringer automatisk når nye versjoner er tilgjengelige. Oppdateringene blir installert kl. 04:00.",
+			"autoUpdate": "Automatisk oppdatering",
+			"update": "Oppdater",
 			"checkForUpdate": "Check For Updates",
 			"upToDate": "Your software is up to date",
 			"newAvailable": "New software is available",
