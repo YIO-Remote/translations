@@ -531,7 +531,7 @@ for å fikse problemet.</translation>
     <message>
       <location filename="../sources/entities/entities.h" line="111"/>
       <source>Switch</source>
-      <translation type="unfinished">Switch</translation>
+      <translation>Bryter</translation>
     </message>
   </context>
   <context>
@@ -540,7 +540,7 @@ for å fikse problemet.</translation>
       <location filename="../basic_ui/pages/Favorites.qml" line="31"/>
       <source>Favorites</source>
       <extracomment>Name of the settings page</extracomment>
-      <translation type="unfinished">Favorites</translation>
+      <translation>Favoritter</translation>
     </message>
   </context>
   <context>
@@ -548,12 +548,12 @@ for å fikse problemet.</translation>
     <message>
       <location filename="../sources/filedownload.cpp" line="112"/>
       <source>Not enough free space (%1 MB).</source>
-      <translation type="unfinished">Not enough free space (%1 MB).</translation>
+      <translation>Ikke nok ledig plass (%1 MB).</translation>
     </message>
     <message>
       <location filename="../sources/filedownload.cpp" line="119"/>
       <source>Destination file already exists</source>
-      <translation type="unfinished">Destination file already exists</translation>
+      <translation>Målfilen "%s" eksisterer allerede</translation>
     </message>
   </context>
   <context>
@@ -562,18 +562,18 @@ for å fikse problemet.</translation>
       <location filename="../basic_ui/InitialSetup.qml" line="33"/>
       <source>Use the web configurator
 to set up YIO remote</source>
-      <translation type="unfinished">Use the web configurator
-to set up YIO remote</translation>
+      <translation>Bruk webkonfiguratoren
+for å sette opp YIO-fjernkontrollen</translation>
     </message>
     <message>
       <location filename="../basic_ui/InitialSetup.qml" line="44"/>
       <source>Navigate your internet browser to: http://</source>
-      <translation type="unfinished">Navigate your internet browser to: http://</translation>
+      <translation>Åpne følgende side i nettleseren din: http://</translation>
     </message>
     <message>
       <location filename="../basic_ui/InitialSetup.qml" line="44"/>
       <source>Loading</source>
-      <translation type="unfinished">Loading</translation>
+      <translation>Laster inn</translation>
     </message>
   </context>
   <context>
@@ -581,22 +581,22 @@ to set up YIO remote</translation>
     <message>
       <location filename="../basic_ui/settings/Integrations.qml" line="49"/>
       <source> - Disconnected</source>
-      <translation type="unfinished"> - Disconnected</translation>
+      <translation> - Frakoblet</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Integrations.qml" line="133"/>
       <source>Connect</source>
-      <translation type="unfinished">Connect</translation>
+      <translation>Koble til</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Integrations.qml" line="165"/>
       <source>Disconnect</source>
-      <translation type="unfinished">Disconnect</translation>
+      <translation>Koble fra</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Integrations.qml" line="199"/>
       <source>Add new</source>
-      <translation type="unfinished">Add new</translation>
+      <translation>Legg til ny</translation>
     </message>
   </context>
   <context>
@@ -605,12 +605,12 @@ to set up YIO remote</translation>
       <location filename="../sources/jsonfile.cpp" line="78"/>
       <location filename="../sources/jsonfile.cpp" line="131"/>
       <source>empty name</source>
-      <translation type="unfinished">empty name</translation>
+      <translation>tomt navn</translation>
     </message>
     <message>
       <location filename="../sources/jsonfile.cpp" line="84"/>
       <source>empty data</source>
-      <translation type="unfinished">empty data</translation>
+      <translation>tom data</translation>
     </message>
     <message>
       <location filename="../sources/jsonfile.cpp" line="95"/>
@@ -633,7 +633,7 @@ to set up YIO remote</translation>
     <message>
       <location filename="../sources/logger.cpp" line="300"/>
       <source>Error creating log file &apos;%1&apos;.</source>
-      <translation type="unfinished">Error creating log file &apos;%1&apos;.</translation>
+      <translation>Feil under oppretting av loggfil &apos;%1&apos;.</translation>
     </message>
   </context>
   <context>
@@ -662,7 +662,7 @@ to set up YIO remote</translation>
     <message>
       <location filename="../basic_ui/MainNavigation.qml" line="79"/>
       <source>Media</source>
-      <translation type="unfinished">Media</translation>
+      <translation>Media</translation>
     </message>
   </context>
   <context>
@@ -722,12 +722,12 @@ to set up YIO remote</translation>
     <message>
       <location filename="../basic_ui/Profiles.qml" line="112"/>
       <source>Profiles</source>
-      <translation type="unfinished">Profiles</translation>
+      <translation>Profiler</translation>
     </message>
     <message>
       <location filename="../basic_ui/Profiles.qml" line="194"/>
       <source>To edit your profiles, use the web configurator tool in settings.</source>
-      <translation type="unfinished">To edit your profiles, use the web configurator tool in settings.</translation>
+      <translation>For å redigere profilene dine, bruk webkonfiguratorverktøyet i innstillinger.</translation>
     </message>
   </context>
   <context>
@@ -736,7 +736,7 @@ to set up YIO remote</translation>
       <location filename="../sources/main.cpp" line="220"/>
       <source>Factory reset failed.
  %1</source>
-      <translation type="unfinished">Factory reset failed.
+      <translation>Tilbakestilling til fabrikkinnstillinger feilet.
  %1</translation>
     </message>
   </context>
@@ -745,33 +745,33 @@ to set up YIO remote</translation>
     <message>
       <location filename="../sources/hardware/wifi_control.h" line="36"/>
       <source>WiFi device was not found.</source>
-      <translation type="unfinished">WiFi device was not found.</translation>
+      <translation>WiFi enhet ble ikke funnet.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="29"/>
       <source>Cannot initialize the battery sensor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the battery sensor. Please restart the remote.</translation>
+      <translation>Kan ikke initialisere batterisensor. Vennligst start fjernkontrollen på nytt.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="30"/>
       <location filename="../sources/hardware/proximitysensor.h" line="29"/>
       <source>Battery sensor communication error. Please restart the remote.</source>
-      <translation type="unfinished">Battery sensor communication error. Please restart the remote.</translation>
+      <translation>Kommunikasjon med batterisensor feilet. Start fjernkontrollen på nytt.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/hapticmotor.h" line="29"/>
       <source>Cannot initialize the haptic motor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the haptic motor. Please restart the remote.</translation>
+      <translation>Kan ikke initialisere haptisk motor. Vennligst start fjernkontrollen på nytt.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/interrupthandler.h" line="28"/>
       <source>Cannot initialize the interrupt handler. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the interrupt handler. Please restart the remote.</translation>
+      <translation>Kan ikke initialisere avbruddsbehandler. Vennligst start fjernkontrollen på nytt.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/proximitysensor.h" line="28"/>
       <source>Cannot initialize the proximity sensor. Please restart the remote.</source>
-      <translation type="unfinished">Cannot initialize the proximity sensor. Please restart the remote.</translation>
+      <translation>Kan ikke initialisere nærhetssensoren. Vennligst start fjernkontrollen på nytt.</translation>
     </message>
   </context>
   <context>
@@ -785,8 +785,8 @@ to set up YIO remote</translation>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="74"/>
       <source>Use your browser to configure your YIO remote or download and upload backups.
 Navigate your internet browser to: http://</source>
-      <translation type="unfinished">Use your browser to configure your YIO remote or download and upload backups.
-Navigate your internet browser to: http://</translation>
+      <translation>Bruk en nettleser for å konfigurere din YIO-fjernkontroll eller for å laste opp eller ned sikkerhetskopier. 
+Gå til følgende adresse: http://</translation>
     </message>
   </context>
   <context>
@@ -801,52 +801,52 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="178"/>
       <source>New software is available.</source>
-      <translation type="unfinished">New software is available.</translation>
+      <translation>Ny programvare er tilgjengelig.</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="178"/>
       <source>Your software is up to date.</source>
-      <translation type="unfinished">Your software is up to date.</translation>
+      <translation>Programvaren er oppdatert.</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="195"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>Skjerm</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="201"/>
       <source>Language</source>
-      <translation type="unfinished">Language</translation>
+      <translation>Språk</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="214"/>
       <source>Integrations</source>
-      <translation type="unfinished">Integrations</translation>
+      <translation>Integrasjoner</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="221"/>
       <source>Battery &amp; power</source>
-      <translation type="unfinished">Battery &amp; power</translation>
+      <translation>Batteri og strøm</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="228"/>
       <source>m remaining</source>
-      <translation type="unfinished">m remaining</translation>
+      <translation>m gjenstår</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="235"/>
       <source>WiFi &amp; bluetooth</source>
-      <translation type="unfinished">WiFi &amp; bluetooth</translation>
+      <translation>WiFi og bluetooth</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="241"/>
       <source>System</source>
-      <translation type="unfinished">System</translation>
+      <translation>System</translation>
     </message>
     <message>
       <location filename="../basic_ui/pages/Settings.qml" line="247"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>Om</translation>
     </message>
   </context>
   <context>
@@ -854,12 +854,12 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep1.qml" line="34"/>
       <source>Hello</source>
-      <translation type="unfinished">Hello</translation>
+      <translation>Hallo</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep1.qml" line="45"/>
       <source>Tap the screen to begin</source>
-      <translation type="unfinished">Tap the screen to begin</translation>
+      <translation>Trykk på skjermen for å begynne</translation>
     </message>
   </context>
   <context>
@@ -867,17 +867,17 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep3.qml" line="63"/>
       <source>Wi-Fi setup</source>
-      <translation type="unfinished">Wi-Fi setup</translation>
+      <translation>Wi-Fi innstillinger</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep3.qml" line="74"/>
       <source>Select a Wi-Fi network.</source>
-      <translation type="unfinished">Select a Wi-Fi network.</translation>
+      <translation>Velg et Wi-Fi-nettverk.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep3.qml" line="166"/>
       <source>Join other</source>
-      <translation type="unfinished">Join other</translation>
+      <translation>Velg annet</translation>
     </message>
   </context>
   <context>
@@ -892,12 +892,12 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep4.qml" line="115"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Passord</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4.qml" line="174"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Koble til</translation>
     </message>
   </context>
   <context>
@@ -905,22 +905,22 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="104"/>
       <source>Enter your WiFi network credentials</source>
-      <translation type="unfinished">Enter your WiFi network credentials</translation>
+      <translation>Angi påloggingsinformasjon for WiFi-nettverk</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="122"/>
       <source>SSID</source>
-      <translation type="unfinished">SSID</translation>
+      <translation>SSID</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="157"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Passord</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="206"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Koble til</translation>
     </message>
   </context>
   <context>
@@ -928,7 +928,7 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep5.qml" line="70"/>
       <source>Connecting</source>
-      <translation type="unfinished">Connecting</translation>
+      <translation>Kobler til</translation>
     </message>
   </context>
   <context>
@@ -936,17 +936,17 @@ Navigate your internet browser to: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="36"/>
       <source>Failed to connect</source>
-      <translation type="unfinished">Failed to connect</translation>
+      <translation>Kan ikke koble til</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="49"/>
       <source>YIO Remote could not connect to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Remote could not connect to your Wi-Fi network.</translation>
+      <translation>YIO fjernkontrollen kunne ikke kobles til ditt Wi-Fi nettverk.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Failure.qml" line="60"/>
       <source>Try again</source>
-      <translation type="unfinished">Try again</translation>
+      <translation>Prøv igjen</translation>
     </message>
   </context>
   <context>
