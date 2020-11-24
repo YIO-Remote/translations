@@ -954,17 +954,17 @@ Gå til følgende adresse: http://</translation>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="36"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>Tilkoblet</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="47"/>
       <source>YIO Remote has successfully connected to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Remote has successfully connected to your Wi-Fi network.</translation>
+      <translation>YIO fjernkontroll er tilkoblet Wi-Fi-nettverket ditt.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep6Success.qml" line="58"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Neste</translation>
     </message>
   </context>
   <context>
@@ -975,20 +975,19 @@ Gå til følgende adresse: http://</translation>
 a power source and wait until it starts blinking.
 
  To share the Wi-Fi network credentials with the dock, tap next.</source>
-      <translation type="unfinished">Connect the YIO Dock to
-a power source and wait until it starts blinking.
+      <translation>Koble YIO Dock til en strømkilde og vent til den begynner å blinke. 
 
- To share the Wi-Fi network credentials with the dock, tap next.</translation>
+For å dele nettverksinnstillingene med Dock, trykk neste.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep7.qml" line="72"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Neste</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep7.qml" line="83"/>
       <source>Skip</source>
-      <translation type="unfinished">Skip</translation>
+      <translation>Hopp over</translation>
     </message>
   </context>
   <context>
@@ -996,7 +995,7 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep8.qml" line="144"/>
       <source>Setting up your YIO Dock</source>
-      <translation type="unfinished">Setting up your YIO Dock</translation>
+      <translation>Konfigurerer YIO Dock</translation>
     </message>
   </context>
   <context>
@@ -1004,17 +1003,17 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep9Failure.qml" line="36"/>
       <source>Failed to connect</source>
-      <translation type="unfinished">Failed to connect</translation>
+      <translation>Kunne ikke koble til</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Failure.qml" line="49"/>
       <source>YIO Dock could not connect to your Wi-Fi network.</source>
-      <translation type="unfinished">YIO Dock could not connect to your Wi-Fi network.</translation>
+      <translation>YIO Dock kunne ikke kobles til ditt Wi-Fi nettverk.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Failure.qml" line="60"/>
       <source>Try again</source>
-      <translation type="unfinished">Try again</translation>
+      <translation>Prøv igjen</translation>
     </message>
   </context>
   <context>
@@ -1022,7 +1021,7 @@ a power source and wait until it starts blinking.
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="39"/>
       <source>Done</source>
-      <translation type="unfinished">Done</translation>
+      <translation>Ferdig</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="50"/>
@@ -1031,16 +1030,16 @@ a power source and wait until it starts blinking.
 To use the web configurator,
 go to Settings and turn on
 Remote configuration after restarting the remote.</source>
-      <translation type="unfinished">You can setup your YIO Dock later from the web configurator.
+      <translation>Du kan sette opp din YIO Dock senere fra webkonfiguratoren.
 
-To use the web configurator,
-go to Settings and turn on
-Remote configuration after restarting the remote.</translation>
+For å bruke webkonfiguratoren
+gå til Innstillinger og slå på
+Fjernkontroll konfigurasjon etter omstart av fjernkontrollen.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Skip.qml" line="61"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Start på nytt</translation>
     </message>
   </context>
   <context>
@@ -1048,7 +1047,7 @@ Remote configuration after restarting the remote.</translation>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="39"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>Tilkoblet</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="50"/>
@@ -1057,16 +1056,16 @@ Remote configuration after restarting the remote.</translation>
 To use the web configurator,
 go to Settings and turn on
 Remote configuration after restarting the remote.</source>
-      <translation type="unfinished">YIO Dock has successfully connected to your Wi-Fi network.
+      <translation>YIO Dock er tilkoblet Wi-Fi nettverket ditt.
 
-To use the web configurator,
-go to Settings and turn on
-Remote configuration after restarting the remote.</translation>
+For å bruke webkonfiguratoren
+gå til Innstillinger og slå på
+Fjernkontroll konfigurasjon etter omstart av fjernkontrollen.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="61"/>
       <source>Reboot</source>
-      <translation type="unfinished">Reboot</translation>
+      <translation>Start på nytt</translation>
     </message>
   </context>
   <context>
@@ -1074,7 +1073,7 @@ Remote configuration after restarting the remote.</translation>
     <message>
       <location filename="../setup/SetupStepCountry.qml" line="65"/>
       <source>Select your country or region</source>
-      <translation type="unfinished">Select your country or region</translation>
+      <translation>Velg land og/eller region</translation>
     </message>
   </context>
   <context>
@@ -1082,32 +1081,32 @@ Remote configuration after restarting the remote.</translation>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="163"/>
       <source>Cannot connect to the update server.</source>
-      <translation type="unfinished">Cannot connect to the update server.</translation>
+      <translation>Kan ikke koble til oppdateringsserveren.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="194"/>
       <source>Invalid request.</source>
-      <translation type="unfinished">Invalid request.</translation>
+      <translation>Ugyldig forespørsel.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="197"/>
       <source>Unsupported device.</source>
-      <translation type="unfinished">Unsupported device.</translation>
+      <translation>Ikke-støttet enhet.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="200"/>
       <source>Service currently not available.</source>
-      <translation type="unfinished">Service currently not available.</translation>
+      <translation>Tjenesten er for tiden ikke tilgjengelig.</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="203"/>
       <source>Request error %1</source>
-      <translation type="unfinished">Request error %1</translation>
+      <translation>Forespørselsfeil %1</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="207"/>
       <source>Software update:</source>
-      <translation type="unfinished">Software update:</translation>
+      <translation>Programvareoppdatering:</translation>
     </message>
     <message>
       <location filename="../sources/softwareupdate.cpp" line="224"/>
