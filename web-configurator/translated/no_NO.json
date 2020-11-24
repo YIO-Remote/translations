@@ -1,14 +1,14 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"title": "Å nei!",
+			"message": "Det ser ut til at vi har mistet tilkoblingen til fjernkontrollen. Kontroller at den er tilgjengelig på nettverket.",
+			"reconnecting": "Kobler til på nytt"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
+		"save": "Lagre",
 		"cancel": "Cancel",
 		"create": "Create",
 		"name": "Name",
