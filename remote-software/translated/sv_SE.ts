@@ -414,7 +414,7 @@ För att lära dig mer om projektet, besök
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="50"/>
       <source>Show frames / second counter.</source>
-      <translation type="unfinished">Show frames / second counter.</translation>
+      <translation>Visa bildrutor / sekund räknare.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="53"/>
