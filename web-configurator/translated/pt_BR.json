@@ -1,30 +1,30 @@
 {
 	"overlays": {
 		"disconnection": {
-			"title": "Oh No!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"title": "Ah, não!",
+			"message": "Parece que perdemos a conexão com o seu controle remoto. Certifique-se de que esteja acessível na rede.",
+			"reconnecting": "Reconectando"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
-		"pleaseSelect": "Please Select",
-		"settings": "Settings",
-		"type": "Type",
-		"version": "Version",
-		"release": "Release"
+		"save": "Salvar",
+		"cancel": "Cancelar",
+		"create": "Criar",
+		"name": "Nome",
+		"pleaseSelect": "Selecione por favor",
+		"settings": "Configurações",
+		"type": "Tipo",
+		"version": "Versão",
+		"release": "Versão"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Configurador Web"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
+		"advanced": "Avançado",
+		"entities": "Entidades",
+		"integrations": "Integrações",
 		"irLearning": "IR Learning",
 		"settings": "Settings",
 		"profiles": "Profiles",
