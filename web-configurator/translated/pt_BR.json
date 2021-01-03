@@ -25,26 +25,26 @@
 		"advanced": "Avançado",
 		"entities": "Entidades",
 		"integrations": "Integrações",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"irLearning": "Aprendizagem IR",
+		"settings": "Configurações",
+		"profiles": "Perfis",
+		"softwareUpdate": "Atualização do Software"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Arraste uma entidade aqui"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Arraste um grupo aqui"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
-				"availablePages": "Available Pages"
+				"title": "Páginas",
+				"message": "Você pode adicionar grupos a uma página depois de arrastá-lo para um perfil e selecioná-lo.",
+				"availablePages": "Páginas disponíveis"
 			},
 			"groupsTab": {
-				"title": "Groups",
+				"title": "Grupos",
 				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
 				"availableGroups": "Available Groups"
 			},
