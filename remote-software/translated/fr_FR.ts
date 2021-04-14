@@ -221,7 +221,7 @@ Pour en savoir plus sur le projet, visitez
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="119"/>
       <source>Guide</source>
-      <translation type="unfinished">Guide</translation>
+      <translation>Guide</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="129"/>
@@ -265,7 +265,7 @@ Pour en savoir plus sur le projet, visitez
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerEPGView.qml" line="107"/>
       <source>EPG List</source>
-      <translation type="unfinished">EPG List</translation>
+      <translation>Liste EPG</translation>
     </message>
   </context>
   <context>
@@ -273,17 +273,17 @@ Pour en savoir plus sur le projet, visitez
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="135"/>
       <source>Mute</source>
-      <translation type="unfinished">Mute</translation>
+      <translation>Mute</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="160"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>Retour</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="185"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Menu</translation>
     </message>
   </context>
   <context>
@@ -357,7 +357,7 @@ Pour en savoir plus sur le projet, visitez
     <message>
       <location filename="../components/media_player/ui/CardTVChannelList.qml" line="126"/>
       <source>TV Channel List</source>
-      <translation type="unfinished">TV Channel List</translation>
+      <translation>Liste des chaînes</translation>
     </message>
   </context>
   <context>
@@ -617,7 +617,7 @@ pour configurer votre télécommande YIO</translation>
     <message>
       <location filename="../sources/launcher.cpp" line="52"/>
       <source>Incompatible plugin %1: metadata missing</source>
-      <translation type="unfinished">Incompatible plugin %1: metadata missing</translation>
+      <translation>Plugin incompatible %1: métadonnée manquante</translation>
     </message>
     <message>
       <location filename="../sources/launcher.cpp" line="57"/>
