@@ -145,12 +145,12 @@ Para saber mais sobre o projeto, visite
   <context>
     <name>ButtonBase</name>
     <message>
-      <location filename="../components/ButtonBase.qml" line="373"/>
+      <location filename="../components/ButtonBase.qml" line="372"/>
       <source>Remove from favorites</source>
       <translation>Remover dos favoritos</translation>
     </message>
     <message>
-      <location filename="../components/ButtonBase.qml" line="373"/>
+      <location filename="../components/ButtonBase.qml" line="372"/>
       <source>Add to favorites</source>
       <translation>Adicionar aos favoritos</translation>
     </message>
@@ -188,17 +188,17 @@ Para saber mais sobre o projeto, visite
       <translation>Frio</translation>
     </message>
     <message>
-      <location filename="../components/remote/ui/ir/Card.qml" line="253"/>
+      <location filename="../components/remote/ui/ir/Card.qml" line="423"/>
       <source>Mute</source>
       <translation>Mudo</translation>
     </message>
     <message>
-      <location filename="../components/remote/ui/ir/Card.qml" line="278"/>
+      <location filename="../components/remote/ui/ir/Card.qml" line="448"/>
       <source>Back</source>
       <translation>Voltar</translation>
     </message>
     <message>
-      <location filename="../components/remote/ui/ir/Card.qml" line="303"/>
+      <location filename="../components/remote/ui/ir/Card.qml" line="473"/>
       <source>Menu</source>
       <translation>Menu</translation>
     </message>
@@ -206,7 +206,7 @@ Para saber mais sobre o projeto, visite
   <context>
     <name>CardButtons</name>
     <message>
-      <location filename="../components/remote/ui/ir/CardButtons.qml" line="69"/>
+      <location filename="../components/remote/ui/ir/CardButtons.qml" line="80"/>
       <source>Source</source>
       <translation>Fonte</translation>
     </message>
@@ -214,69 +214,19 @@ Para saber mais sobre o projeto, visite
   <context>
     <name>CardButtonsTransport</name>
     <message>
-      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="39"/>
-      <source>Play</source>
-      <translation>Reproduzir</translation>
-    </message>
-    <message>
-      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="45"/>
-      <source>Pause</source>
-      <translation>Pausar</translation>
-    </message>
-    <message>
-      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="51"/>
-      <source>Stop</source>
-      <translation>Parar</translation>
-    </message>
-    <message>
-      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="57"/>
-      <source>Prev</source>
-      <translation>Voltar</translation>
-    </message>
-    <message>
-      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="63"/>
-      <source>Next</source>
-      <translation>Avançar</translation>
-    </message>
-    <message>
-      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="69"/>
-      <source>Info</source>
-      <translation>Informações</translation>
-    </message>
-    <message>
-      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="75"/>
-      <source>BWD</source>
-      <translation type="unfinished">BWD</translation>
-    </message>
-    <message>
-      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="81"/>
-      <source>FWD</source>
-      <translation type="unfinished">FWD</translation>
-    </message>
-    <message>
-      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="87"/>
-      <source>Rec</source>
-      <translation>Gravar</translation>
-    </message>
-    <message>
-      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="95"/>
+      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="113"/>
       <source>Exit</source>
       <translation>Sair</translation>
     </message>
     <message>
-      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="103"/>
+      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="119"/>
+      <source>Guide</source>
+      <translation type="unfinished">Guide</translation>
+    </message>
+    <message>
+      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="129"/>
       <source>Back</source>
       <translation>Voltar</translation>
-    </message>
-    <message>
-      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="109"/>
-      <source>Home</source>
-      <translation>Início</translation>
-    </message>
-    <message>
-      <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="115"/>
-      <source>Menu</source>
-      <translation>Menu</translation>
     </message>
   </context>
   <context>
@@ -308,6 +258,32 @@ Para saber mais sobre o projeto, visite
       <location filename="../components/light/ui/CardDimmable.qml" line="235"/>
       <source>Turn on</source>
       <translation type="unfinished">Turn on</translation>
+    </message>
+  </context>
+  <context>
+    <name>CardMediaPlayerEPGView</name>
+    <message>
+      <location filename="../components/media_player/ui/CardMediaPlayerEPGView.qml" line="107"/>
+      <source>EPG List</source>
+      <translation type="unfinished">EPG List</translation>
+    </message>
+  </context>
+  <context>
+    <name>CardMediaPlayerRemote</name>
+    <message>
+      <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="135"/>
+      <source>Mute</source>
+      <translation type="unfinished">Mute</translation>
+    </message>
+    <message>
+      <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="160"/>
+      <source>Back</source>
+      <translation type="unfinished">Back</translation>
+    </message>
+    <message>
+      <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="185"/>
+      <source>Menu</source>
+      <translation type="unfinished">Menu</translation>
     </message>
   </context>
   <context>
@@ -374,6 +350,14 @@ Para saber mais sobre o projeto, visite
       <location filename="../components/switch/ui/CardSwitch.qml" line="159"/>
       <source>Turn on</source>
       <translation type="unfinished">Turn on</translation>
+    </message>
+  </context>
+  <context>
+    <name>CardTVChannelList</name>
+    <message>
+      <location filename="../components/media_player/ui/CardTVChannelList.qml" line="126"/>
+      <source>TV Channel List</source>
+      <translation type="unfinished">TV Channel List</translation>
     </message>
   </context>
   <context>
@@ -629,6 +613,24 @@ to set up YIO remote</translation>
     </message>
   </context>
   <context>
+    <name>Launcher</name>
+    <message>
+      <location filename="../sources/launcher.cpp" line="52"/>
+      <source>Incompatible plugin %1: metadata missing</source>
+      <translation type="unfinished">Incompatible plugin %1: metadata missing</translation>
+    </message>
+    <message>
+      <location filename="../sources/launcher.cpp" line="57"/>
+      <source>Incompatible plugin %1: integration lib mismatch</source>
+      <translation type="unfinished">Incompatible plugin %1: integration lib mismatch</translation>
+    </message>
+    <message>
+      <location filename="../sources/launcher.cpp" line="64"/>
+      <source>Failed to load %1</source>
+      <translation type="unfinished">Failed to load %1</translation>
+    </message>
+  </context>
+  <context>
     <name>Logger</name>
     <message>
       <location filename="../sources/logger.cpp" line="300"/>
@@ -733,7 +735,7 @@ to set up YIO remote</translation>
   <context>
     <name>QGuiApplication</name>
     <message>
-      <location filename="../sources/main.cpp" line="220"/>
+      <location filename="../sources/main.cpp" line="221"/>
       <source>Factory reset failed.
  %1</source>
       <translation type="unfinished">Factory reset failed.
@@ -903,22 +905,22 @@ Navigate your internet browser to: http://</translation>
   <context>
     <name>SetupStep4Other</name>
     <message>
-      <location filename="../setup/SetupStep4Other.qml" line="104"/>
+      <location filename="../setup/SetupStep4Other.qml" line="105"/>
       <source>Enter your WiFi network credentials</source>
       <translation type="unfinished">Enter your WiFi network credentials</translation>
     </message>
     <message>
-      <location filename="../setup/SetupStep4Other.qml" line="122"/>
+      <location filename="../setup/SetupStep4Other.qml" line="123"/>
       <source>SSID</source>
       <translation type="unfinished">SSID</translation>
     </message>
     <message>
-      <location filename="../setup/SetupStep4Other.qml" line="157"/>
+      <location filename="../setup/SetupStep4Other.qml" line="158"/>
       <source>Password</source>
       <translation type="unfinished">Password</translation>
     </message>
     <message>
-      <location filename="../setup/SetupStep4Other.qml" line="206"/>
+      <location filename="../setup/SetupStep4Other.qml" line="207"/>
       <source>Join</source>
       <translation type="unfinished">Join</translation>
     </message>
