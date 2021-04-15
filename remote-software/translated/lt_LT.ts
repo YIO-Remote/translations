@@ -221,7 +221,7 @@ Jei norite sužinoti daugiau apie projektą, eikite
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="119"/>
       <source>Guide</source>
-      <translation type="unfinished">Guide</translation>
+      <translation>Gidas</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="129"/>
@@ -265,7 +265,7 @@ Jei norite sužinoti daugiau apie projektą, eikite
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerEPGView.qml" line="107"/>
       <source>EPG List</source>
-      <translation type="unfinished">EPG List</translation>
+      <translation>EPG sąrašas</translation>
     </message>
   </context>
   <context>
@@ -273,17 +273,17 @@ Jei norite sužinoti daugiau apie projektą, eikite
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="135"/>
       <source>Mute</source>
-      <translation type="unfinished">Mute</translation>
+      <translation>Nutildyti</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="160"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>Atgal</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="185"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Meniu</translation>
     </message>
   </context>
   <context>
@@ -357,7 +357,7 @@ Jei norite sužinoti daugiau apie projektą, eikite
     <message>
       <location filename="../components/media_player/ui/CardTVChannelList.qml" line="126"/>
       <source>TV Channel List</source>
-      <translation type="unfinished">TV Channel List</translation>
+      <translation>TV kanalų sąrašas</translation>
     </message>
   </context>
   <context>
@@ -617,17 +617,17 @@ YIO distancinio valdymo pulto nustatymams</translation>
     <message>
       <location filename="../sources/launcher.cpp" line="52"/>
       <source>Incompatible plugin %1: metadata missing</source>
-      <translation type="unfinished">Incompatible plugin %1: metadata missing</translation>
+      <translation>Nesuderinamas įskiepas %1: trūksta duomenų</translation>
     </message>
     <message>
       <location filename="../sources/launcher.cpp" line="57"/>
       <source>Incompatible plugin %1: integration lib mismatch</source>
-      <translation type="unfinished">Incompatible plugin %1: integration lib mismatch</translation>
+      <translation>Nesuderinamas įskiepas %1: nesuderinamumas integracinėse bibliotekose</translation>
     </message>
     <message>
       <location filename="../sources/launcher.cpp" line="64"/>
       <source>Failed to load %1</source>
-      <translation type="unfinished">Failed to load %1</translation>
+      <translation>Klaida užkraunant %1</translation>
     </message>
   </context>
   <context>
