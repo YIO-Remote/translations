@@ -265,7 +265,7 @@ Per saperne di più sul progetto, visita
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerEPGView.qml" line="107"/>
       <source>EPG List</source>
-      <translation type="unfinished">EPG List</translation>
+      <translation>Elenco EPG</translation>
     </message>
   </context>
   <context>
@@ -273,17 +273,17 @@ Per saperne di più sul progetto, visita
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="135"/>
       <source>Mute</source>
-      <translation type="unfinished">Mute</translation>
+      <translation>Muto</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="160"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>Indietro</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="185"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Menu</translation>
     </message>
   </context>
   <context>
@@ -357,7 +357,7 @@ Per saperne di più sul progetto, visita
     <message>
       <location filename="../components/media_player/ui/CardTVChannelList.qml" line="126"/>
       <source>TV Channel List</source>
-      <translation type="unfinished">TV Channel List</translation>
+      <translation>Elenco canali TV</translation>
     </message>
   </context>
   <context>
@@ -617,17 +617,17 @@ per impostare YIO Remote</translation>
     <message>
       <location filename="../sources/launcher.cpp" line="52"/>
       <source>Incompatible plugin %1: metadata missing</source>
-      <translation type="unfinished">Incompatible plugin %1: metadata missing</translation>
+      <translation>Plugin %1 incompatibile: metadati mancanti</translation>
     </message>
     <message>
       <location filename="../sources/launcher.cpp" line="57"/>
       <source>Incompatible plugin %1: integration lib mismatch</source>
-      <translation type="unfinished">Incompatible plugin %1: integration lib mismatch</translation>
+      <translation>Plugin %1 incompatibile: lib d'integrazione errata</translation>
     </message>
     <message>
       <location filename="../sources/launcher.cpp" line="64"/>
       <source>Failed to load %1</source>
-      <translation type="unfinished">Failed to load %1</translation>
+      <translation>Caricamento %1 fallito</translation>
     </message>
   </context>
   <context>
