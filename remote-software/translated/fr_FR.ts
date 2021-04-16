@@ -627,7 +627,7 @@ pour configurer votre télécommande YIO</translation>
     <message>
       <location filename="../sources/launcher.cpp" line="66"/>
       <source>Plugin %1 requires app version %2 or higher</source>
-      <translation type="unfinished">Plugin %1 requires app version %2 or higher</translation>
+      <translation>Le plugin %1 nécessite la version %2 ou supérieure de l'application</translation>
     </message>
     <message>
       <location filename="../sources/launcher.cpp" line="73"/>
