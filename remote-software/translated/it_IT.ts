@@ -627,7 +627,7 @@ per impostare YIO Remote</translation>
     <message>
       <location filename="../sources/launcher.cpp" line="66"/>
       <source>Plugin %1 requires app version %2 or higher</source>
-      <translation type="unfinished">Plugin %1 requires app version %2 or higher</translation>
+      <translation>Il plugin %1 richiede la versione %2 o superiore</translation>
     </message>
     <message>
       <location filename="../sources/launcher.cpp" line="73"/>
