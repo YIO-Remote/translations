@@ -83,7 +83,7 @@
 		"irLearning": {},
 		"softwareUpdate": {
 			"title": "軟件更新",
-			"description": "自動檢查更新並在有新軟件版本時更新。更新會於04.00 am 安裝。",
+			"description": "自動檢查更新並在發現新軟件版本時更新。更新會於04.00 am 安裝。",
 			"autoUpdate": "自動更新",
 			"update": "更新",
 			"checkForUpdate": "檢查更新",
