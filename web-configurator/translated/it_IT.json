@@ -2,45 +2,45 @@
 	"overlays": {
 		"disconnection": {
 			"title": "Oh No!",
-			"message": "It looks like we lost connection with your remote. Please make sure it is accessible on the network.",
-			"reconnecting": "Reconnecting"
+			"message": "Sembra che abbiamo perso la connessione con il tuo telecomando. Assicurati che sia acessibile sulla rete.",
+			"reconnecting": "Riconnessione"
 		}
 	},
 	"common": {
 		"id": "ID",
-		"save": "Save",
-		"cancel": "Cancel",
-		"create": "Create",
-		"name": "Name",
+		"save": "Salva",
+		"cancel": "Annulla",
+		"create": "Crea",
+		"name": "Nome",
 		"pleaseSelect": "Please Select",
-		"settings": "Settings",
+		"settings": "Impostazioni",
 		"type": "Type",
-		"version": "Version",
+		"version": "Versione",
 		"release": "Release"
 	},
 	"header": {
-		"title": "Web Configurator"
+		"title": "Configuratore Web"
 	},
 	"menu": {
-		"advanced": "Advanced",
-		"entities": "Entities",
-		"integrations": "Integrations",
-		"irLearning": "IR Learning",
-		"settings": "Settings",
-		"profiles": "Profiles",
-		"softwareUpdate": "Software Update"
+		"advanced": "Avanzate",
+		"entities": "Entità",
+		"integrations": "Integrazioni",
+		"irLearning": "Apprendimento IR",
+		"settings": "Impostazioni",
+		"profiles": "Profili",
+		"softwareUpdate": "Aggiornamento Software"
 	},
 	"components": {
 		"editEntities": {
-			"dropZone": "Drag an entity here"
+			"dropZone": "Trascina un'entità qui"
 		},
 		"editPage": {
-			"dropZone": "Drag a group here"
+			"dropZone": "Trascina un gruppo qui"
 		},
 		"profileOptions": {
 			"pagesTab": {
-				"title": "Pages",
-				"message": "You can add groups to a page after dragging it under a profile and selecting it.",
+				"title": "Pagine",
+				"message": "Puoi aggiungere gruppi a una pagina dopo averla trascinata sotto un profilo e selezionata.",
 				"availablePages": "Available Pages"
 			},
 			"groupsTab": {
