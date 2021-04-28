@@ -41,68 +41,68 @@
 			"pagesTab": {
 				"title": "Pagine",
 				"message": "Puoi aggiungere gruppi a una pagina dopo averla trascinata sotto un profilo e selezionata.",
-				"availablePages": "Available Pages"
+				"availablePages": "Pagine Disponibili"
 			},
 			"groupsTab": {
-				"title": "Groups",
+				"title": "Gruppi",
 				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Available Groups"
+				"availableGroups": "Gruppi Disponibili"
 			},
 			"entitiesTab": {
-				"title": "Entities",
+				"title": "Entità",
 				"message": "Drag entities to the remote view to add them to favorites or a group."
 			}
 		}
 	},
 	"pages": {
 		"integrations": {
-			"configuredIntegrations": "Configured Integrations",
-			"discoveredIntegrations": "Discovered Integrations",
-			"addIntegration": "Add Integrations",
-			"newIntegration": "New Integrations"
+			"configuredIntegrations": "Integrazioni configurate",
+			"discoveredIntegrations": "Integrazioni scoperte",
+			"addIntegration": "Aggiungi integrazioni",
+			"newIntegration": "Nuove integrazioni"
 		},
 		"entities": {
-			"title": "Entities Controlled By YIO Remote",
-			"integration": "Integration",
-			"availableEntities": "Available Entities"
+			"title": "Entità controllate da YIO Remote",
+			"integration": "Integrazione",
+			"availableEntities": "Entità disponibili"
 		},
 		"profiles": {
-			"title": "Profiles",
+			"title": "Profili",
 			"profileList": {
-				"title": "Pages",
-				"dropZone": "Drag a page here"
+				"title": "Pagine",
+				"dropZone": "Trascina una pagina qui"
 			},
 			"newProfile": {
-				"title": "New Profile"
+				"title": "Nuovo profilo"
 			},
 			"remote": {
-				"defaultMessage": "Select a page in a profile to start editing",
-				"editSettingsMessage": "Settings content cannot be edited"
+				"defaultMessage": "Seleziona una pagina in un profilo per iniziare a modificarla",
+				"editSettingsMessage": "Il contenuto delle impostazioni non può essere modificato"
 			}
 		},
 		"irLearning": {},
 		"softwareUpdate": {
-			"title": "Software Update",
-			"description": "Automatically look for updates and update when a new software version is available. Updates are installed at 04.00 am.",
-			"autoUpdate": "Auto Update",
-			"update": "Update",
-			"checkForUpdate": "Check For Updates",
-			"upToDate": "Your software is up to date",
+			"title": "Aggiornamento software",
+			"description": "Cerca automaticamente gli aggiornamenti e aggiorna quando è disponibile una nuova versione del software. Gli aggiornamenti verranno installati alle ore 04.00.",
+			"autoUpdate": "Aggiornamento automatico",
+			"update": "Aggiorna",
+			"checkForUpdate": "Controlla aggiornamenti",
+			"upToDate": "Il software è aggiornato",
 			"newAvailable": "New software is available",
 			"installedVersion": "Installed Version"
 		},
 		"advanced": {
 			"title": "Advanced Configuration",
-			"message": "Manually set the remote config by hand:"
+			"message": "Imposta manualmente la configurazione remota a mano:"
 		},
 		"settings": {
-			"title": "Settings",
+			"title": "Impostazioni",
 			"darkMode": {
-				"title": "Dark Mode"
+				"title": "Modalità scura"
 			},
 			"autoBrightness": {
-				"title": "Auto Brightness",
-				"description": "Automatically adjust the brightness based on ambient light."
+				"title": "Luminosità automatica",
+				"description": "Regola automaticamente la luminosità in base alla luce ambientale."
 			}
 		}
 	}
