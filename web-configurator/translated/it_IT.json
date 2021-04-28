@@ -88,11 +88,11 @@
 			"update": "Aggiorna",
 			"checkForUpdate": "Controlla aggiornamenti",
 			"upToDate": "Il software è aggiornato",
-			"newAvailable": "New software is available",
-			"installedVersion": "Installed Version"
+			"newAvailable": "È disponibile un nuovo aggiornamento",
+			"installedVersion": "Versione installata"
 		},
 		"advanced": {
-			"title": "Advanced Configuration",
+			"title": "Configurazione avanzata",
 			"message": "Imposta manualmente la configurazione remota a mano:"
 		},
 		"settings": {
