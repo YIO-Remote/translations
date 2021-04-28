@@ -28,7 +28,7 @@
 		"irLearning": "Apprendimento IR",
 		"settings": "Impostazioni",
 		"profiles": "Profili",
-		"softwareUpdate": "Aggiornamento Software"
+		"softwareUpdate": "Aggiornamento software"
 	},
 	"components": {
 		"editEntities": {
@@ -41,12 +41,12 @@
 			"pagesTab": {
 				"title": "Pagine",
 				"message": "Puoi aggiungere gruppi a una pagina dopo averla trascinata sotto un profilo e selezionata.",
-				"availablePages": "Pagine Disponibili"
+				"availablePages": "Pagine disponibili"
 			},
 			"groupsTab": {
 				"title": "Gruppi",
 				"message": "You can add entities to a group after dragging it under a page in the remote view to the left.",
-				"availableGroups": "Gruppi Disponibili"
+				"availableGroups": "Gruppi disponibili"
 			},
 			"entitiesTab": {
 				"title": "Entità",
