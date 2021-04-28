@@ -73,12 +73,12 @@ Per saperne di più sul progetto, visita
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="345"/>
       <source>Never turn off Wi-Fi</source>
-      <translation>Mai disattivare il Wi-Fi</translation>
+      <translation>Non disattivare mai il Wi-Fi</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="345"/>
       <source>Turn off Wi-Fi after %1 minutes of inactivity</source>
-      <translation>Disattiva Wi-Fi dopo %1 minuti di inattività</translation>
+      <translation>Disattiva il Wi-Fi dopo %1 minuti di inattività</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Battery.qml" line="433"/>
@@ -185,7 +185,7 @@ Per saperne di più sul progetto, visita
     <message>
       <location filename="../components/climate/ui/Card.qml" line="442"/>
       <source>Cool</source>
-      <translation>Raffreddamento</translation>
+      <translation>Raffrescamento</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/Card.qml" line="423"/>
@@ -716,7 +716,7 @@ per impostare il telecomando YIO</translation>
     <message>
       <location filename="../basic_ui/PopupLowBattery.qml" line="102"/>
       <source>Low battery</source>
-      <translation>Batteria bassa</translation>
+      <translation>Batteria scarica</translation>
     </message>
     <message>
       <location filename="../basic_ui/PopupLowBattery.qml" line="112"/>
@@ -757,13 +757,13 @@ per impostare il telecomando YIO</translation>
     <message>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="29"/>
       <source>Cannot initialize the battery sensor. Please restart the remote.</source>
-      <translation>Impossibile inizializzare il sensore di batteria. Riavviare il telecomando.</translation>
+      <translation>Impossibile inizializzare il sensore batteria. Riavviare il telecomando.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/batteryfuelgauge.h" line="30"/>
       <location filename="../sources/hardware/proximitysensor.h" line="29"/>
       <source>Battery sensor communication error. Please restart the remote.</source>
-      <translation>Errore di comunicazione col sensore di batteria. Riavvia il telecomando.</translation>
+      <translation>Errore di comunicazione col sensore batteria. Riavvia il telecomando.</translation>
     </message>
     <message>
       <location filename="../sources/hardware/hapticmotor.h" line="29"/>
@@ -792,7 +792,7 @@ per impostare il telecomando YIO</translation>
       <location filename="../basic_ui/settings/RemoteConfig.qml" line="74"/>
       <source>Use your browser to configure your YIO remote or download and upload backups.
 Navigate your internet browser to: http://</source>
-      <translation>Usa il tuo browser per configurare il tuo telecomando YIO o scaricare e caricare i backup.
+      <translation>Usa il tuo browser per configurare il tuo YIO Remote o scaricare e caricare i backup.
 Collegati con il tuo browser internet a: http://</translation>
     </message>
   </context>
@@ -893,7 +893,7 @@ Collegati con il tuo browser internet a: http://</translation>
       <location filename="../setup/SetupStep4.qml" line="98"/>
       <source>Enter password for
 &quot;%1&quot;</source>
-      <translation>Enter password for
+      <translation>Inserisci la password per
 &quot;%1&quot;</translation>
     </message>
     <message>
@@ -912,7 +912,7 @@ Collegati con il tuo browser internet a: http://</translation>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="105"/>
       <source>Enter your WiFi network credentials</source>
-      <translation>Inserisci le credenziali di rete WiFi</translation>
+      <translation>Inserisci le credenziali della rete WiFi</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="123"/>
@@ -927,7 +927,7 @@ Collegati con il tuo browser internet a: http://</translation>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="207"/>
       <source>Join</source>
-      <translation>Entra</translation>
+      <translation>Accedi</translation>
     </message>
   </context>
   <context>
@@ -1064,11 +1064,11 @@ vai su Impostazioni e attiva
 To use the web configurator,
 go to Settings and turn on
 Remote configuration after restarting the remote.</source>
-      <translation type="unfinished">YIO Dock has successfully connected to your Wi-Fi network.
+      <translation>YIO Dock si è connesso con successo alla tua rete Wi-Fi.
 
-To use the web configurator,
-go to Settings and turn on
-Remote configuration after restarting the remote.</translation>
+Per utilizzare il configuratore web,
+vai su Impostazioni e attiva
+"Configurazione remota" dopo aver riavviato il telecomando.</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep9Success.qml" line="61"/>
@@ -1154,14 +1154,14 @@ Remote configuration after restarting the remote.</translation>
       <source>Automatically look for updates and update when a new software version is available.
 Updates are installed between 03.00 am and 05.00 am.</source>
       <translation>Cerca automaticamente aggiornamenti software e installali quando disponibili.
-Aggiornamenti verranno installati tra 03.00 e 05.00 del mattino.</translation>
+Gli aggiornamenti verranno installati tra le 03.00 e 05.00 del mattino.</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="93"/>
       <source>New software is available.
 YIO remote %1</source>
       <translation>Nuovo aggiornamento disponibile.
-YIO remoto %1</translation>
+YIO Remote %1</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/Softwareupdate.qml" line="93"/>
@@ -1222,7 +1222,7 @@ YIO remoto %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="92"/>
       <source>Unit system</source>
-      <translation>Sistema di unità</translation>
+      <translation>Sistema di unità di misura</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="131"/>
@@ -1310,7 +1310,7 @@ YIO remoto %1</translation>
     <message>
       <location filename="../basic_ui/settings/WifiConnect.qml" line="169"/>
       <source>Join</source>
-      <translation>Entra</translation>
+      <translation>Accedi</translation>
     </message>
   </context>
 </TS>
