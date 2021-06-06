@@ -12,7 +12,7 @@
       <location filename="../basic_ui/settings/About.qml" line="44"/>
       <source>YIO being an open source project, benefits from all the contributors. Big thanks to everyone who added something to the project so far:
 %1</source>
-      <translation>YIO is een open source project, dat profiteert van alle personen die een bijdrage leveren. Hartelijk dank aan iedereen die tot nu toe iets aan het project heeft toegevoegd:
+      <translation>YIO is een open source project, dat daarom profiteert van alle personen die een bijdrage leveren. Hartelijk dank aan iedereen die tot nu toe iets aan het project heeft toegevoegd:
 %1</translation>
     </message>
     <message>
@@ -221,7 +221,7 @@ Om meer te leren over het project, bezoek
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="119"/>
       <source>Guide</source>
-      <translation type="unfinished">Guide</translation>
+      <translation>Gids</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="129"/>
@@ -265,7 +265,7 @@ Om meer te leren over het project, bezoek
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerEPGView.qml" line="107"/>
       <source>EPG List</source>
-      <translation type="unfinished">EPG List</translation>
+      <translation>EPG lijst</translation>
     </message>
   </context>
   <context>
@@ -273,17 +273,17 @@ Om meer te leren over het project, bezoek
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="135"/>
       <source>Mute</source>
-      <translation type="unfinished">Mute</translation>
+      <translation>Dempen</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="160"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>Terug</translation>
     </message>
     <message>
       <location filename="../components/media_player/ui/CardMediaPlayerRemote.qml" line="185"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Menu</translation>
     </message>
   </context>
   <context>
@@ -357,7 +357,7 @@ Om meer te leren over het project, bezoek
     <message>
       <location filename="../components/media_player/ui/CardTVChannelList.qml" line="126"/>
       <source>TV Channel List</source>
-      <translation type="unfinished">TV Channel List</translation>
+      <translation>Zenderlijst</translation>
     </message>
   </context>
   <context>
@@ -398,7 +398,7 @@ Om meer te leren over het project, bezoek
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="50"/>
       <source>Show frames / second counter.</source>
-      <translation type="unfinished">Show frames / second counter.</translation>
+      <translation>Toon frames / tweede teller.</translation>
     </message>
     <message>
       <location filename="../sources/commandlinehandler.cpp" line="53"/>
@@ -416,7 +416,7 @@ Om meer te leren over het project, bezoek
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="53"/>
       <source>Navigate your internet browser to: http://</source>
-      <translation>Navigeer uw internetbrowser naar: http://</translation>
+      <translation>Navigeer met je internetbrowser naar: http://</translation>
     </message>
     <message>
       <location filename="../basic_ui/ConfigError.qml" line="53"/>
@@ -552,12 +552,12 @@ om de YIO afstandsbediening in te stellen</translation>
     <message>
       <location filename="../basic_ui/InitialSetup.qml" line="44"/>
       <source>Navigate your internet browser to: http://</source>
-      <translation>Navigeer uw internetbrowser naar: http://</translation>
+      <translation>Navigeer je internetbrowser naar: http://</translation>
     </message>
     <message>
       <location filename="../basic_ui/InitialSetup.qml" line="44"/>
       <source>Loading</source>
-      <translation type="unfinished">Loading</translation>
+      <translation>Aan het laden</translation>
     </message>
   </context>
   <context>
@@ -617,22 +617,22 @@ om de YIO afstandsbediening in te stellen</translation>
     <message>
       <location filename="../sources/launcher.cpp" line="55"/>
       <source>Incompatible plugin %1: metadata missing</source>
-      <translation type="unfinished">Incompatible plugin %1: metadata missing</translation>
+      <translation>Incompatibele plugin %1: metadata ontbreekt</translation>
     </message>
     <message>
       <location filename="../sources/launcher.cpp" line="60"/>
       <source>Incompatible plugin %1: integration lib mismatch</source>
-      <translation type="unfinished">Incompatible plugin %1: integration lib mismatch</translation>
+      <translation>Incompatibele plugin %1: Mismatch integratie lib</translation>
     </message>
     <message>
       <location filename="../sources/launcher.cpp" line="66"/>
       <source>Plugin %1 requires app version %2 or higher</source>
-      <translation type="unfinished">Plugin %1 requires app version %2 or higher</translation>
+      <translation>Plugin %1 vereist app versie %2 of hoger</translation>
     </message>
     <message>
       <location filename="../sources/launcher.cpp" line="73"/>
       <source>Failed to load %1</source>
-      <translation type="unfinished">Failed to load %1</translation>
+      <translation>Laden mislukt %1</translation>
     </message>
   </context>
   <context>
@@ -743,7 +743,7 @@ om de YIO afstandsbediening in te stellen</translation>
       <location filename="../sources/main.cpp" line="221"/>
       <source>Factory reset failed.
  %1</source>
-      <translation type="unfinished">Factory reset failed.
+      <translation>Terugzetten naar fabrieksinstellingen mislukt.
  %1</translation>
     </message>
   </context>
@@ -883,7 +883,7 @@ Navigate your internet browser to: http://</source>
     <message>
       <location filename="../setup/SetupStep3.qml" line="170"/>
       <source>Join other</source>
-      <translation type="unfinished">Join other</translation>
+      <translation>Verbinden met een andere</translation>
     </message>
   </context>
   <context>
@@ -911,22 +911,22 @@ Navigate your internet browser to: http://</source>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="105"/>
       <source>Enter your WiFi network credentials</source>
-      <translation type="unfinished">Enter your WiFi network credentials</translation>
+      <translation>Geef je WiFi wachtwoord</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="123"/>
       <source>SSID</source>
-      <translation type="unfinished">SSID</translation>
+      <translation>SSID</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="158"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Wachtwoord</translation>
     </message>
     <message>
       <location filename="../setup/SetupStep4Other.qml" line="207"/>
       <source>Join</source>
-      <translation type="unfinished">Join</translation>
+      <translation>Verbinden</translation>
     </message>
   </context>
   <context>
@@ -1236,7 +1236,7 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="188"/>
       <source>24-hour clock</source>
-      <translation type="unfinished">24-hour clock</translation>
+      <translation>24-uurs klok</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="218"/>
