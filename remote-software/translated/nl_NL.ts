@@ -1221,7 +1221,7 @@ YIO remote %1</translation>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="92"/>
       <source>Unit system</source>
-      <translation>Eenheid systeem</translation>
+      <translation>Eenheden</translation>
     </message>
     <message>
       <location filename="../basic_ui/settings/System.qml" line="131"/>
