@@ -221,7 +221,7 @@ Um mehr über das Projekt zu erfahren, besuche
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="119"/>
       <source>Guide</source>
-      <translation type="unfinished">Guide</translation>
+      <translation>Guide</translation>
     </message>
     <message>
       <location filename="../components/remote/ui/ir/CardButtonsTransport.qml" line="129"/>
